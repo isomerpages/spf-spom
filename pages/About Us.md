@@ -3,6 +3,9 @@ title: About Us
 permalink: /about/
 description: ""
 ---
+<style>.mission-main .ms-box img {
+  margin-bottom: 20px;
+}</style>
 <section>
         <div class="main-content">
             <div class="container">
