@@ -25,7 +25,7 @@ description: ""
                     <div class="row">
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
                             <div class="ms-box">
-                                <a href="heritage.html">![](/images/about-us-image-1.png)</a>
+                                <a href="heritage.html"><img src="/images/about-us-image-1.png"></a>
                                 <p>
                                     <a href="heritage.html">Heritage</a>
                                 </p>
@@ -33,7 +33,7 @@ description: ""
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
                             <div class="ms-box">
-                                <a href="constitution-mess-rule.html">![](/images/about-us-image-2.png)</a>
+                                <a href="constitution-mess-rule.html"><img src="/images/about-us-image-2.png"></a>
 
                                 <p>
                                     <a href="constitution-mess-rule.html">Constitution &amp; <br>Mess Rules</a>
@@ -44,7 +44,7 @@ description: ""
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
                             <div class="ms-box">
-                                <a href="mess-committee.html">![](/images/about-us-image-3.png)</a>
+                                <a href="mess-committee.html"><img src="/images/about-us-image-3.png"></a>
 
                                 <p>
                                     <a href="mess-committee.html">Mess <br> Committee</a>
