@@ -3,7 +3,6 @@ title: About Us
 permalink: /about/
 description: ""
 ---
-
 <section>
         <div class="main-content">
             <div class="container">
@@ -25,7 +24,7 @@ description: ""
                 <div class="about-image-container">
                     <div class="row">
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
-                            <div class="ms-box">
+                            <div style="padding:20px;min-height:320px;text-align:center;" class="ms-box">
                                 <a href="heritage.html"><img src="/images/about-us-image-1.png"></a>
                                 <p>
                                     <a href="heritage.html">Heritage</a>
@@ -33,7 +32,7 @@ description: ""
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
-                            <div class="ms-box">
+                            <div style="padding:20px;min-height:320px;text-align:center;" class="ms-box">
                                 <a href="constitution-mess-rule.html"><img src="/images/about-us-image-2.png"></a>
 
                                 <p>
@@ -44,7 +43,7 @@ description: ""
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
-                            <div class="ms-box">
+                            <div style="padding:20px;min-height:320px;text-align:center;" class="ms-box">
                                 <a href="mess-committee.html"><img src="/images/about-us-image-3.png"></a>
 
                                 <p>
@@ -54,7 +53,7 @@ description: ""
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
-                            <div class="ms-box">
+                            <div style="padding:20px;min-height:320px;text-align:center;" class="ms-box">
                                 <a href="pmc-gallery.html"><img src="/images/about-us-image-4.png">
                                 </a>
                                 <p>
