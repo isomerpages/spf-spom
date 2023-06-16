@@ -1,5 +1,0 @@
-collections:
-  top-bar:
-    output: true
-    order:
-      - Home.md
