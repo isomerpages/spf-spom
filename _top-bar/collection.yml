@@ -1,4 +1,5 @@
 collections:
   top-bar:
     output: true
-    order: []
+    order:
+      - Home.md
