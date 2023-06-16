@@ -5,6 +5,14 @@ description: ""
 ---
 <style>.mission-main .ms-box img {
   margin-bottom: 20px;
+}
+.mission-main .ms-box {
+  padding: 20px;
+  min-height: 320px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  cursor: pointer;
 }</style>
 <section>
         <div class="main-content">
