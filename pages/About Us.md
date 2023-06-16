@@ -54,7 +54,7 @@ description: ""
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
                             <div class="ms-box">
-                                <a href="pmc-gallery.html"><img src="images/about-us-image-4.png">
+                                <a href="pmc-gallery.html"><img src="/images/about-us-image-4.png">
                                 </a>
                                 <p>
                                     <a href="pmc-gallery.html">PMC <br> Gallery</a>
