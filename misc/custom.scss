@@ -4910,4 +4910,8 @@ b, strong {
     margin-bottom: 10px;
 }
 }
+
+a[href$=".pdf"]::before {
+    display: none;
+}
 /*# sourceMappingURL=style.css.map */
