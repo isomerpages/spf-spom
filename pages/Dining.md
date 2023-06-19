@@ -4,7 +4,7 @@ permalink: /dining/
 description: ""
 ---
 <script src="/style/jquery.js"></script>
-
+<link rel="stylesheet" href="/files/Assets/css/lightslider.css" />
 <script crossorigin="anonymous" integrity="sha512-sww7U197vVXpRSffZdqfpqDU2SNoFvINLX4mXt1D6ZecxkhwcHmLj3QcL2cJ/aCxrTkUcaAa6EGmPK3Nfitygw==" src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.js"></script>
 
 <div class="container">
