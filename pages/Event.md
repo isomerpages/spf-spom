@@ -3,15 +3,7 @@ title: Event
 permalink: /event/
 description: ""
 ---
-<div class="event-main">
-                <div class="container">
-                    <div class="event-inner">
-                        <div class="redeem-ttl col-xs-12">
-                            <h2>EVENT</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="event-main">                
             <div class="container event-container">
                 <div class="row justify-content-center event-highlights-main">
                     <div class="col-md-12 align-center text-center">
@@ -516,4 +508,4 @@ description: ""
                     </div>
                 </div>
 
-            </div>
+            </div></div>
