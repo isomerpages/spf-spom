@@ -5,7 +5,7 @@ description: ""
 ---
 <script src="/style/jquery.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.js" integrity="sha512-sww7U197vVXpRSffZdqfpqDU2SNoFvINLX4mXt1D6ZecxkhwcHmLj3QcL2cJ/aCxrTkUcaAa6EGmPK3Nfitygw==" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" integrity="sha512-sww7U197vVXpRSffZdqfpqDU2SNoFvINLX4mXt1D6ZecxkhwcHmLj3QcL2cJ/aCxrTkUcaAa6EGmPK3Nfitygw==" src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.js"></script>
 
 <div class="container">
                 <div class="row justify-content-center dining-highlights-main">
@@ -47,8 +47,8 @@ description: ""
                                 </tr>
                             </tbody></table>
                             <div class="btn-container dining-btn">
-                                <a target="_blank" href="/files/Assets/media/files/SPOM_TPB_Menu.pdf" class="detail-btn pull-left">Menu</a>
-                                <a target="_blank" href="/files/Assets/media/files/Festive_Menu_TPB.pdf" class="detail-btn pull-left">Promotion</a>
+                                <a class="detail-btn pull-left" href="/files/Assets/media/files/SPOM_TPB_Menu.pdf" target="_blank">Menu</a>
+                                <a class="detail-btn pull-left" href="/files/Assets/media/files/Festive_Menu_TPB.pdf" target="_blank">Promotion</a>
                             </div>
 
                         </div>
@@ -56,9 +56,9 @@ description: ""
 
                             <div class="demo">
                                 <div class="item">
-                                    <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                                        <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
-                                            <li data-thumb="/files/Assets/media/dining/thumb/dine-thumb-1.jpg" width="100%">
+                                    <div style="max-width:474px;margin: 0 auto;" class="clearfix">
+                                        <ul class="gallery list-unstyled cS-hidden" id="image-gallery">
+                                            <li width="100%" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-1.jpg">
                                                 <img src="/files/Assets/media/dining/dine-1.jpg">
                                             </li>
                                             <li data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
