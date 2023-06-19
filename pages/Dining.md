@@ -55,27 +55,23 @@ description: ""
                             <div class="demo">
                                 <div class="item">
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
-                                        <div class="lSSlideOuter"><div style="transition-duration: 500ms; transition-timing-function: ease;" class="lSSlideWrapper usingCss"><ul style="width: 2844px; transform: translate3d(-1896px, 0px, 0px); height: 338px; padding-bottom: 0%;" class="gallery list-unstyled lightSlider lsGrab lSSlide" id="image-gallery"><li style="width: 474px; margin-right: 0px;" class="clone left" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
-                                                <img src="/files/Assets/media/dining/dine-2.jpg">
-                                            </li>
-                                            <li style="width: 474px; margin-right: 0px;" class="lslide" width="100%" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-1.jpg">
+                                        <ul class="gallery list-unstyled cS-hidden" id="image-gallery">
+                                            <li width="100%" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-1.jpg">
                                                 <img src="/files/Assets/media/dining/dine-1.jpg">
                                             </li>
-                                            <li style="width: 474px; margin-right: 0px;" class="lslide" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
+                                            <li data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
                                                 <img src="/files/Assets/media/dining/dine-2.jpg">
                                             </li>
-                                            <li style="width: 474px; margin-right: 0px;" class="lslide" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-3.jpg">
+                                            <li data-thumb="/files/Assets/media/dining/thumb/dine-thumb-3.jpg">
                                                 <img src="/files/Assets/media/dining/dine-3.jpg">
                                             </li>
-                                            <li style="width: 474px; margin-right: 0px;" class="lslide active" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
+                                            <li data-thumb="/files/Assets/media/dining/thumb/dine-thumb-2.jpg">
                                                 <img src="/files/Assets/media/dining/dine-2.jpg">
                                             </li>
 
 
 
-                                        <li style="width: 474px; margin-right: 0px;" class="clone right" width="100%" data-thumb="/files/Assets/media/dining/thumb/dine-thumb-1.jpg">
-                                                <img src="/files/Assets/media/dining/dine-1.jpg">
-                                            </li></ul><div class="lSAction"><a class="lSPrev"></a><a class="lSNext"></a></div></div><ul style="margin-top: 5px; transition-duration: 500ms; width: 213.389px; transform: translate3d(0px, 0px, 0px);" class="lSPager lSGallery"><li class="" style="width:100%;width:48.22222222222222px;margin-right:5px"><a href="#"><img src="/files/Assets/media/dining/thumb/dine-thumb-1.jpg"></a></li><li class="" style="width:100%;width:48.22222222222222px;margin-right:5px"><a href="#"><img src="/files/Assets/media/dining/thumb/dine-thumb-2.jpg"></a></li><li class="" style="width:100%;width:48.22222222222222px;margin-right:5px"><a href="#"><img src="/files/Assets/media/dining/thumb/dine-thumb-3.jpg"></a></li><li class="active" style="width:100%;width:48.22222222222222px;margin-right:5px"><a href="#"><img src="/files/Assets/media/dining/thumb/dine-thumb-2.jpg"></a></li></ul></div>
+                                        </ul>
                                     </div>
                                 </div>
 
