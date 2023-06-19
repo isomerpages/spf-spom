@@ -335,3 +335,12 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.mission-main .ms-box {
+  padding: 20px;
+  min-height: 320px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  cursor: pointer;
+}
