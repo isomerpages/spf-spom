@@ -4,8 +4,6 @@ permalink: /event/
 description: ""
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"></script>
 <div class="event-main">                
             <div class="container event-container">
                 <div class="row justify-content-center event-highlights-main">
