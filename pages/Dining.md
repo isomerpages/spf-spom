@@ -3,6 +3,29 @@ title: Dining
 permalink: /dining/
 description: ""
 ---
+<link rel="stylesheet" href="/files/Assets/css/lightslider.css" />
+<script src="/files/Assets/jquery/lightslider.js"></script>
+<script>
+        $(document).ready(function() {
+            $("#content-slider").lightSlider({
+                loop: true,
+                keyPress: true
+            });
+            $('#image-gallery').lightSlider({
+                gallery: true,
+                item: 1,
+                thumbItem: 9,
+                slideMargin: 0,
+                speed: 500,
+                auto: true,
+                loop: true,
+                pause: 5000,
+                onSliderLoad: function() {
+                    $('#image-gallery').removeClass('cS-hidden');
+                }
+            });
+        });
+    </script>
 <div class="container">
                 <div class="row justify-content-center dining-highlights-main">
                     <div class="col-12 col-md-12 align-center text-center">                        
