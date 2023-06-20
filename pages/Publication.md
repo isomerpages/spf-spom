@@ -3,7 +3,6 @@ title: Publication
 permalink: /publication/
 description: ""
 ---
-<script type="javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"></script>
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/publication-bg.jpg) no-repeat center center !important;
         background-size: auto;
@@ -25,7 +24,7 @@ description: ""
 				<div class="row">
 						<div class="col-sm-6 col-12">
 								<div class="ms-box">
-										<a data-target="#myModalbookA" data-toggle="modal" href="">
+										<a href="/files/Assets/media/files/SPOM_Annual_2017.pdf">
 												<img src="/files/Assets/images/spom-annual-2017.jpg">
 												<p>
 														Annual Report 2017
@@ -35,7 +34,7 @@ description: ""
 						</div>
 						<div class="col-sm-6 col-12">
 								<div class="ms-box">
-										<a data-target="#myModalbookB" data-toggle="modal" href="">
+										<a href="/files/Assets/media/files/SPOM_Annual_2018.pdf">
 												<img src="/files/Assets/images/spom-annual-2018.jpg">
 												<p>Annual Report 2018</p>
 										</a>
@@ -43,35 +42,4 @@ description: ""
 						</div>
 				</div>
 		</div>
-</div>
-<div role="dialog" class="modal fade book-modal" id="myModalbookA">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h4 class="modal-title">Annual Report 2017</h4>
-                    <button data-dismiss="modal" class="close" type="button">×</button>
-                </div>
-                <div class="modal-body">                    
-                </div>
-                <div class="modal-footer">
-                    <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>    
-<div role="dialog" class="modal fade book-modal" id="myModalbookB">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h4 class="modal-title">Annual Report 2018</h4>
-                    <button data-dismiss="modal" class="close" type="button">×</button>
-                </div>
-                <div class="modal-body">
-                    
-                </div>
-                <div class="modal-footer">
-                    <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
-                </div>
-            </div>
-        </div>
 </div>
