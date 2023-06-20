@@ -67,3 +67,13 @@ description: ""
             </div>
         </div>
     </section>
+    <style>
+    .bp-section-pagetitle {
+        background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center;
+        background-color: rgba(0, 0, 0, 0);
+        background-size: auto;
+        background-size: auto;
+        background-size: 100%;
+        height: 338px;
+    }
+</style>
