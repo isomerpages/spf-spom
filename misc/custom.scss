@@ -4927,9 +4927,16 @@ h1.has-text-white {
   text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
   text-align: center;
   padding-top: 0px;
+  text-transform: uppercase;
 }
 .masthead-container {
   background-color: #ebe7e4;
+}
+.navbar {
+  background: #EBE7E4;
+}
+.nav-item a {
+  text-decoration: none;
 }
 /*# sourceMappingURL=style.css.map */
 
