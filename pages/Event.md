@@ -3,6 +3,12 @@ title: Event
 permalink: /event/
 description: ""
 ---
+<style type="text/css">.bp-section-pagetitle {
+        background: url(/files/Assets/images/event-bg.jpg) no-repeat center center !important;
+        background-size: auto;
+        background-size: 100% !important;
+        height: 338px !important;
+    }</style>
 <div class="event-main">                
             <div class="container event-container">
                 <div class="row justify-content-center event-highlights-main">
