@@ -3,6 +3,12 @@ title: About Us
 permalink: /about/
 description: ""
 ---
+<style type="text/css">.bp-section-pagetitle {
+        background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center !important;
+        background-size: auto;
+        background-size: 100% !important;
+        height: 338px !important;
+    }</style>
 <section>
         <div class="main-content">
             <div class="container">
@@ -67,11 +73,4 @@ description: ""
             </div>
         </div>
     </section>
-    <style>
-    .bp-section-pagetitle {
-        background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center !important;
-        background-size: auto;
-        background-size: 100% !important;
-        height: 338px !important;
-    }
-</style>
+    
