@@ -3,7 +3,6 @@ title: Publication
 permalink: /publication/
 description: ""
 ---
-<script src="" type="text/javascript"></script>
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/publication-bg.jpg) no-repeat center center !important;
         background-size: auto;
