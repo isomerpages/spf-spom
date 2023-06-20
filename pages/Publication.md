@@ -10,7 +10,7 @@ description: ""
         height: 338px !important;
     }</style>
 		
-	<div class="container">
+<div class="container">
                 <div class="row justify-content-center publication-highlights-main">
                     <div class="col-12 col-md-12 align-center text-center">
                         
@@ -49,3 +49,4 @@ description: ""
                     </div>
                 </div>
             </div>
+	
