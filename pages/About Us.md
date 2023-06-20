@@ -69,11 +69,9 @@ description: ""
     </section>
     <style>
     .bp-section-pagetitle {
-        background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center;
-        background-color: rgba(0, 0, 0, 0);
+        background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: auto;
-        background-size: 100%;
-        height: 338px;
+        background-size: 100% !important;
+        height: 338px !important;
     }
 </style>
