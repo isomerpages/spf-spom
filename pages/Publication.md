@@ -43,36 +43,30 @@ description: ""
 				</div>
 		</div>
 </div>
-<!-- Modal -->
-    <!-- book A modal -->
-    <div role="dialog" class="modal fade book-modal" id="myModalbookA">
+<div role="dialog" class="modal fade book-modal" id="myModalbookA">
         <div class="modal-dialog modal-lg">
-            <!-- Modal content-->
             <div class="modal-content">
                 <div class="modal-header">
                     <h4 class="modal-title">Annual Report 2017</h4>
                     <button data-dismiss="modal" class="close" type="button">×</button>
                 </div>
-                <div class="modal-body">
-                    
+                <div class="modal-body">                    
                 </div>
                 <div class="modal-footer">
                     <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- book B modal -->
-    <div role="dialog" class="modal fade book-modal" id="myModalbookB">
+    </div>    
+<div role="dialog" class="modal fade book-modal" id="myModalbookB">
         <div class="modal-dialog modal-lg">
-            <!-- Modal content-->
             <div class="modal-content">
                 <div class="modal-header">
                     <h4 class="modal-title">Annual Report 2018</h4>
                     <button data-dismiss="modal" class="close" type="button">×</button>
                 </div>
                 <div class="modal-body">
-                    <iframe src="/files/Assets/media/files/SPOM_Annual_2018.pdf"></iframe>
+                    
                 </div>
                 <div class="modal-footer">
                     <button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
