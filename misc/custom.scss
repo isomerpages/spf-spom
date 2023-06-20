@@ -1539,8 +1539,10 @@ header .container {
         display: none;
     }
 }
-
-.navbar-nav .nav-link {
+.navbar .navbar-item a {
+	text-decoration: none;
+}
+.navbar-nav .nav-link, .navbar .navbar-item a {
     color: #414042 !important;
     font-size: 14px !important;
     line-height: 23px !important;
@@ -1553,7 +1555,7 @@ header .container {
     padding-right: 0px;
 }
 
-.navbar-nav .nav-link:before {
+.navbar-nav .nav-link:before, .navbar .navbar-item a:before {
     content: "";
     position: absolute;
     z-index: -2;
@@ -4916,6 +4918,18 @@ b, strong {
 
 a[href$=".pdf"]::before {
     display: none;
+}
+
+h1.has-text-white {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: "nowbold";
+  text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  padding-top: 0px;
+}
+.masthead-container {
+  background-color: #ebe7e4;
 }
 /*# sourceMappingURL=style.css.map */
 
