@@ -1540,7 +1540,8 @@ header .container {
     }
 }
 .navbar .navbar-item a {
-	text-decoration: none;
+   text-decoration: none;
+   font-weight: normal';
 }
 .navbar-nav .nav-link, .navbar .navbar-item a {
     color: #414042 !important;
@@ -4934,6 +4935,7 @@ h1.has-text-white {
 }
 .navbar {
   background: #EBE7E4;
+  padding: 40px;
 }
 .nav-item a {
   text-decoration: none;
