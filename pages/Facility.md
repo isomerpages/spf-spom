@@ -3,7 +3,12 @@ title: Facility
 permalink: /facility/
 description: ""
 ---
-
+<style type="text/css">.bp-section-pagetitle {
+        background: url(/files/Assets/images/facility-bg.jpg) no-repeat center center !important;
+        background-size: auto;
+        background-size: 100% !important;
+        height: 338px !important;
+    }</style>
 <div class="container">
                 <div class="row justify-content-center facility-highlights-main">
                     <div class="col-12 col-md-12 align-center">
