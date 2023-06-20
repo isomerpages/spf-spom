@@ -9,6 +9,7 @@ description: ""
         background-size: 100% !important;
         height: 338px !important;
     }</style>
+
 <div class="event-main">                
             <div class="container event-container">
                 <div class="row justify-content-center event-highlights-main">
