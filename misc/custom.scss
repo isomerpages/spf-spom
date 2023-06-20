@@ -2751,11 +2751,14 @@ header .container {
 }
 .event-navs  .nav-item{
     z-index:9 !important;
+    list-style: none;
+    margin-bottom: 0 !important;
 }
 .event-navs .nav-link{
     min-width:160px !important;
     padding:15px !important;
     font-family:"nowbold" !important;
+    text-decoration: none;
 }
 .event-navs .nav-link.active{
     background-color:#1e1d56 !important;
