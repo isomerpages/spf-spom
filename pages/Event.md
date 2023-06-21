@@ -79,7 +79,7 @@ description: ""
     <label for="tab2-1">One</label>
     <input id="tab2-1" name="tabs-two" type="radio" checked="checked">
     <div>
-      <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+      <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                 <div class="row">
                                     <div class="event">
                                         <div class="col-12 col-sm-6">
@@ -213,8 +213,7 @@ description: ""
     <label for="tab2-2">Two</label>
     <input id="tab2-2" name="tabs-two" type="radio">
     <div>
-      <!-- -----2018 -->
-                            <div class="tab-pane fade" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
+              <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
                                 <div class="row">
                                     <div class="event">
                                         <div class="col-12 col-sm-6">
@@ -251,10 +250,7 @@ description: ""
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
-
-
                                 <div class="row">
                                     <div class="event">
                                         <div class="col-12 col-sm-6">
@@ -295,7 +291,6 @@ description: ""
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                                 <div class="row">
                                     <div class="event">
@@ -332,7 +327,6 @@ description: ""
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                                 <div class="row">
                                     <div class="event">
@@ -387,7 +381,6 @@ description: ""
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                                 <div class="row">
                                     <div class="event">
