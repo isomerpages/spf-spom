@@ -61,14 +61,14 @@ description: ""
   border-top: 3px solid #000;
 }
 </style>
-<input class="radio" id="one" name="group" type="radio" checked>
+<input class="radio" id="one" name="group" type="radio" checked="">
   <input class="radio" id="two" name="group" type="radio">
   <input class="radio" id="three" name="group" type="radio">
   <div class="tabs">
   <label class="tab" id="one-tab" for="one">CSS</label>
   <label class="tab" id="two-tab" for="two">Skills</label>
   <label class="tab" id="three-tab" for="three">Prerequisites</label>
-    </div>
+  </div>
   <div class="panels">
   <div class="panel" id="one-panel">
     <div class="panel-title">Why Learn CSS?</div>
@@ -83,7 +83,7 @@ description: ""
     <p>We recommend that you complete Learn HTML before learning CSS.</p>
   </div>
   </div>
-</div>
+
 <div class="event-main">                
     <div class="container event-container">
         <div class="row justify-content-center event-highlights-main">
