@@ -9,199 +9,159 @@ description: ""
         background-size: 100% !important;
         height: 338px !important;
     }
-.tabs{
-    width: 600px;
-    display: block;
-    margin: 40px auto;
-    position: relative;
-}
-.tabs .tab{
-    float: left;
-    display: block;
-}
-.tabs .tab>input[type="radio"] {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-}
-.tabs .tab>label {
-    display: block;
-    padding: 6px 21px;
-    font-size: 12px;
-    text-transform: uppercase;
-    cursor: pointer;
-    position: relative;
-    color: #FFF;
-    background: #4A83FD;
-}
-.tabs .content {
-    z-index: 0;/* or display: none; */
-    overflow: hidden;
-    width: 600px;
-    padding: 25px;
-    position: absolute;
-    top: 27px;
-    left: 0;
-    background: #303030;
-    color: #DFDFDF;    
-    opacity:0;
-    transition: opacity 400ms ease-out;
-}
-.tabs>.tab>[id^="tab"]:checked + label {
-    top: 0;
-    background: #303030;
-    color: #F5F5F5;
-}
-.tabs>.tab>[id^="tab"]:checked ~ [id^="tab-content"] {
-    z-index: 1;/* or display: block; */   
-    opacity: 1;
-    transition: opacity 400ms ease-out;
-}
 </style>
 <div class="event-main">                
     <div class="container event-container">
         <div class="row justify-content-center event-highlights-main">
             <div class="col-md-12 align-center text-center">
-                <ul class="nav nav-pills event-navs tabs" id="pills-tab" role="tablist">
-                    <li class="nav-item tab">
-                        <!--<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">2019</a>-->
-                        <input type="radio" name="tabs" checked="checked" id="tab1" />
-                        <label for="tab1">2019</label>
-                        <!-- ------2019------ -->
-                        <div class="tab-pane fade show active content" id="tab-content1" role="tabpanel" aria-labelledby="pills-home-tab">
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2019/event-1.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOM Happy Hour</h3>
-                                            <span class="event-date">
-                                             26 July 2019
-                                         </span>
-                                            <p>
-                                                On the idyllic Friday evening of 26 July 2019, officers relaxed in the comfort of the SPOM Lounge and Ante Hall after hours. Mugs clinked and toasts were made amid the excited conversation that flowed freely
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2019/event-2.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOM Durian Night</h3>
+                <ul class="nav nav-pills event-navs" id="pills-tab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">2019</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills2018-tab" data-toggle="pill" href="#pills2018" role="tab" aria-controls="pills2018" aria-selected="false">2018</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">2017</a>
+                    </li>
 
-                                            <span class="event-date">
-                                         12 July 2019
-                                      </span>
-                                            <p>
-                                                The familiar aroma of durians first greeted the guests as they arrived and it was evident, “The King is back”. The evening kicked off with the traditional opening of the first durian by our Guests of Honour, the Commissioner of Police, Mr Hoong Wee Teck,
-                                                and the Attorney-General of the Republic of Singapore, Mr Lucien Wong.
+                </ul>
+                <!-- ------2019------ -->
+                <div class="tab-content event-tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2019/event-1.png" alt="spom happy hour">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOM Happy Hour</h3>
+                                        <span class="event-date">
+                                         26 July 2019
+                                     </span>
+                                        <p>
+                                            On the idyllic Friday evening of 26 July 2019, officers relaxed in the comfort of the SPOM Lounge and Ante Hall after hours. Mugs clinked and toasts were made amid the excited conversation that flowed freely
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
 
-                                            </p>
-                                            <p>SPOM members had an enjoyable evening savouring the “King” and other tropical fruits. As always, SPOM members left satiated and all durian cravings fulfilled!</p>
-                                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2019/event-2.png" alt="spom happy hour">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOM Durian Night</h3>
+
+                                        <span class="event-date">
+                                     12 July 2019
+                                  </span>
+                                        <p>
+                                            The familiar aroma of durians first greeted the guests as they arrived and it was evident, “The King is back”. The evening kicked off with the traditional opening of the first durian by our Guests of Honour, the Commissioner of Police, Mr Hoong Wee Teck,
+                                            and the Attorney-General of the Republic of Singapore, Mr Lucien Wong.
+
+                                        </p>
+                                        <p>SPOM members had an enjoyable evening savouring the “King” and other tropical fruits. As always, SPOM members left satiated and all durian cravings fulfilled!</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2019/whiskeynight.jpg" alt="WHISKY APPRECIATION NIGHT">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
-                                            <span class="event-date">
-                                            3 March 2019
-                                         </span>
-                                            <div id="section" class="show-more-wrp">
-                                                <div class="article">
-                                                    <p>
-                                                        Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”.
-                                                    </p>
-                                                    <p>
-                                                        The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it.
-                                                    </p>
-                                                    <p class="moretext moretextone">
-                                                        Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles
-                                                        to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face!
-                                                    </p>
-                                                    <p class="moretext moretextone">
-                                                        “An excellent event to have a mini reunion accompanied by a sophisticated drink!”<br>
-                                                        <strong>Mr Seah Tong Pin, Lima Division</strong>
-                                                    </p>
-                                                    <p class="moretext moretextone">
-                                                        “An educational night where we learnt more about Whisky”<br>
-                                                        <strong>Mr Luther Kim, Ops Dept</strong>
-                                                    </p>
-                                                </div>
-                                                <a class="moreless-button moreless-button-one">more +</a>
-                                            </div>
-                                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2019/whiskeynight.jpg" alt="WHISKY APPRECIATION NIGHT">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="event no-border">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2019/spomlympic_2019.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOMlympics</h3>
-                                            <span class="event-date">
-                                            25 January 2019
-                                            </span>
-                                            <div id="section" class="show-more-wrp">
-                                                <div class="article">
-                                                    <p>
-                                                        On 25 Jan 2019, SPOMlympics saw a total of 26 teams comprising more than 100 members from various units coming together to compete. Members faced the challenge of evading arrows shot at them in Archery Tag, non-stop shooting into hoops at the Basketball
-                                                        Shootout and having adrenaline acceleration with a game of Daytona racing.
-                                                    </p>
-                                                    <p>
-                                                        After an exciting evening of hits and misses, members gathered in the Ante Hall for the address by Mr How Kwang Hwee, the President of the Mess Committee (PMC) and the prize presentation.
-                                                    </p>
-                                                    <p class="moretext moretexttwo">
-                                                        The prize presentation started with the SPOM running challenge where Alpha Division clinched the Challenge Shield once again. Apart from the top three team prizes from SPOMlympics, nine other prizes were given out to outstanding individuals for their
-                                                        special “abilities”, ranging from being the “Butter Finger” at Basketball Shootout to “King of the Road” at Daytona. The event ended with a sumptuous dinner and smiles all around.
-                                                    </p>
-                                                    <p class="moretext moretexttwo">
-                                                        “Really enjoyed the fun and laughter created! Kudos to the committee. It is a testament of hardwork and planning put together by the team.”<br>
-                                                        <strong>Mr Alex Tan, ProCom</strong>
-                                                    </p>
-                                                    <p class="moretext moretexttwo">
-                                                        “A great evening, jam-packed with fun games, good company and laughter all round!”.<br>
-                                                        <strong>Mr Andrew Ong, P&amp;O</strong>
-                                                    </p>
-                                                </div>
-                                                <a class="moreless-button moreless-button-two">more +</a>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
+                                        <span class="event-date">
+                                        3 March 2019
+                                     </span>
+                                        <div id="section" class="show-more-wrp">
+                                            <div class="article">
+                                                <p>
+                                                    Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”.
+                                                </p>
+                                                <p>
+                                                    The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it.
+                                                </p>
+                                                <p class="moretext moretextone">
+                                                    Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles
+                                                    to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face!
+                                                </p>
+                                                <p class="moretext moretextone">
+                                                    “An excellent event to have a mini reunion accompanied by a sophisticated drink!”<br>
+                                                    <strong>Mr Seah Tong Pin, Lima Division</strong>
+                                                </p>
+                                                <p class="moretext moretextone">
+                                                    “An educational night where we learnt more about Whisky”<br>
+                                                    <strong>Mr Luther Kim, Ops Dept</strong>
+                                                </p>
                                             </div>
+                                            <a class="moreless-button moreless-button-one">more +</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </li>
-                    <li class="nav-item tab">
-                        <!--<a class="nav-link" id="pills2018-tab" data-toggle="pill" href="#pills2018" role="tab" aria-controls="pills2018" aria-selected="false">2018</a>-->
-                        <input type="radio" name="tabs" id="tab2" />
-                        <label for="tab2">2018</label>                        
-                        <!-- -----2018 -->
-                        <div class="tab-pane fade content" id="tab-content2" role="tabpanel" aria-labelledby="pills2018-tab">
+                        <div class="row">
+                            <div class="event no-border">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2019/spomlympic_2019.png" alt="spom happy hour">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOMlympics</h3>
+                                        <span class="event-date">
+                                        25 January 2019
+                                        </span>
+                                        <div id="section" class="show-more-wrp">
+                                            <div class="article">
+                                                <p>
+                                                    On 25 Jan 2019, SPOMlympics saw a total of 26 teams comprising more than 100 members from various units coming together to compete. Members faced the challenge of evading arrows shot at them in Archery Tag, non-stop shooting into hoops at the Basketball
+                                                    Shootout and having adrenaline acceleration with a game of Daytona racing.
+                                                </p>
+                                                <p>
+                                                    After an exciting evening of hits and misses, members gathered in the Ante Hall for the address by Mr How Kwang Hwee, the President of the Mess Committee (PMC) and the prize presentation.
+                                                </p>
+                                                <p class="moretext moretexttwo">
+                                                    The prize presentation started with the SPOM running challenge where Alpha Division clinched the Challenge Shield once again. Apart from the top three team prizes from SPOMlympics, nine other prizes were given out to outstanding individuals for their
+                                                    special “abilities”, ranging from being the “Butter Finger” at Basketball Shootout to “King of the Road” at Daytona. The event ended with a sumptuous dinner and smiles all around.
+                                                </p>
+                                                <p class="moretext moretexttwo">
+                                                    “Really enjoyed the fun and laughter created! Kudos to the committee. It is a testament of hardwork and planning put together by the team.”<br>
+                                                    <strong>Mr Alex Tan, ProCom</strong>
+                                                </p>
+                                                <p class="moretext moretexttwo">
+                                                    “A great evening, jam-packed with fun games, good company and laughter all round!”.<br>
+                                                    <strong>Mr Andrew Ong, P&amp;O</strong>
+                                                </p>
+                                            </div>
+                                            <a class="moreless-button moreless-button-two">more +</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    <!-- -----2018 -->
+
+                    <div class="tab-pane fade" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
                         <div class="row">
                             <div class="event">
                                 <div class="col-12 col-sm-6">
@@ -238,7 +198,10 @@ description: ""
                                     </div>
                                 </div>
                             </div>
+
                         </div>
+
+
                         <div class="row">
                             <div class="event">
                                 <div class="col-12 col-sm-6">
@@ -279,6 +242,7 @@ description: ""
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                         <div class="row">
                             <div class="event">
@@ -315,6 +279,7 @@ description: ""
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                         <div class="row">
                             <div class="event">
@@ -447,107 +412,105 @@ description: ""
 
                         </div>
                     </div>
-                    </li>
-                    <li class="nav-item tab">
-                        <!--<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">2017</a>-->
-                        <input type="radio" name="tabs" id="tab3" />
-                        <label for="tab2">2017</label>                        
-                        <!-- -----2017 -->
-                        <div class="tab-pane fade content" id="tab-content3" role="tabpanel" aria-labelledby="pills-profile-tab">
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2017-2019/golf_2017.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOM Medal 2017 (Golf) </h3>
-                                            <span class="event-date">
-                                            24 March 2017
-                                         </span>
-                                            <p>
-                                                The 12th SPOM Golf Medal, which was co-organised by SPOM Sport Sub-Committee and Police Golfing Society, saw a total of 34 SPOM members competing at the 18-hole course at Seletar Country Club (SCC) on 24 Mar 2017.
 
-                                            </p>
 
-                                        </div>
+
+
+                    <!-- -----2017 -->
+                    <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2017-2019/golf_2017.png" alt="spom happy hour">
                                     </div>
                                 </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOM Medal 2017 (Golf) </h3>
+                                        <span class="event-date">
+                                        24 March 2017
+                                     </span>
+                                        <p>
+                                            The 12th SPOM Golf Medal, which was co-organised by SPOM Sport Sub-Committee and Police Golfing Society, saw a total of 34 SPOM members competing at the 18-hole course at Seletar Country Club (SCC) on 24 Mar 2017.
 
-                            </div>
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2017-2019/photography_2017.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOM Basic Photography Course</h3>
-                                            <span class="event-date">
-                                        24 February 2017
-                                      </span>
-                                            <p>
-                                                Our members at the inaugural SPOM Basic Photography Course were taught the key elements and technical aspects to photography, and the 6 golden principles to capturing a great image.
+                                        </p>
 
-                                            </p>
-
-                                        </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="row">
-                                <div class="event">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2017-2019/spomlympic_2017.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOMlympics</h3>
-                                            <span class="event-date">
-                                           6 February 2017
-                                         </span>
-                                            <p>
-                                                The Loser Tog "battle field" came to life as participant took to the SPOM tennis courts in teams of four with a single aim - to gain victory by securing a symbolic red flag. The game was not only physically challenging, requiring teamwork, quick reflexes
-                                                and a significant amount of running, it also saw officers cracking their brains to devise the best strategies to outdo each other.
-                                            </p>
-
-                                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2017-2019/photography_2017.png" alt="spom happy hour">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="event no-border">
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-image">
-                                            <img src="/files/Assets/media/event/2017-2019/durian_2017.png" alt="spom happy hour">
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-6">
-                                        <div class="event-details">
-                                            <h3 class="event-title">SPOM Durian Night</h3>
-                                            <span class="event-date">
-                                                20 January 2017 
-                                             </span>
-                                            <p>
-                                                SPOM was honoured to have our Minister for Home Affairs, Mr K. Shanmugam and his wife, Dr. Seetha Shanmugam gracing the event with 180 SPOM members!
-                                            </p>
-                                            <p>The evening saw more than 400 kilograms of quality D13, D24, Red Prawn and Mao Shan Wang durians being served and it was certainly a well-rounded experience for our members' palates as they satisfied their
-                                                cravings, caught up with colleagues and interacted with our Minister.</p>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOM Basic Photography Course</h3>
+                                        <span class="event-date">
+                                    24 February 2017
+                                  </span>
+                                        <p>
+                                            Our members at the inaugural SPOM Basic Photography Course were taught the key elements and technical aspects to photography, and the 6 golden principles to capturing a great image.
 
-                                        </div>
+                                        </p>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </li>
-                </ul>
+
+                        <div class="row">
+                            <div class="event">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2017-2019/spomlympic_2017.png" alt="spom happy hour">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOMlympics</h3>
+                                        <span class="event-date">
+                                       6 February 2017
+                                     </span>
+                                        <p>
+                                            The Loser Tog "battle field" came to life as participant took to the SPOM tennis courts in teams of four with a single aim - to gain victory by securing a symbolic red flag. The game was not only physically challenging, requiring teamwork, quick reflexes
+                                            and a significant amount of running, it also saw officers cracking their brains to devise the best strategies to outdo each other.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="event no-border">
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-image">
+                                        <img src="/files/Assets/media/event/2017-2019/durian_2017.png" alt="spom happy hour">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="event-details">
+                                        <h3 class="event-title">SPOM Durian Night</h3>
+                                        <span class="event-date">
+                                            20 January 2017 
+                                         </span>
+                                        <p>
+                                            SPOM was honoured to have our Minister for Home Affairs, Mr K. Shanmugam and his wife, Dr. Seetha Shanmugam gracing the event with 180 SPOM members!
+                                        </p>
+                                        <p>The evening saw more than 400 kilograms of quality D13, D24, Red Prawn and Mao Shan Wang durians being served and it was certainly a well-rounded experience for our members' palates as they satisfied their
+                                            cravings, caught up with colleagues and interacted with our Minister.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
