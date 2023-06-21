@@ -48,16 +48,15 @@ description: ""
   float: right;
 }
 </style>
-  
-  <ul role="tablist" class="nav nav-pills">
-      <li class="nav-item">
+<ul role="tablist" class="nav nav-pills">
+     <li class="nav-item">
         <a href="#login" data-toggle="pill" class="nav-link active">Login</a>
       </li>
       <li class="nav-item">
         <a href="#regis" data-toggle="pill" class="nav-link">Register</a>
       </li>
-    </ul>
-    <div class="tab-content">
+</ul>
+<div class="tab-content">
       <div class="container tab-pane active" id="login">
         test
       </div>
