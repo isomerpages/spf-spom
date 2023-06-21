@@ -3,7 +3,6 @@ title: Event
 permalink: /event/
 description: ""
 ---
-
 <input class="radio" id="one" name="group" type="radio" checked="">
   <input class="radio" id="two" name="group" type="radio">
   <input class="radio" id="three" name="group" type="radio">
