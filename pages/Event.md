@@ -3,56 +3,7 @@ title: Event
 permalink: /event/
 description: ""
 ---
-<style type="text/css">.bp-section-pagetitle {
-        background: url(/files/Assets/images/event-bg.jpg) no-repeat center center !important;
-        background-size: auto;
-        background-size: 100% !important;
-        height: 338px !important;
-    }
-        .tab{
-  cursor: pointer;
-  padding:10px 20px;
-  margin:0px 2px;
-  background:#000;
-  display:inline-block;
-  color:#fff;
-  border-radius:3px 3px 0px 0px;
-  box-shadow: 0 0.5rem 0.8rem #00000080;
-}
-.panels{
-  background:#fffffff6;
-  box-shadow: 0 2rem 2rem #00000080;
-  min-height:200px;
-  width:100%;
-  max-width:500px;
-  border-radius:3px;
-  overflow:hidden;
-  padding:20px;  
-}
-.panel{
-  display:none;
-  animation: fadein .8s;
-}
-.panel-title{
-  font-size:1.5em;
-  font-weight:bold
-}
-.radio{
-  display:none;
-}
-#one:checked ~ .panels #one-panel,
-#two:checked ~ .panels #two-panel,
-#three:checked ~ .panels #three-panel{
-  display:block
-}
-#one:checked ~ .tabs #one-tab,
-#two:checked ~ .tabs #two-tab,
-#three:checked ~ .tabs #three-tab{
-  background:#fffffff6;
-  color:#000;
-  border-top: 3px solid #000;
-}
-</style>
+
 <input class="radio" id="one" name="group" type="radio" checked="">
   <input class="radio" id="two" name="group" type="radio">
   <input class="radio" id="three" name="group" type="radio">
@@ -581,3 +532,53 @@ description: ""
         </div>
     </div>
 </div>
+<style type="text/css">.bp-section-pagetitle {
+        background: url(/files/Assets/images/event-bg.jpg) no-repeat center center !important;
+        background-size: auto;
+        background-size: 100% !important;
+        height: 338px !important;
+    }
+        .tab{
+  cursor: pointer;
+  padding:10px 20px;
+  margin:0px 2px;
+  background:#000;
+  display:inline-block;
+  color:#fff;
+  border-radius:3px 3px 0px 0px;
+  box-shadow: 0 0.5rem 0.8rem #00000080;
+}
+.panels{
+  background:#fffffff6;
+  box-shadow: 0 2rem 2rem #00000080;
+  min-height:200px;
+  width:100%;
+  max-width:500px;
+  border-radius:3px;
+  overflow:hidden;
+  padding:20px;  
+}
+.panel{
+  display:none;
+  animation: fadein .8s;
+}
+.panel-title{
+  font-size:1.5em;
+  font-weight:bold
+}
+.radio{
+  display:none;
+}
+#one:checked ~ .panels #one-panel,
+#two:checked ~ .panels #two-panel,
+#three:checked ~ .panels #three-panel{
+  display:block
+}
+#one:checked ~ .tabs #one-tab,
+#two:checked ~ .tabs #two-tab,
+#three:checked ~ .tabs #three-tab{
+  background:#fffffff6;
+  color:#000;
+  border-top: 3px solid #000;
+}
+</style>
