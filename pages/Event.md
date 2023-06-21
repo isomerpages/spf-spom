@@ -33,14 +33,6 @@ description: ""
   display:none;
   animation: fadein .8s;
 }
-@keyframes fadein {
-    from {
-        opacity:0;
-    }
-    to {
-        opacity:1;
-    }
-}
 .panel-title{
   font-size:1.5em;
   font-weight:bold
