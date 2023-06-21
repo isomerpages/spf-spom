@@ -9,60 +9,86 @@ description: ""
         background-size: 100% !important;
         height: 338px !important;
     }
-       .nav-pills{
-  width: 450px;
-}
-.nav-item{
-  width: 50%;
-}
-.nav-pills .nav-link{
-  font-weight: bold;
-  padding-top: 13px;
-  text-align: center;
-  background: #343436;
-  color: #fff;
-  border-radius: 30px;
-  height: 100px;
-}
-.nav-pills .nav-link.active{
-  background: #fff;
-  color: #000;
-}
-.tab-content{
-  position: absolute;
-  width: 450px;
-  height: auto;
-  margin-top: -50px;
-  background: #fff;
-  color: #000;
-  border-radius: 30px;
-  z-index: 1000;
-  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4);
-  padding: 30px;
-  margin-bottom: 50px;
-}
-.tab-content button{
-  border-radius: 15px;
-  width: 100px;
-  margin: 0 auto;
-  float: right;
-}
+     .tabs {
+  display: block;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0;
+  overflow: hidden; }
+  .tabs [class^="tab"] label,
+  .tabs [class*=" tab"] label {
+    color: #efedef;
+    cursor: pointer;
+    display: block;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1em;
+    padding: 2rem 0;
+    text-align: center; }
+  .tabs [class^="tab"] [type="radio"],
+  .tabs [class*=" tab"] [type="radio"] {
+    border-bottom: 1px solid rgba(239, 237, 239, 0.5);
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: block;
+    width: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out; }
+    .tabs [class^="tab"] [type="radio"]:hover, .tabs [class^="tab"] [type="radio"]:focus,
+    .tabs [class*=" tab"] [type="radio"]:hover,
+    .tabs [class*=" tab"] [type="radio"]:focus {
+      border-bottom: 1px solid #fd264f; }
+    .tabs [class^="tab"] [type="radio"]:checked,
+    .tabs [class*=" tab"] [type="radio"]:checked {
+      border-bottom: 2px solid #fd264f; }
+    .tabs [class^="tab"] [type="radio"]:checked + div,
+    .tabs [class*=" tab"] [type="radio"]:checked + div {
+      opacity: 1; }
+    .tabs [class^="tab"] [type="radio"] + div,
+    .tabs [class*=" tab"] [type="radio"] + div {
+      display: block;
+      opacity: 0;
+      padding: 2rem 0;
+      width: 90%;
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out; }
+  .tabs .tab-2 {
+    width: 50%; }
+    .tabs .tab-2 [type="radio"] + div {
+      width: 200%;
+      margin-left: 200%; }
+    .tabs .tab-2 [type="radio"]:checked + div {
+      margin-left: 0; }
+    .tabs .tab-2:last-child [type="radio"] + div {
+      margin-left: 100%; }
+    .tabs .tab-2:last-child [type="radio"]:checked + div {
+      margin-left: -100%; }
 </style>
-<ul role="tablist" class="nav nav-pills">
-     <li class="nav-item">
-        <a href="#login" data-toggle="pill" class="nav-link active">Login</a>
-      </li>
-      <li class="nav-item">
-        <a href="#regis" data-toggle="pill" class="nav-link">Register</a>
-      </li>
-</ul>
-<div class="tab-content">
-      <div class="container tab-pane active" id="login">
-        test
-      </div>
-      <div class="container tab-pane fade" id="regis">
-        test 2
-      </div>
+<div class="tabs">
+  <div class="tab-2">
+    <label for="tab2-1">One</label>
+    <input id="tab2-1" name="tabs-two" type="radio" checked="checked">
+    <div>
+      <h4>Tab One</h4>        
+    </div>
+  </div>
+  <div class="tab-2">
+    <label for="tab2-2">Two</label>
+    <input id="tab2-2" name="tabs-two" type="radio">
+    <div>
+      <h4>Tab Two</h4>      
+    </div>
+  </div>
 </div>
 <div class="event-main">                
     <div class="container event-container">
