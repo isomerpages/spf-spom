@@ -40,15 +40,8 @@ description: ""
   border: 1px solid transparent;
   border-bottom: 0;
   cursor: pointer;
-  font-weight: 600;
 }
 .tabset > label::after {
-  content: "";
-  position: absolute;
-  left: 15px;
-  bottom: 10px;
-  width: 22px;
-  height: 4px;
   background: #8d8d8d;
 }
 input:focus-visible + label {
@@ -67,6 +60,7 @@ input:focus-visible + label {
 }
 .tabset > input:checked + label {
   background: #1e1d56  !important;
+  color: #fff !important;
 }
 .tab-panel {
   padding: 30px 0;
