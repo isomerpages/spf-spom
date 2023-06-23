@@ -103,7 +103,7 @@ description: ""
                                         <div class="demo">
                                             <div class="item">
                                                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-																									<section class="gallery">
+																									<section class="gallery2">
   <div class="gallery__item">
     <input class="gallery__selector" name="gallery" checked="" id="img2-1" type="radio">
     <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery__img">
