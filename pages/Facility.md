@@ -12,8 +12,7 @@ description: ""
 <div class="container">
                 <div class="row justify-content-center facility-highlights-main">
                     <div class="col-12 col-md-12 align-center">
-                        <h3 class="facility-type-title">Type of facility</h3>
-                       
+                        <h3 class="facility-type-title">Type of facility</h3>                       
                         <div class="row">
                              <div class="col-12 col-md-4 col-lg-3 facility-left">
                                 <div class="tab facility-nav">
@@ -21,42 +20,51 @@ description: ""
                                     <button class="tablinks">Dining Rooms</button>
                                     <button class="tablinks">Meeting Rooms</button>
                                     <button class="tablinks">Leisure</button>
-                                  </div>
-                                
-                             </div>
-                            
+                                  </div>                                
+                             </div>                            
                              <div class="col-12 col-md-8 col-lg-9 facility-right">
                                 <div id="event-space" class="tabcontent facility-tab-content">
                                     <div class="facility-media">
                                         <div class="demo">
                                             <div class="item">
-                                                <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                                                    <ul id="image-gallery-event-space" class="gallery list-unstyled cS-hidden">
-                                                        
+                                                <div class="clearfix" style="max-width:474px;margin: 0 auto;">																									 
+<section class="gallery">
+  <div class="gallery__item">
+    <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
+    <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-1"><img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg"></label>
+  </div>
+  <div class="gallery__item">
+    <input class="gallery__selector" name="gallery" id="img-2" type="radio">
+    <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-2"><img alt="" src="/files/Assets/media/facility/KTVLounge.jpg"></label>
+  </div>
+  <div class="gallery__item">
+    <input class="gallery__selector" name="gallery" id="img-3" type="radio">
+    <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-3"><img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg"></label>
+  </div>
+</section>
+                                                    <!--<ul class="gallery list-unstyled cS-hidden" id="image-gallery-event-space">                                                        
                                                         <li data-thumb="/files/Assets/media/facility/KTVLounge.jpg">
-                                                            <img class="slider-image" src="/files/Assets/media/facility/KTVLounge.jpg">
-                                                            
+                                                            <img src="/files/Assets/media/facility/KTVLounge.jpg" class="slider-image">                                                            
                                                             <div class="caption">
                                                                 <p>KTV Lounge</p>
                                                             </div>
                                                         </li>
                                                         <li data-thumb="/files/Assets/media/facility/ChaletRooms.jpg">
-                                                            <img class="slider-image" src="/files/Assets/media/facility/ChaletRooms.jpg">
-                                                            
+                                                            <img src="/files/Assets/media/facility/ChaletRooms.jpg" class="slider-image">                                                            
                                                             <div class="caption">
                                                                 <p>Chalet Rooms</p>
                                                             </div>
                                                         </li>
                                                         <li data-thumb="media/facility/KTVPrivateRoom.jpg">
-                                                            <img class="slider-image" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
-                                                            
+                                                            <img src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="slider-image">                                                            
                                                             <div class="caption">
                                                                 <p>KTV Private Room</p>
                                                             </div>
                                                         </li>
-                                                      
-                                                       
-                                                     </ul>
+                                                     </ul>-->
                                                 </div>
                                             </div>
                                         </div>
