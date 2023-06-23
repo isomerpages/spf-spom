@@ -15,6 +15,15 @@ description: ""
 }
 .tabset .tab-panel {
   display: none;
+  animation: fadein .8s;
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
 }
 .tabset > input:first-child:checked ~ .tab-panels > .tab-panel:first-child,
 .tabset > input:nth-child(3):checked ~ .tab-panels > .tab-panel:nth-child(2),
@@ -57,10 +66,7 @@ input:focus-visible + label {
   background: #06c;
 }
 .tabset > input:checked + label {
-  border-color: #ccc;
-  border-bottom: 1px solid #fff;
-  margin-bottom: -1px;
-  background: #1e1d56;
+  background: #1e1d56  !important;
 }
 .tab-panel {
   padding: 30px 0;
@@ -76,6 +82,9 @@ input:focus-visible + label {
   border: 0 !important;
   border-radius: 0 !important;
   display: inline-block;
+  min-width: 160px !important;
+  padding: 15px !important;
+  font-family: "nowbold" !important;
 }
 </style>
 <div class="tabset">
