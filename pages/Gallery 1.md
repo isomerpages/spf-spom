@@ -84,7 +84,7 @@ description: ""
                         <nav aria-label="...">
                             <ul class="pagination">
                               <li class="page-item">
-                                <a href="gallery" class="page-link nav-link"> Page 1 </a>
+                                <a href="/gallery" class="page-link nav-link"> Page 1 </a>
                               </li>       
                             </ul>
                           </nav>
