@@ -64,7 +64,6 @@ input:focus-visible + label {
 }
 .tab-panel {
   padding: 30px 0;
-  border-top: 1px solid #ccc;
 }
 .tabset {
   max-width: 65em;
