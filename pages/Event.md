@@ -89,8 +89,8 @@ p.read-more-target {
   opacity: 0;
   transition: .25s ease;
 }
-input.read-more-state:checked ~ div.read-more-wrap p.read-more-target {
-  font-size: inherit;
+input.read-more-state:checked ~ div.read-more-wrap p.read-more-target {  
+  font-size: 1.25rem;
   max-height: 999em;
   opacity: 1;
 }
@@ -164,10 +164,10 @@ label.read-more-trigger {
                 <div class="col-12 col-sm-6">
                   <div class="event-details">
                     <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
-                    <span class="event-date"> 3 March 2019 </span>
-		    <input class="read-more-state" id="read-more-controller" type="checkbox">
-                    <div id="section" class="show-more-wrp read-more-wrap">
-                      <div class="article">
+                    <span class="event-date"> 3 March 2019 </span>		    
+                    <div id="section" class="show-more-wrp">
+		      <input class="read-more-state" id="read-more-controller" type="checkbox">
+                      <div class="article read-more-wrap">
                         <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
                         <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
                         <p class="read-more-target"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
