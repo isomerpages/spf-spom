@@ -84,7 +84,7 @@ description: ""
           </span>
         </li>
         <li class="page-item">
-          <a href="photo-gallery-1" class="page-link nav-link"> &gt;</a>
+          <a href="gallery-1" class="page-link nav-link"> &gt;</a>
         </li>
         <li class="page-item">
           <a href="#" class="page-link nav-link page-no">of 2</a>
