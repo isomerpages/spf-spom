@@ -63,7 +63,7 @@ input:focus-visible + label {
   color: #fff !important;
 }
 .tab-panel {
-  padding: 30px 0;
+  padding: 30px 0 0 0;
 }
 .tabset {
   max-width: 65em;
@@ -178,6 +178,7 @@ label.read-more-trigger {
                           <strong>Mr Luther Kim, Ops Dept</strong>
                         </p>
                       </div>
+		      <label class="read-more-trigger" for="read-more-controller"></label>
                       <!--<a class="moreless-button moreless-button-one">more +</a>-->
                     </div>
                   </div>
