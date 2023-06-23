@@ -44,27 +44,7 @@ description: ""
     <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg" class="gallery__img">
     <label class="gallery__thumb" for="img-3"><img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg"></label>
   </div>
-</section>
-                                                    <!--<ul class="gallery list-unstyled cS-hidden" id="image-gallery-event-space">                                                        
-                                                        <li data-thumb="/files/Assets/media/facility/KTVLounge.jpg">
-                                                            <img src="/files/Assets/media/facility/KTVLounge.jpg" class="slider-image">                                                            
-                                                            <div class="caption">
-                                                                <p>KTV Lounge</p>
-                                                            </div>
-                                                        </li>
-                                                        <li data-thumb="/files/Assets/media/facility/ChaletRooms.jpg">
-                                                            <img src="/files/Assets/media/facility/ChaletRooms.jpg" class="slider-image">                                                            
-                                                            <div class="caption">
-                                                                <p>Chalet Rooms</p>
-                                                            </div>
-                                                        </li>
-                                                        <li data-thumb="media/facility/KTVPrivateRoom.jpg">
-                                                            <img src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="slider-image">                                                            
-                                                            <div class="caption">
-                                                                <p>KTV Private Room</p>
-                                                            </div>
-                                                        </li>
-                                                     </ul>-->
+</section>                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -123,23 +103,18 @@ description: ""
                                         <div class="demo">
                                             <div class="item">
                                                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                                                    <ul id="image-gallery-dining" class="gallery list-unstyled cS-hidden">
-                                                        
-                                                        <li data-thumb="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
-                                                            <img class="slider-image" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
-                                                            <div class="caption">
-                                                                <p>Bar &amp; Dinning</p>
-                                                            </div>
-                                                        </li>
-                                                        <li data-thumb="/files/Assets/media/facility/BBQPits.jpg">
-                                                            <img class="slider-image" src="/files/Assets/media/facility/BBQPits.jpg">
-                                                          
-                                                            <div class="caption">
-                                                                <p>BBQ Pits</p>
-                                                            </div>
-                                                        </li>
-                                                       
-                                                     </ul>
+																									<section class="gallery">
+  <div class="gallery__item">
+    <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
+    <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-1"><img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg"></label>
+  </div>
+  <div class="gallery__item">
+    <input class="gallery__selector" name="gallery" id="img-2" type="radio">
+    <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-2"><img alt="" src="/files/Assets/media/facility/BBQPits.jpg"></label>
+  </div>
+</section>                                                    
                                                 </div>
                                             </div>
                                         </div>
