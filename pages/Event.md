@@ -81,13 +81,13 @@ input:focus-visible + label {
 <div class="tabset">
   <!-- Tab 1 -->
   <input type="radio" name="tabset" id="tab1" aria-controls="2019" checked="">
-  <label for="tab1">2019</label>
+  <label for="tab1" class="nav-link">2019</label>
   <!-- Tab 2 -->
   <input type="radio" name="tabset" id="tab2" aria-controls="2018">
-  <label for="tab2">2018</label>
+  <label for="tab2" class="nav-link">2018</label>
   <!-- Tab 3 -->
   <input type="radio" name="tabset" id="tab3" aria-controls="2017">
-  <label for="tab3">2017</label>
+  <label for="tab3" class="nav-link">2017</label>
   
   <div class="tab-panels">
     <section id="2019" class="tab-panel">
