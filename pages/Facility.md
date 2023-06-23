@@ -104,15 +104,15 @@ description: ""
                                             <div class="item">
                                                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
 																									<section class="gallery2">
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" checked="" id="img2-1" type="radio">
-    <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img2-1"><img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg"></label>
+  <div class="gallery2__item">
+    <input class="gallery2__selector" name="gallery" checked="" id="img2-1" type="radio">
+    <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery2__img">
+    <label class="gallery2__thumb" for="img2-1"><img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg"></label>
   </div>
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" id="img2-2" type="radio">
-    <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img2-2"><img alt="" src="/files/Assets/media/facility/BBQPits.jpg"></label>
+  <div class="gallery2__item">
+    <input class="gallery2__selector" name="gallery" id="img2-2" type="radio">
+    <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery2__img">
+    <label class="gallery2__thumb" for="img2-2"><img alt="" src="/files/Assets/media/facility/BBQPits.jpg"></label>
   </div>
 </section>                                                    
                                                 </div>
