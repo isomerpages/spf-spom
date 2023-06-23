@@ -9,47 +9,6 @@ description: ""
         background-size: 100% !important;
         height: 338px !important;
     }
-$max-img-width: 600px;
-$max-img-height: 400px;
-img {
-  max-width: 100%;
-  vertical-align: top;
-}
-.gallery {
-  display: flex;
-    margin: 10px auto;
-    max-width: $max-img-width;
-    position: relative;
-    padding-top: $max-img-height/$max-img-width * 100%;    
-    @media screen and (min-width: $max-img-width){
-      padding-top: $max-img-height;
-    }  
-  &__img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-  }  
-   &__thumb {
-    padding-top: 6px;
-    margin: 6px;
-    display: block;
-  }  
-  &__selector {
-    position: absolute;
-    opacity: 0;
-    visibility: hidden;    
-    &:checked {
-      + .gallery__img {
-        opacity: 1;
-      }
-      ~ .gallery__thumb > img {
-        box-shadow: 0 0 0 3px #0be2f6;;
-      }
-    }
-  } 
-}
 </style>
 <div class="container">
                 <div class="row justify-content-center dining-highlights-main">
@@ -93,7 +52,7 @@ img {
                             <div class="demo">
                                 <div class="item">
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
-                                        <section class="gallery">
+																			<section class="gallery">
   <div class="gallery__item">
     <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
     <img alt="" src="/files/Assets/media/dining/dine-1.jpg" class="gallery__img">
@@ -111,8 +70,8 @@ img {
   </div>
   <div class="gallery__item">
     <input class="gallery__selector" name="gallery" id="img-4" type="radio">
-    <img alt="" src="/files/Assets/media/dining/dine-4.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-4"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-4.jpg"></label>
+    <img alt="" src="/files/Assets/media/dining/dine-2.jpg" class="gallery__img">
+    <label class="gallery__thumb" for="img-4"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-2.jpg"></label>
   </div>
 </section>
                                     </div>
