@@ -71,19 +71,19 @@ input:focus-visible + label {
 </style>
 <div class="tabset">
   <!-- Tab 1 -->
-  <input type="radio" name="tabset" id="tab1" aria-controls="marzen" checked>
+  <input type="radio" name="tabset" id="tab1" aria-controls="2019" checked="">
   <label for="tab1">2019</label>
   <!-- Tab 2 -->
-  <input type="radio" name="tabset" id="tab2" aria-controls="rauchbier">
+  <input type="radio" name="tabset" id="tab2" aria-controls="2018">
   <label for="tab2">2018</label>
   <!-- Tab 3 -->
-  <input type="radio" name="tabset" id="tab3" aria-controls="dunkles">
+  <input type="radio" name="tabset" id="tab3" aria-controls="2017">
   <label for="tab3">2017</label>
   
   <div class="tab-panels">
-    <section id="marzen" class="tab-panel">
+    <section id="2019" class="tab-panel">
       <!-- ------2019------ -->
-          <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+          <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
             <div class="row">
               <div class="event">
                 <div class="col-12 col-sm-6">
@@ -177,9 +177,9 @@ input:focus-visible + label {
             </div>
           </div>
   </section>
-  <section id="rauchbier" class="tab-panel">
+  <section id="2018" class="tab-panel">
       <!-- -----2018 -->
-          <div class="tab-pane fade" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
+          <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
             <div class="row">
               <div class="event">
                 <div class="col-12 col-sm-6">
@@ -360,9 +360,9 @@ input:focus-visible + label {
             </div>
           </div>
     </section>
-    <section id="dunkles" class="tab-panel">
+    <section id="2017" class="tab-panel">
       <!-- -----2017 -->
-          <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+          <div class="tab-pane" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
             <div class="row">
               <div class="event">
                 <div class="col-12 col-sm-6">
