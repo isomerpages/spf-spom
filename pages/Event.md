@@ -60,6 +60,7 @@ input:focus-visible + label {
   border-color: #ccc;
   border-bottom: 1px solid #fff;
   margin-bottom: -1px;
+  background: #1e1d56;
 }
 .tab-panel {
   padding: 30px 0;
@@ -67,6 +68,15 @@ input:focus-visible + label {
 }
 .tabset {
   max-width: 65em;
+  text-align: center;
+}
+.tabset .nav-link {
+  color: #414042 !important;
+  margin-right: 10px !important;
+  background-color: #ebe7e4 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  display: inline-block;
 }
 </style>
 <div class="tabset">
