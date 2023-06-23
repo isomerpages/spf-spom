@@ -11,36 +11,36 @@ description: ""
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div data-target="#mymodal" data-toggle="modal" class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-1.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-1.png">
             <img src="/files/Assets/media/gallery/photo-gallery-1.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-2.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-2.png">
             <img src="/files/Assets/media/gallery/photo-gallery-2.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-3.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-3.png">
             <img src="/files/Assets/media/gallery/photo-gallery-3.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-4.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-4.png">
             <img src="/files/Assets/media/gallery/photo-gallery-4.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a target="_blank" href="media/gallery/photo-gallery-preview-9.png">
-            <img src="media/gallery/photo-gallery-9.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-9.png">
+            <img src="/files/Assets/media/gallery/photo-gallery-9.png">
           </a>
         </div>
       </div>
@@ -53,21 +53,21 @@ description: ""
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-7.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-7.png">
             <img src="/files/Assets/media/gallery/photo-gallery-7.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-8.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-8.png">
             <img src="/files/Assets/media/gallery/photo-gallery-8.png">
           </a>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="photo-gallery-box">
-          <a href="/files/Assets/media/gallery/photo-gallery-preview-9.png">
+          <a target="_blank" href="/files/Assets/media/gallery/photo-gallery-preview-9.png">
             <img src="/files/Assets/media/gallery/photo-gallery-9.png">
           </a>
         </div>
