@@ -4972,7 +4972,7 @@ $max-img-height: 400px;
     margin: 10px auto !important;
     max-width: $max-img-width !important;
     position: relative !important;
-    padding-top: (($max-img-height/$max-img-width)+10) * 100% !important;
+    padding-top: (($max-img-height/$max-img-width) * 100%)+10) !important;
     
     @media screen and (min-width: $max-img-width){
       padding-top: 300 !important;
