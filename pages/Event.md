@@ -80,6 +80,30 @@ input:focus-visible + label {
   padding: 15px !important;
   font-family: "nowbold" !important;
 }
+        input.read-more-state {
+  display: none;
+}
+p.read-more-target {
+  font-size: 0;
+  max-height: 0;
+  opacity: 0;
+  transition: .25s ease;
+}
+input.read-more-state:checked ~ div.read-more-wrap p.read-more-target {
+  font-size: inherit;
+  max-height: 999em;
+  opacity: 1;
+}
+input.read-more-state ~ label.read-more-trigger:before {
+  content: 'Read more';
+}
+input.read-more-state:checked ~ label.read-more-trigger:before {
+  content: 'Read less';
+}
+label.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+}
 </style>
 <div class="tabset">
   <!-- Tab 1 -->
@@ -145,15 +169,15 @@ input:focus-visible + label {
                       <div class="article">
                         <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
                         <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
-                        <p class="moretext moretextone"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
-                        <p class="moretext moretextone"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
+                        <p class="read-more-target"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
+                        <p class="read-more-target"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
                           <strong>Mr Seah Tong Pin, Lima Division</strong>
                         </p>
-                        <p class="moretext moretextone"> “An educational night where we learnt more about Whisky” <br>
+                        <p class="read-more-target"> “An educational night where we learnt more about Whisky” <br>
                           <strong>Mr Luther Kim, Ops Dept</strong>
                         </p>
                       </div>
-                      <a class="moreless-button moreless-button-one">more +</a>
+                      <!--<a class="moreless-button moreless-button-one">more +</a>-->
                     </div>
                   </div>
                 </div>
@@ -451,6 +475,7 @@ input:focus-visible + label {
   </div>  
 </div>
 
+<!--
 <div class="event-main">                
     <div class="container event-container">
         <div class="row justify-content-center event-highlights-main">
@@ -955,3 +980,4 @@ input:focus-visible + label {
         </div>
     </div>
 </div>
+-->
