@@ -74,20 +74,9 @@ description: ""
       </div>
     </div>
     <nav aria-label="...">
-      <ul class="pagination">
-        <li class="page-item disabled">
-          <span class="page-link nav-link">
-            &lt; </span>
-        </li>
-        <li class="page-item active">
-          <span class="page-link active-link"> 1 <span class="sr-only">(current)</span>
-          </span>
-        </li>
+      <ul class="pagination">        
         <li class="page-item">
-          <a href="gallery-1" class="page-link nav-link"> &gt;</a>
-        </li>
-        <li class="page-item">
-          <a href="#" class="page-link nav-link page-no">of 2</a>
+          <a href="gallery-1" class="page-link nav-link">Page 2</a>
         </li>
       </ul>
     </nav>
