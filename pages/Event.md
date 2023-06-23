@@ -92,7 +92,7 @@ input:focus-visible + label {
   <div class="tab-panels">
     <section id="2019" class="tab-panel">
       <!-- ------2019------ -->
-        <div class="tab-content event-tab-content" id="pills-tabContent">
+        <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
             <div class="row">
               <div class="event">
@@ -190,7 +190,7 @@ input:focus-visible + label {
   </section>
   <section id="2018" class="tab-panel">
       <!-- -----2018 -->
-        <div class="tab-content event-tab-content" id="pills-tabContent">
+        <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
             <div class="row">
               <div class="event">
@@ -375,7 +375,7 @@ input:focus-visible + label {
     </section>
     <section id="2017" class="tab-panel">
       <!-- -----2017 -->
-        <div class="tab-content event-tab-content" id="pills-tabContent">
+        <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
             <div class="row">
               <div class="event">
