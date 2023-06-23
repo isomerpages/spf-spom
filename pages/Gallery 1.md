@@ -84,20 +84,8 @@ description: ""
                         <nav aria-label="...">
                             <ul class="pagination">
                               <li class="page-item">
-                                <a href="gallery" class="page-link nav-link"> &lt; </a>
-                              </li>                             
-                              <li class="page-item active">
-                                <span class="page-link active-link">
-                                 2
-                                  <span class="sr-only">(current)</span>
-                                </span>
-                              </li>                            
-                              <li disabled="" class="page-item">
-                                <a class="page-link nav-link"> &gt; </a>
-                              </li>
-                              <li class="page-item">
-                                <a href="#" class="page-link nav-link page-no">of 2</a>
-                              </li>
+                                <a href="gallery" class="page-link nav-link"> Page 1 </a>
+                              </li>       
                             </ul>
                           </nav>
                     </div>
