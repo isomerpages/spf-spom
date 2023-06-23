@@ -80,7 +80,7 @@ input:focus-visible + label {
   padding: 15px !important;
   font-family: "nowbold" !important;
 }
-input.read-more-state {
+/*input.read-more-state {
   display: none;
 }
 p.read-more-target {
@@ -103,7 +103,7 @@ input.read-more-state:checked ~ label.read-more-trigger:before {
 label.read-more-trigger {
   cursor: pointer;
   display: inline-block;
-}
+}*/
 </style>
 <div class="tabset">
   <!-- Tab 1 -->
