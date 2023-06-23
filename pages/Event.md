@@ -115,7 +115,7 @@ label.read-more-trigger {
   <!-- Tab 3 -->
   <input type="radio" name="tabset" id="tab3" aria-controls="2017">
   <label for="tab3" class="nav-link">2017</label>
-  
+	
   <div class="tab-panels">
     <section id="2019" class="tab-panel">
       <!-- ------2019------ -->
@@ -169,15 +169,15 @@ label.read-more-trigger {
                       <div class="article">
                         <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
                         <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
-                        <p class="read-more-target"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
-                        <p class="read-more-target"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
+                        <p class="moretext moretextone"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
+                        <p class="moretext moretextone"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
                           <strong>Mr Seah Tong Pin, Lima Division</strong>
                         </p>
-                        <p class="read-more-target"> “An educational night where we learnt more about Whisky” <br>
+                        <p class="moretext moretextone"> “An educational night where we learnt more about Whisky” <br>
                           <strong>Mr Luther Kim, Ops Dept</strong>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-one">more +</a>-->
+                      <a class="moreless-button moreless-button-one">more +</a>
                     </div>
                   </div>
                 </div>
@@ -215,7 +215,7 @@ label.read-more-trigger {
           </div>
         </div>
   </section>
-  <section id="2018" class="tab-panel">
+<section id="2018" class="tab-panel">
       <!-- -----2018 -->
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
@@ -976,8 +976,8 @@ label.read-more-trigger {
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
--->
+            
+        
+    
+
+--&gt;
