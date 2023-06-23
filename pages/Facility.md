@@ -105,14 +105,14 @@ description: ""
                                                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
 																									<section class="gallery">
   <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
+    <input class="gallery__selector" name="gallery" checked="" id="img2-1" type="radio">
     <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-1"><img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg"></label>
+    <label class="gallery__thumb" for="img2-1"><img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg"></label>
   </div>
   <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" id="img-2" type="radio">
+    <input class="gallery__selector" name="gallery" id="img2-2" type="radio">
     <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-2"><img alt="" src="/files/Assets/media/facility/BBQPits.jpg"></label>
+    <label class="gallery__thumb" for="img2-2"><img alt="" src="/files/Assets/media/facility/BBQPits.jpg"></label>
   </div>
 </section>                                                    
                                                 </div>
