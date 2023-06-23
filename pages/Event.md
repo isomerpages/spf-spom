@@ -165,7 +165,8 @@ label.read-more-trigger {
                   <div class="event-details">
                     <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
                     <span class="event-date"> 3 March 2019 </span>
-                    <div id="section" class="show-more-wrp">
+		    <input class="read-more-state" id="read-more-controller" type="checkbox">
+                    <div id="section" class="show-more-wrp read-more-wrap">
                       <div class="article">
                         <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
                         <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
