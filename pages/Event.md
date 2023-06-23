@@ -80,7 +80,7 @@ input:focus-visible + label {
   padding: 15px !important;
   font-family: "nowbold" !important;
 }
-        input.read-more-state {
+input.read-more-state {
   display: none;
 }
 p.read-more-target {
