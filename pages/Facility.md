@@ -9,6 +9,12 @@ description: ""
         background-size: 100% !important;
         height: 338px !important;
     }
+.clear-backend {
+  background: #fff;
+  width: 100%;
+  height: 800px;
+  position: relative;
+}
 .clear-backend > input {
   position: absolute;
   filter: alpha(opacity=0);
@@ -101,6 +107,7 @@ description: ""
 }
 </style>
 <div class="container">
+<div class="clear-backend">
 <input type="radio" class="tab-1" name="tab" checked="checked">
 <span>Home</span><i class="fa fa-home"></i>
 <input type="radio" class="tab-2" name="tab">
@@ -123,7 +130,7 @@ description: ""
     <h1>Four</h1>
   </section>
 </div>
-	
+</div>
 	<div class="row justify-content-center facility-highlights-main">
                     <div class="col-12 col-md-12 align-center">
                         <h3 class="facility-type-title">Type of facility</h3>                       
