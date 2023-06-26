@@ -8,9 +8,123 @@ description: ""
         background-size: auto;
         background-size: 100% !important;
         height: 338px !important;
-    }</style>
+    }
+.clear-backend > input {
+  position: absolute;
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
+.clear-backend > input:hover {
+  cursor: pointer;
+}
+.clear-backend > input:hover + span,
+.clear-backend > input:checked + span {
+  background: #fff;
+  color: #1ABC9C;
+}
+.clear-backend > input:checked + span + i {
+  color: #1ABC9C;
+}
+.clear-backend > i {
+  position: absolute;
+  margin-top: -40px;
+  padding: 0 20px;
+  font-size: 20px;
+}
+.clear-backend > span,
+.clear-backend > i {
+  -webkit-transition: all .5s;
+     -moz-transition: all .5s;
+     -o-transition: all .5s;
+      transition: all .5s;
+}
+.clear-backend > input,
+.clear-backend > span {
+  background: #f0f0f0;
+  display: block;
+  width: 200px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  z-index: 9;
+}
+.tab-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(100% - 200px);
+  height: 100%;
+  padding-top: 60px;
+  overflow: hidden;
+}
+.tab-content section {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  display: none;
+}
+.clear-backend > input.tab-1:checked ~ .tab-content .tab-item-1 {
+  display: block;
+}
+.clear-backend > input.tab-2:checked ~ .tab-content .tab-item-2 {
+  display: block;
+}
+.clear-backend > input.tab-3:checked ~ .tab-content .tab-item-3 {
+  display: block;
+}
+.clear-backend > input.tab-4:checked ~ .tab-content .tab-item-4 {
+  display: block;
+}
+@media only screen and (max-width: 641px) {
+  .avatar, 
+  .clear-backend > input,
+  .clear-backend > span {
+    width: 60px;
+    height: 60px;
+  }
+  .clear-backend > span {
+    filter: alpha(opacity=0);
+    opacity: 0;
+  }
+  .avatar div {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    top: 5px;
+    left: 5px;
+  }
+  .top-bar,
+  .tab-content {
+  width: calc(100% - 60px);
+  }
+}
+</style>
 <div class="container">
-                <div class="row justify-content-center facility-highlights-main">
+<input type="radio" class="tab-1" name="tab" checked="checked">
+<span>Home</span><i class="fa fa-home"></i>
+<input type="radio" class="tab-2" name="tab">
+<span>Posts</span><i class="fa fa-medium"></i>
+<input type="radio" class="tab-3" name="tab">
+<span>Users</span><i class="fa fa-user"></i>
+<input type="radio" class="tab-4" name="tab">
+<span>Comments</span><i class="fa fa-comment"></i>
+<div class="tab-content">
+  <section class="tab-item-1">
+    <h1>One</h1>
+  </section>
+  <section class="tab-item-2">
+    <h1>Two</h1>
+  </section>
+  <section class="tab-item-3">
+    <h1>Three</h1>
+  </section>
+  <section class="tab-item-4">
+    <h1>Four</h1>
+  </section>
+</div>
+	
+	<div class="row justify-content-center facility-highlights-main">
                     <div class="col-12 col-md-12 align-center">
                         <h3 class="facility-type-title">Type of facility</h3>                       
                         <div class="row">
