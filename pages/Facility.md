@@ -25,7 +25,7 @@ description: ""
 }
 .clear-backend > input:hover + span,
 .clear-backend > input:checked + span {
-  background: #1C1B17;
+  background: #1e1d56;
   color: #FFF;
 }
 .clear-backend > input:checked:after {
@@ -72,7 +72,6 @@ font-weight: 600;
   right: 0;
   width: calc(100% - 200px);
   height: 100%;
-  padding-top: 60px;
   overflow: hidden;
 }
 .tab-content section {
@@ -93,6 +92,13 @@ font-weight: 600;
 }
 .clear-backend > input.tab-4:checked ~ .tab-content .tab-item-4 {
   display: block;
+}
+.facility-type-title {
+  font-size: 21px;
+  line-height: 24px;
+  color: #000000;
+  text-transform: uppercase;
+  margin-bottom: 20px;
 }
 @media only screen and (max-width: 641px) {
   .avatar, 
