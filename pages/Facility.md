@@ -124,6 +124,8 @@ font-weight: 600;
   width: calc(100% - 60px);
   }
 }
+$max-img-width: 600px;
+$max-img-height: 400px;
 .gallery1 img, .gallery2 img, .gallery3 img {
   max-width: 100% !important;
   vertical-align: top !important;
