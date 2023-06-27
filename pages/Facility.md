@@ -127,6 +127,7 @@ font-weight: 600;
 </style>
 <div class="container">
 <div class="clear-backend">
+<h3 class="facility-type-title">Type of facility</h3>
 <input type="radio" class="tab-1" name="tab" checked="checked">
 <span>Event Space</span><i class="fa fa-home"></i>
 <input type="radio" class="tab-2" name="tab">
