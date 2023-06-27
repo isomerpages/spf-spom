@@ -3,12 +3,13 @@ title: Facility
 permalink: /facility/
 description: ""
 ---
-<style type="text/css">.bp-section-pagetitle {
+<style type="text/css">
+.bp-section-pagetitle {
         background: url(/files/Assets/images/facility-bg.jpg) no-repeat center center !important;
         background-size: auto;
         background-size: 100% !important;
         height: 338px !important;
-    }
+}
 .clear-backend {
   background: #fff;
   width: 100%;
@@ -220,14 +221,14 @@ font-weight: 600;
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
                   <div class="gallery2">
                     <div class="gallery2__item">
-                      <input class="gallery2__selector" name="gallery" checked="" id="img2-1" type="radio">
+                      <input class="gallery2__selector" name="gallery2" checked="" id="img2-1" type="radio">
                       <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery2__img">
                       <label class="gallery2__thumb" for="img2-1">
                         <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
                       </label>
                     </div>
                     <div class="gallery2__item">
-                      <input class="gallery2__selector" name="gallery" id="img2-2" type="radio">
+                      <input class="gallery2__selector" name="gallery2" id="img2-2" type="radio">
                       <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery2__img">
                       <label class="gallery2__thumb" for="img2-2">
                         <img alt="" src="/files/Assets/media/facility/BBQPits.jpg">
