@@ -25,11 +25,20 @@ description: ""
 }
 .clear-backend > input:hover + span,
 .clear-backend > input:checked + span {
-  background: #fff;
-  color: #1ABC9C;
+  background: #1C1B17;
+  color: #FFF;
+}
+.clear-backend > input:checked:after {
+  content: ">";
+  font-family: "nowbold";
+  position: absolute;
+  color: #fff !important;
+  font-size: 18px !important;
+  right: 15px;
+  top: 15px;
 }
 .clear-backend > input:checked + span + i {
-  color: #1ABC9C;
+  color: #FFF;
 }
 .clear-backend > i {
   position: absolute;
