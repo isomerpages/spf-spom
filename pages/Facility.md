@@ -124,6 +124,121 @@ font-weight: 600;
   width: calc(100% - 60px);
   }
 }
+.gallery1 img, .gallery2 img, .gallery3 img {
+  max-width: 100% !important;
+  vertical-align: top !important;
+}
+.gallery1 {
+  display: flex;
+    margin: 10px auto !important;
+    max-width: $max-img-width !important;
+    position: relative !important;
+    padding-top: 220px !important;
+    
+    @media screen and (min-width: $max-img-width){
+      padding-top: 220px !important;
+    }  
+  &__img {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    opacity: 0 !important;
+    transition: opacity 0.3s ease-in-out !important;
+  }  
+   &__thumb {
+    padding-top: 6px !important;
+    margin: 6px !important;
+    display: block !important;
+  }  
+  &__selector {
+    position: absolute !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    
+    &:checked {
+      + .gallery1__img {
+        opacity: 1 !important;
+      }
+      ~ .gallery1__thumb > img {
+        box-shadow: 0 0 0 3px #0be2f6 !important;
+      }
+    }
+  } 
+}
+.gallery2 {
+  display: flex;
+    margin: 10px auto !important;
+    max-width: $max-img-width !important;
+    position: relative !important;
+    padding-top: 220px !important;
+    
+    @media screen and (min-width: $max-img-width){
+      padding-top: 220px !important;
+    }  
+  &__img {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    opacity: 0 !important;
+    transition: opacity 0.3s ease-in-out !important;
+  }  
+   &__thumb {
+    padding-top: 6px !important;
+    margin: 6px !important;
+    display: block !important;
+  }  
+  &__selector {
+    position: absolute !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    
+    &:checked {
+      + .gallery2__img {
+        opacity: 1 !important;
+      }
+      ~ .gallery2__thumb > img {
+        box-shadow: 0 0 0 3px #0be2f6 !important;
+      }
+    }
+  } 
+}
+.gallery3 {
+  display: flex;
+    margin: 10px auto !important;
+    max-width: $max-img-width !important;
+    position: relative !important;
+    padding-top: 220px !important;
+    
+    @media screen and (min-width: $max-img-width){
+      padding-top: 220px !important;
+    }  
+  &__img {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    opacity: 0 !important;
+    transition: opacity 0.3s ease-in-out !important;
+  }  
+   &__thumb {
+    padding-top: 6px !important;
+    margin: 6px !important;
+    display: block !important;
+  }  
+  &__selector {
+    position: absolute !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    
+    &:checked {
+      + .gallery3__img {
+        opacity: 1 !important;
+      }
+      ~ .gallery3__thumb > img {
+        box-shadow: 0 0 0 3px #0be2f6 !important;
+      }
+    }
+  } 
+}
 </style>
 <div class="container">
 <div class="clear-backend">
@@ -144,24 +259,24 @@ font-weight: 600;
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
                   <div class="gallery">
-                    <div class="gallery__item">
-                      <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="gallery__img">
-                      <label class="gallery__thumb" for="img-1">
+                    <div class="gallery1__item">
+                      <input class="gallery1__selector" name="gallery1" checked="" id="img-1" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="gallery1__img">
+                      <label class="gallery1__thumb" for="img-1">
                         <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
                       </label>
                     </div>
-                    <div class="gallery__item">
-                      <input class="gallery__selector" name="gallery" id="img-2" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg" class="gallery__img">
-                      <label class="gallery__thumb" for="img-2">
+                    <div class="gallery1__item">
+                      <input class="gallery1__selector" name="gallery1" id="img-2" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg" class="gallery1__img">
+                      <label class="gallery1__thumb" for="img-2">
                         <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg">
                       </label>
                     </div>
-                    <div class="gallery__item">
-                      <input class="gallery__selector" name="gallery" id="img-3" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg" class="gallery__img">
-                      <label class="gallery__thumb" for="img-3">
+                    <div class="gallery1__item">
+                      <input class="gallery1__selector" name="gallery1" id="img-3" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg" class="gallery1__img">
+                      <label class="gallery1__thumb" for="img-3">
                         <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg">
                       </label>
                     </div>
@@ -324,26 +439,29 @@ font-weight: 600;
             <div class="demo">
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <ul id="image-gallery-leisure" class="gallery list-unstyled cS-hidden">
-                    <li data-thumb="/files/Assets/media/facility/Gymnasium.jpg">
-                      <img class="slider-image" src="/files/Assets/media/facility/Gymnasium.jpg">
-                      <div class="caption">
-                        <p>Gymnasium</p>
-                      </div>
-                    </li>
-                    <li data-thumb="/files/Assets/media/facility/thumbs/Dartboard.jpg" width="100%">
-                      <img class="slider-image" src="/files/Assets/media/facility/Dartboard.jpg">
-                      <div class="caption">
-                        <p>Dartboard</p>
-                      </div>
-                    </li>
-                    <li data-thumb="/files/Assets/media/facility/FoosballTable.jpg">
-                      <img class="slider-image" src="/files/Assets/media/facility/FoosballTable.jpg">
-                      <div class="caption">
-                        <p>Foosball Table</p>
-                      </div>
-                    </li>
-                  </ul>
+                  <div class="gallery3">
+                    <div class="gallery3__item">
+                      <input class="gallery3__selector" name="gallery3" checked="" id="img3-1" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg.jpg" class="gallery3__img">
+                      <label class="gallery3__thumb" for="img3-1">
+                        <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg.jpg">
+                      </label>
+                    </div>
+                    <div class="gallery3__item">
+                      <input class="gallery3__selector" name="gallery3" id="img3-2" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/Dartboard.jpg" class="gallery3__img">
+                      <label class="gallery3__thumb" for="img3-2">
+                        <img alt="" src="/files/Assets/media/facility/Dartboard.jpg">
+                      </label>
+                    </div>
+                    <div class="gallery3__item">
+                      <input class="gallery3__selector" name="gallery3" id="img3-3" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/FoosballTable.jpg" class="gallery3__img">
+                      <label class="gallery3__thumb" for="img3-3">
+                        <img alt="" src="/files/Assets/media/facility/FoosballTable.jpg">
+                      </label>
+                    </div>
+                  </div>                  
                 </div>
               </div>
             </div>
