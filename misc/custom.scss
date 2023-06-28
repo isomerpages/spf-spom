@@ -5148,5 +5148,17 @@ $max-img-height: 400px;
         line-height: 20px;
     }
 }
+#key-highlights .col:nth-child(1) {
+    background: url("/files/Assets/images/box-1.jpg");
+    height: 250px;
+}
+#key-highlights .col:nth-child(2) {
+    background: url("/files/Assets/images/box-2.jpg");
+    height: 250px;
+}
+#key-highlights .col:nth-child(3) {
+    background: url("/files/Assets/images/box-3.jpg");
+    height: 250px;
+}
 /*# sourceMappingURL=style.css.map */
 
