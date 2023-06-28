@@ -272,14 +272,8 @@ font-weight: 600;
             <div class="demo">
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <div class="gallery">
-                    <div class="gallery__item">
-                      <input class="gallery__selector" name="gallery" id="img-2" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/Foyer.jpg" class="gallery__img">
-                      <label class="gallery__thumb" for="img-2">
-                        <img alt="" src="/files/Assets/media/facility/Foyer.jpg">
-                      </label>
-                    </div>
+                  <div style="padding-top:10px">                    
+                      <img alt="" src="/files/Assets/media/facility/Foyer.jpg">
                   </div>
                 </div>
               </div>
