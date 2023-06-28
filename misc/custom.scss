@@ -5148,6 +5148,27 @@ $max-img-height: 400px;
         line-height: 20px;
     }
 }
+#key-highlights { background: transparent;}
+.key-highlights-text {
+	background: rgba(0, 0, 0, 0.5);
+	padding: 0px !important;
+	width: 88%;
+	top: 62%;
+	position: absolute;
+	left: 6%;
+	height: 25%;
+}
+.key-highlights-text p.key-highlight-title {
+	font-family: "nowmedium" !important;
+	font-size: 1.5rem !important;
+	margin-bottom: 0.25rem;
+}
+.key-highlights-text p.has-text-white-trans {
+	font-size: 18px !important;
+	font-family: "nowregular" !important;
+	line-height: 20px !important;
+	color: #fff !important;
+}
 #key-highlights .col:nth-child(1) {
     background: url("/files/Assets/images/box-1.jpg");
     height: 250px;
