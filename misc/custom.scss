@@ -387,7 +387,11 @@ body {
     font-size: 14px !important;
     background-color: #ffffff !important;
 }
-
+p {
+    font-family: "nowregular" !important;
+    font-size: 14px;
+    line-height: 1.5;
+}
 .info-title {
     font-size: 24px;
     line-height: 26px;
