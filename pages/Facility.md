@@ -272,14 +272,15 @@ font-weight: 600;
             <div class="demo">
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <ul id="image-gallery-meeting" class="gallery list-unstyled cS-hidden">
-                    <li data-thumb="/files/Assets/media/facility/Foyer.jpg">
-                      <img class="slider-image" src="/files/Assets/media/facility/Foyer.jpg">
-                      <div class="caption">
-                        <p>Foyer</p>
-                      </div>
-                    </li>
-                  </ul>
+                  <div class="gallery">
+                    <div class="gallery__item">
+                      <input class="gallery__selector" name="gallery" id="img-2" type="radio">
+                      <img alt="" src="/files/Assets/media/facility/Foyer.jpg" class="gallery__img">
+                      <label class="gallery__thumb" for="img-2">
+                        <img alt="" src="/files/Assets/media/facility/Foyer.jpg">
+                      </label>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -327,9 +328,9 @@ font-weight: 600;
                   <div class="gallery3">
                     <div class="gallery3__item">
                       <input class="gallery3__selector" name="gallery3" checked="" id="img3-1" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg.jpg" class="gallery3__img">
+                      <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg" class="gallery3__img">
                       <label class="gallery3__thumb" for="img3-1">
-                        <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg.jpg">
+                        <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg">
                       </label>
                     </div>
                     <div class="gallery3__item">
