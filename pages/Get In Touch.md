@@ -18,7 +18,7 @@ description: ""
 						</p>
 				</div>
 		</div>
-</div>
+</div><br>
 <div class="contact-middle-form">
 		<div class="container">				
 						<div class="row">								
@@ -173,6 +173,7 @@ description: ""
 																		6478 3040
 																</td>
 														</tr>
+															<tr><td colspan="2">&nbsp;</td></tr>
 												</tbody></table>
 										</div>
 								</div>
