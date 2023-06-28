@@ -97,7 +97,7 @@ font-weight: 600;
 .facility-type-title {
   font-size: 21px;
   line-height: 24px;
-  color: #000000;
+  color: #000000 !important;
   text-transform: uppercase;
   margin-bottom: 20px;
 }
