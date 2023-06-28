@@ -410,11 +410,12 @@ p {
 }
 
 .info-subtitle {
-    font-size: 18px;
-    line-height: 20px;
-    color: #414042;
-    text-transform: capitalize;
+    font-size: 18px !important;
+    line-height: 20px !important;
+    color: #414042 !important;
+    text-transform: capitalize !important;
     font-family: "nowmedium";
+    margin: 0 !important;
 }
 
 @media (max-width: 575.98px) {
