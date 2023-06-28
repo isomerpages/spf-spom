@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Explore rest and relaxation activities at this lifestyle venue for senior police officers.      
-      button: Contact Us
+      title: Explore rest and relaxation activities at this lifestyle venue for senior
+        police officers.
+      button: DISCOVER MORE
       url: /contact/
       key_highlights:
         - title: 28 DEC 2019
