@@ -20,54 +20,9 @@ description: ""
 		</div>
 </div>
 <div class="contact-middle-form">
-		<div class="container">
-				<form novalidate="novalidate" name="frmContact" id="frmContact" method="post">
-						<input id="act" name="act" type="hidden">
-						<div class="row">
-								<div class="col-lg-6 col-md-12 align-center">
-										<div class="input-wrapper">
-												<div class="input-group">
-														<div class="input-group-prepend">
-																<span id="basic-addon1" class="input-group-text"><img src="images/contact-us-type.png"></span>
-														</div>
-														<input aria-invalid="true" aria-required="true" required="" id="c_type" name="c_type" aria-describedby="basic-addon1" aria-label="Type" placeholder="Type*" class="form-control error" type="text"><label for="c_type" class="error" id="c_type-error">This field is required.</label>
-												</div>
-										</div>
-										<div class="input-wrapper">
-												<div class="input-group">
-														<div class="input-group-prepend">
-																<span id="basic-addon1" class="input-group-text"><img src="images/contact-us-name.png"></span>
-														</div>
-														<input aria-required="true" required="" id="c_name" name="c_name" aria-describedby="basic-addon1" aria-label="Name" placeholder="Name" class="form-control error" type="text"><label for="c_name" class="error" id="c_name-error">This field is required.</label>
-												</div>
-										</div>
-										<div class="input-wrapper">
-												<div class="input-group">
-														<div class="input-group-prepend">
-																<span id="basic-addon1" class="input-group-text"><img src="images/contact-us-email.png"></span>
-														</div>
-														<input aria-required="true" required="" id="c_email" name="c_email" aria-describedby="basic-addon1" aria-label="Email" placeholder="Email" class="form-control error" type="email"><label for="c_email" class="error" id="c_email-error">This field is required.</label>
-												</div>
-										</div>
-										<div class="input-wrapper">
-												<div class="input-group">
-														<div class="input-group-prepend">
-																<span id="basic-addon1" class="input-group-text"><img src="images/contact-us-mobile.png"></span>
-														</div>
-														<input id="c_mobile" name="c_mobile" aria-describedby="basic-addon1" aria-label="Mobile" placeholder="Mobile" class="form-control" type="text">
-												</div>
-										</div>
-										<div class="input-wrapper">
-												<div class="input-group">
-														<div class="input-group-prepend">
-																<span id="basic-addon1" class="input-group-text"><img src="images/contact-us-msg.png"></span>
-														</div>
-														<textarea aria-required="true" required="" id="c_message" name="c_message" aria-label="With textarea" placeholder="Message*" class="form-control form-textarea error"></textarea><label for="c_message" class="error" id="c_message-error">This field is required.</label>
-												</div>
-										</div>
-										<button name="btnSend" id="btnSend" class="contact-btn" href="#">Send It!</button>
-								</div>
-								<div class="col-lg-6 col-md-12 align-center right-wrapper">
+		<div class="container">				
+						<div class="row">								
+								<div class="col-lg-12 col-md-12 align-center right-wrapper">
 										<div class="spom-information-wrapper">
 												<h3 class="info-title">Senior Police Officers’ Mess</h3>
 												<p class="info-subtitle">153, Mount Pleasant Road Singapore 298341</p>
@@ -131,7 +86,6 @@ description: ""
 										</div>
 								</div>
 						</div>
-				</form>
 		</div>
 </div>
 <div class="contact-information-bottom">
