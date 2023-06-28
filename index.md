@@ -21,6 +21,7 @@ sections:
         - title: 16 JUL 2019
           description: SPOM Happy Hour
           url: ""
+      background: /images/banner-img.png
   - infobar:
       title: Welcome to the Senior Police Officers' Mess
       description: Constructed in 1931 within the enclave of spacious black-and-white
