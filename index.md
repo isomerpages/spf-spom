@@ -1,14 +1,13 @@
 ---
 layout: homepage
-title: Home:SPOM
+title: Home : SPOM
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Explore rest and relaxation activities at this lifestyle venue for
-        senior police officers.
+      title: Explore rest and relaxation activities at this lifestyle venue for senior police officers.      
       button: Contact Us
       url: /contact/
       key_highlights:
