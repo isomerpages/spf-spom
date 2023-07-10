@@ -13,7 +13,7 @@ description: ""
 .clear-backend {
   background: #fff;
   width: 100%;
-  height: 800px;
+  height: 520px;
   position: relative;
 }
 .clear-backend > input {
