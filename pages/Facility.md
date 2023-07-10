@@ -16,21 +16,23 @@ description: ""
 .clear-backend {
   background: #fff;
   width: 100%;
+  height: 800px;
+  position: relative;
 }
-.clear-backend .facility-left-nav input {
+.clear-backend > input {
   position: absolute;
   filter: alpha(opacity=0);
   opacity: 0;
 }
-.clear-backend .facility-left-nav input:hover {
+.clear-backend > input:hover {
   cursor: pointer;
 }
-.clear-backend .facility-left-nav input:hover + span,
-.clear-backend .facility-left-nav input:checked + span {
+.clear-backend > input:hover + span,
+.clear-backend > input:checked + span {
   background: #1e1d56;
   color: #FFF;
 }
-.clear-backend .facility-left-nav input:checked:after {
+.clear-backend > input:checked:after {
   content: ">";
   font-family: "nowbold";
   position: absolute;
@@ -39,24 +41,24 @@ description: ""
   right: 15px;
   top: 15px;
 }
-.clear-backend .facility-left-nav input:checked + span + i {
+.clear-backend > input:checked + span + i {
   color: #FFF;
 }
-.clear-backend .facility-left-nav i {
+.clear-backend > i {
   position: absolute;
   margin-top: -40px;
   padding: 0 20px;
   font-size: 20px;
 }
-.clear-backend .facility-left-nav span,
-.clear-backend .facility-left-nav i {
+.clear-backend > span,
+.clear-backend > i {
   -webkit-transition: all .5s;
      -moz-transition: all .5s;
      -o-transition: all .5s;
       transition: all .5s;
 }
-.clear-backend .facility-left-nav input,
-.clear-backend .facility-left-nav span {
+.clear-backend > input,
+.clear-backend > span {
   background: #ebe7e4;
 display: block;
 width: 200px;
@@ -69,26 +71,30 @@ font-size: 18px;
 font-weight: 600;
 }
 .tab-content {
+  position: absolute;
   top: 0;
   right: 0;
   width: calc(100% - 200px);
+  height: 100%;
   overflow: hidden;
 }
 .tab-content section {
+  position: absolute;
   width: 100%;
+  height: 100%;
   padding: 20px;
   display: none;
 }
-.clear-backend .facility-left-nav > input.tab-1:checked ~ .tab-content .tab-item-1 {
+.clear-backend > input.tab-1:checked ~ .tab-content .tab-item-1 {
   display: block;
 }
-.clear-backend .facility-left-nav > input.tab-2:checked ~ .tab-content .tab-item-2 {
+.clear-backend > input.tab-2:checked ~ .tab-content .tab-item-2 {
   display: block;
 }
-.clear-backend .facility-left-nav > input.tab-3:checked ~ .tab-content .tab-item-3 {
+.clear-backend > input.tab-3:checked ~ .tab-content .tab-item-3 {
   display: block;
 }
-.clear-backend .facility-left-nav > input.tab-4:checked ~ .tab-content .tab-item-4 {
+.clear-backend > input.tab-4:checked ~ .tab-content .tab-item-4 {
   display: block;
 }
 .facility-type-title {
@@ -100,12 +106,12 @@ font-weight: 600;
 }
 @media only screen and (max-width: 641px) {
   .avatar, 
-  .clear-backend .facility-left-nav input,
-  .clear-backend .facility-left-nav span {
+  .clear-backend > input,
+  .clear-backend > span {
     width: 60px;
     height: 60px;
   }
-  .clear-backend .facility-left-nav span {
+  .clear-backend > span {
     filter: alpha(opacity=0);
     opacity: 0;
   }
@@ -125,7 +131,6 @@ font-weight: 600;
 <section class="cms-page-container">
 <div class="container">
 <div class="clear-backend">
-<div class="facility-left-nav">
 <h3 class="facility-type-title">Type of facility</h3>
 <input type="radio" class="tab-1" name="tab" checked="checked">
 <span>Event Space</span><i class="fa fa-home"></i>
@@ -135,7 +140,6 @@ font-weight: 600;
 <span>Meeting Rooms</span><i class="fa fa-user"></i>
 <input type="radio" class="tab-4" name="tab">
 <span>Leisure</span><i class="fa fa-comment"></i>
-</div>
 <div class="tab-content">
   <section class="tab-item-1">
     <div id="event-space" class="tabcontent facility-tab-content">
