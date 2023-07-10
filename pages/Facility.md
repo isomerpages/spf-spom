@@ -13,8 +13,6 @@ description: ""
 .clear-backend {
   background: #fff;
   width: 100%;
-  height: 520px;
-  position: relative;
 }
 .clear-backend > input {
   position: absolute;
@@ -68,17 +66,13 @@ font-size: 18px;
 font-weight: 600;
 }
 .tab-content {
-  position: absolute;
   top: 0;
   right: 0;
   width: calc(100% - 200px);
-  height: 100%;
   overflow: hidden;
 }
 .tab-content section {
-  position: absolute;
   width: 100%;
-  height: 100%;
   padding: 20px;
   display: none;
 }
@@ -128,6 +122,7 @@ font-weight: 600;
 <section class="cms-page-container">
 <div class="container">
 <div class="clear-backend">
+<div class="facility-left-nav">
 <h3 class="facility-type-title">Type of facility</h3>
 <input type="radio" class="tab-1" name="tab" checked="checked">
 <span>Event Space</span><i class="fa fa-home"></i>
@@ -137,6 +132,7 @@ font-weight: 600;
 <span>Meeting Rooms</span><i class="fa fa-user"></i>
 <input type="radio" class="tab-4" name="tab">
 <span>Leisure</span><i class="fa fa-comment"></i>
+</div>
 <div class="tab-content">
   <section class="tab-item-1">
     <div id="event-space" class="tabcontent facility-tab-content">
