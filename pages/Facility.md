@@ -10,9 +10,6 @@ description: ""
         background-size: cover !important;
         height: 338px !important;
 }
-.bp-section .cms-page-container .clear-backend {
-	display: flex;
-}
 .clear-backend {
   background: #fff;
   width: 100%;
