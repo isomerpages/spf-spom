@@ -6,9 +6,10 @@ description: ""
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/photo-gallery-bg.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: 100% !important;
+        background-size: cover !important;
         height: 338px !important;
     }</style>
+<section class="cms-page-container">
 <div class="row justify-content-center abt-highlights-main">
   <div class="col-12 col-md-12 align-center text-center">
     <p class="mbr-section-subtitle align-center mbr-fonts-style pb-2 display-5"> Reminisce the joyous moments! </p>
@@ -88,3 +89,4 @@ description: ""
     </nav>
   </div>
 </div>
+</section>
