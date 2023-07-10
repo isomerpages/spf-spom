@@ -5170,15 +5170,15 @@ $max-img-height: 400px;
 	color: #fff !important;
 }
 #key-highlights .col:nth-child(1) {
-    background: url("/files/Assets/images/box-1.jpg");
+    background: url("/files/Assets/images/box-1.jpg") no-repeat;
     height: 250px;
 }
 #key-highlights .col:nth-child(2) {
-    background: url("/files/Assets/images/box-2.jpg");
+    background: url("/files/Assets/images/box-2.jpg") no-repeat;
     height: 250px;
 }
 #key-highlights .col:nth-child(3) {
-    background: url("/files/Assets/images/box-3.jpg");
+    background: url("/files/Assets/images/box-3.jpg") no-repeat;
     height: 250px;
 }
 .is-hidden-touch {
