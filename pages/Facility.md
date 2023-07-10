@@ -7,7 +7,7 @@ description: ""
 .bp-section-pagetitle {
         background: url(/files/Assets/images/facility-bg.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: 100% !important;
+        background-size: cover !important;
         height: 338px !important;
 }
 .clear-backend {
@@ -125,6 +125,7 @@ font-weight: 600;
   }
 }
 </style>
+<section class="cms-page-container">
 <div class="container">
 <div class="clear-backend">
 <h3 class="facility-type-title">Type of facility</h3>
@@ -399,3 +400,4 @@ font-weight: 600;
 </div>
 </div>
 </div>
+</section>
