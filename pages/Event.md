@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/event-bg.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: 100% !important;
+        background-size: cover !important;
         height: 338px !important;
     }
 .tabset > input[type="radio"] {
