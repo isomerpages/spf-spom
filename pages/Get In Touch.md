@@ -6,10 +6,11 @@ description: ""
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/contact-us-bg.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: 100% !important;
+        background-size: cover !important;
         height: 338px !important;
     }
 </style>
+<section class="cms-page-container">
 <div class="container">
 		<div class="row justify-content-center contact-us-highlights-main">
 				<div class="col-12 col-md-12 align-center text-center">
@@ -187,3 +188,4 @@ description: ""
 				</div>
 		</div>
 </div>
+</section>
