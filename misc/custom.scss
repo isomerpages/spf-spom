@@ -5197,5 +5197,34 @@ div.has-text-centered p {
 	color: #58595b;
 	line-height: 30px !important;
 }
+@media screen and (max-width: 1023px) {	
+	.navbar-brand {
+		display: flex;
+		margin-right: 0;
+	}
+	nav.navbar {
+		padding: 0 20px;
+	}
+	.navbar-burger {
+		width: 3.25rem;
+	}
+	.bp-masthead {
+		display: none;
+	}
+}
+@media screen and (max-width: 768px) {
+	.bp-hero .bp-hero-body .bp-container {
+		margin-top: 0 !important;
+	}
+	.bp-hero .bp-hero-body .bp-container h1 b {
+		font-size: 1.5rem;
+		line-height: 2.0rem;
+	}
+}
+@media screen and (max-width: 567px) {
+	#key-highlights .row.is-gapless {
+		display: block;
+	}
+}
 /*# sourceMappingURL=style.css.map */
 
