@@ -9,7 +9,7 @@ description: ""
         background-size: cover !important;
         height: 338px !important;
     }</style>
-<section class="about-container">
+<section class="cms-page-container">
         <div class="main-content">
             <div class="container">
                 <div class="row justify-content-center abt-highlights-main">
