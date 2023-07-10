@@ -6,10 +6,10 @@ description: ""
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center !important;
         background-size: auto;
-        background-size: 100% !important;
+        background-size: cover !important;
         height: 338px !important;
     }</style>
-<section>
+<section class="about-container">
         <div class="main-content">
             <div class="container">
                 <div class="row justify-content-center abt-highlights-main">
