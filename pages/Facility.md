@@ -79,7 +79,7 @@ font-weight: 600;
   padding: 20px;
   display: none;
 }
-.clear-backend .facility-left-nav input.tab-1:checked ~ .tab-content .tab-item-1 {
+.clear-backend .facility-left-nav input.tab-1:checked .tab-content .tab-item-1 {
   display: block;
 }
 .clear-backend .facility-left-nav input.tab-2:checked ~ .tab-content .tab-item-2 {
