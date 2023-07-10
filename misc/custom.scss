@@ -5289,5 +5289,43 @@ div.has-text-centered p {
 		margin-bottom: 0;
 	}
 }
+@media screen and (max-width: 1279px) {
+	.bp-section .cms-page-container .photo-gallery-container nav ul li:last-child {
+		margin-bottom: 0;
+	}
+
+	.bp-section .cms-page-container .photo-gallery-container nav ul li a {
+		margin-bottom: 0;
+	}
+	.bp-section .cms-page-container .dining-mission-main .dining-container .dining-detail-left .dining-btn a {
+		line-height: 1.5;
+		margin-bottom: 0;
+	}
+	.bp-section .cms-page-container .dining-mission-main .dining-container .dining-detail-left .dining-table {
+		width: 65%;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.bp-section .print-content .tabset .tab-panels .tab-panel .tab-pane .row {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.bp-section .print-content .tabset .tab-panels .event-tab-content {
+		margin-bottom: 0 !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.bp-section .bp-container .cms-page-container .abt-highlights-main {
+		padding-top: 0;
+	}
+}
+
+@media screen and (min-width: 600px) {
+	.bp-section .cms-page-container .tab-content .tabcontent.facility-tab-content .facility-media .demo .item .gallery {
+		padding-top: 200px !important;
+	}
+}
 /*# sourceMappingURL=style.css.map */
 
