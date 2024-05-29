@@ -2,6 +2,7 @@
 title: Event
 permalink: /event/
 description: ""
+variant: markdown
 ---
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/event-bg.jpg) no-repeat center center !important;
@@ -105,20 +106,20 @@ label.read-more-trigger {
   display: inline-block;
 }*/
 </style>
-<div class="tabset">
-  <!-- Tab 1 -->
+<div class="tabset">	
+	<input type="radio" name="tabset" id="tab4" aria-controls="2020" checked="">
+  <label for="tab4" class="nav-link">2020</label>
+  
   <input type="radio" name="tabset" id="tab1" aria-controls="2019" checked="">
   <label for="tab1" class="nav-link">2019</label>
-  <!-- Tab 2 -->
+  
   <input type="radio" name="tabset" id="tab2" aria-controls="2018">
   <label for="tab2" class="nav-link">2018</label>
-  <!-- Tab 3 -->
+  
   <input type="radio" name="tabset" id="tab3" aria-controls="2017">
   <label for="tab3" class="nav-link">2017</label>
-	
-  <div class="tab-panels">
-    <section id="2019" class="tab-panel">
-      <!-- ------2019------ -->
+	<div class="tab-panels">
+		<section id="2020" class="tab-panel">      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
             <div class="row">
@@ -179,7 +180,7 @@ label.read-more-trigger {
                         </p>
                       </div>
 		      <label class="read-more-trigger" for="read-more-controller"></label>
-                      <!--<a class="moreless-button moreless-button-one">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -208,7 +209,108 @@ label.read-more-trigger {
                           <strong>Mr Andrew Ong, P&amp;O</strong>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-two">more +</a>-->
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+  </section>
+		
+    <section id="2019" class="tab-panel">
+      
+        <div class="event-tab-content" id="pills-tabContent">
+          <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+            <div class="row">
+              <div class="event">
+                <div class="col-12 col-sm-6">
+                  <div class="event-image">
+                    <img src="/files/Assets/media/event/2019/event-1.png" alt="spom happy hour">
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="event-details">
+                    <h3 class="event-title">SPOM Happy Hour</h3>
+                    <span class="event-date"> 26 July 2019 </span>
+                    <p> On the idyllic Friday evening of 26 July 2019, officers relaxed in the comfort of the SPOM Lounge and Ante Hall after hours. Mugs clinked and toasts were made amid the excited conversation that flowed freely </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="event">
+                <div class="col-12 col-sm-6">
+                  <div class="event-image">
+                    <img src="/files/Assets/media/event/2019/event-2.png" alt="spom happy hour">
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="event-details">
+                    <h3 class="event-title">SPOM Durian Night</h3>
+                    <span class="event-date"> 12 July 2019 </span>
+                    <p> The familiar aroma of durians first greeted the guests as they arrived and it was evident, “The King is back”. The evening kicked off with the traditional opening of the first durian by our Guests of Honour, the Commissioner of Police, Mr Hoong Wee Teck, and the Attorney-General of the Republic of Singapore, Mr Lucien Wong. </p>
+                    <p>SPOM members had an enjoyable evening savouring the “King” and other tropical fruits. As always, SPOM members left satiated and all durian cravings fulfilled!</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="event">
+                <div class="col-12 col-sm-6">
+                  <div class="event-image">
+                    <img src="/files/Assets/media/event/2019/whiskeynight.jpg" alt="WHISKY APPRECIATION NIGHT">
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="event-details">
+                    <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
+                    <span class="event-date"> 3 March 2019 </span>		    
+                    <div id="section" class="show-more-wrp">
+		      <input class="read-more-state" id="read-more-controller" type="checkbox">
+                      <div class="article read-more-wrap">
+                        <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
+                        <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
+                        <p class="read-more-target"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
+                        <p class="read-more-target"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
+                          <strong>Mr Seah Tong Pin, Lima Division</strong>
+                        </p>
+                        <p class="read-more-target"> “An educational night where we learnt more about Whisky” <br>
+                          <strong>Mr Luther Kim, Ops Dept</strong>
+                        </p>
+                      </div>
+		      <label class="read-more-trigger" for="read-more-controller"></label>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="event no-border">
+                <div class="col-12 col-sm-6">
+                  <div class="event-image">
+                    <img src="/files/Assets/media/event/2019/spomlympic_2019.png" alt="spom happy hour">
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="event-details">
+                    <h3 class="event-title">SPOMlympics</h3>
+                    <span class="event-date"> 25 January 2019 </span>
+                    <div id="section" class="show-more-wrp">
+                      <div class="article">
+                        <p> On 25 Jan 2019, SPOMlympics saw a total of 26 teams comprising more than 100 members from various units coming together to compete. Members faced the challenge of evading arrows shot at them in Archery Tag, non-stop shooting into hoops at the Basketball Shootout and having adrenaline acceleration with a game of Daytona racing. </p>
+                        <p> After an exciting evening of hits and misses, members gathered in the Ante Hall for the address by Mr How Kwang Hwee, the President of the Mess Committee (PMC) and the prize presentation. </p>
+                        <p class="read-more-target"> The prize presentation started with the SPOM running challenge where Alpha Division clinched the Challenge Shield once again. Apart from the top three team prizes from SPOMlympics, nine other prizes were given out to outstanding individuals for their special “abilities”, ranging from being the “Butter Finger” at Basketball Shootout to “King of the Road” at Daytona. The event ended with a sumptuous dinner and smiles all around. </p>
+                        <p class="read-more-target"> “Really enjoyed the fun and laughter created! Kudos to the committee. It is a testament of hardwork and planning put together by the team.” <br>
+                          <strong>Mr Alex Tan, ProCom</strong>
+                        </p>
+                        <p class="read-more-target"> “A great evening, jam-packed with fun games, good company and laughter all round!”. <br>
+                          <strong>Mr Andrew Ong, P&amp;O</strong>
+                        </p>
+                      </div>
+                      
                     </div>
                   </div>
                 </div>
@@ -218,7 +320,7 @@ label.read-more-trigger {
         </div>
   </section>
 <section id="2018" class="tab-panel">
-      <!-- -----2018 -->
+      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
             <div class="row">
@@ -244,7 +346,7 @@ label.read-more-trigger {
                           <strong>Mr Teo Hong Yi, MPD</strong>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-three">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -277,7 +379,7 @@ label.read-more-trigger {
                           <b> Written by: Mr Boh Ping Hui</b>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-four">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -306,7 +408,7 @@ label.read-more-trigger {
                           <strong>Mr Joel Ho, CCK NPC</strong>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-five">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -345,7 +447,7 @@ label.read-more-trigger {
                           <b> Written by: Mr Garret Chua</b>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-six">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -372,7 +474,7 @@ label.read-more-trigger {
                           <strong>SUPT (1A) Ang Eng Seng</strong>
                         </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-seven">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -393,7 +495,7 @@ label.read-more-trigger {
                         <p> SPOM Annual Dinner is the one-day of the year, where our fraternity of senior officers gather at a single event and cast aside appointments, ranks and seniority as we celebrate our identity together as one SPOM. The scale of this event brought together the different SPOM Sub-Committees (Food &amp; Beverage, Membership and Internal Communications and Publications) to plan and execute the event. They joined existing members and retired senior officers that included former Commissioner of Police, Mr Tee Tua Ba, and former Deputy Commissioners. FY 2018 / 2019 was unique as 2 SPOM Annual Dinners were held in a year. </p>
                         <p class="read-more-target"> For SPOM Annual Dinner 2018, led by Mr Elvis Chong of Operations Department with the theme of an ‘Enchanted Garden’, achieved a record attendance of 550 guests. Annual Dinner 2018 introduced unique elements for the first time in this edition; first introduction of a digital LED back-drop, a performance by ‘Baracuda Batucada’, a percussion band from Ngee Ann Polytechnic, a unique ‘LED Wing Dance’, a powerful display of SPF’s talents with 4 bands serenading guests and the one-and-only ‘Kumar’ stole the show. </p>
                       </div>
-                      <!--<a class="moreless-button moreless-button-eight">more +</a>-->
+                      
                     </div>
                   </div>
                 </div>
@@ -403,7 +505,7 @@ label.read-more-trigger {
         </div>
     </section>
     <section id="2017" class="tab-panel">
-      <!-- -----2017 -->
+      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
             <div class="row">
