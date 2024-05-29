@@ -110,7 +110,7 @@ label.read-more-trigger {
 	<input type="radio" name="tabset" id="tab4" aria-controls="2020" checked="">
   <label for="tab4" class="nav-link">2020</label>
   
-  <input type="radio" name="tabset" id="tab1" aria-controls="2019" checked="">
+  <input type="radio" name="tabset" id="tab1" aria-controls="2019">
   <label for="tab1" class="nav-link">2019</label>
   
   <input type="radio" name="tabset" id="tab2" aria-controls="2018">
