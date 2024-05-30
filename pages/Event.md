@@ -106,121 +106,17 @@ label.read-more-trigger {
   display: inline-block;
 }*/
 </style>
-<div class="tabset">	
-	<input type="radio" name="tabset" id="tab4" aria-controls="2020" checked="">
-  <label for="tab4" class="nav-link">2020</label>
-  
-  <input type="radio" name="tabset" id="tab1" aria-controls="2019">
+<div class="tabset">
+	<input type="radio" name="tabset" id="tab1" aria-controls="2019">
   <label for="tab1" class="nav-link">2019</label>
   
   <input type="radio" name="tabset" id="tab2" aria-controls="2018">
   <label for="tab2" class="nav-link">2018</label>
   
   <input type="radio" name="tabset" id="tab3" aria-controls="2017">
-  <label for="tab3" class="nav-link">2017</label>
-	<div class="tab-panels">
-		<section id="2020" class="tab-panel">      
-        <div class="event-tab-content" id="pills-tabContent">
-          <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-            <div class="row">
-              <div class="event">
-                <div class="col-12 col-sm-6">
-                  <div class="event-image">
-                    <img src="/files/Assets/media/event/2019/event-1.png" alt="spom happy hour">
-                  </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                  <div class="event-details">
-                    <h3 class="event-title">SPOM Happy Hour</h3>
-                    <span class="event-date"> 26 July 2019 </span>
-                    <p> On the idyllic Friday evening of 26 July 2019, officers relaxed in the comfort of the SPOM Lounge and Ante Hall after hours. Mugs clinked and toasts were made amid the excited conversation that flowed freely </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="event">
-                <div class="col-12 col-sm-6">
-                  <div class="event-image">
-                    <img src="/files/Assets/media/event/2019/event-2.png" alt="spom happy hour">
-                  </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                  <div class="event-details">
-                    <h3 class="event-title">SPOM Durian Night</h3>
-                    <span class="event-date"> 12 July 2019 </span>
-                    <p> The familiar aroma of durians first greeted the guests as they arrived and it was evident, “The King is back”. The evening kicked off with the traditional opening of the first durian by our Guests of Honour, the Commissioner of Police, Mr Hoong Wee Teck, and the Attorney-General of the Republic of Singapore, Mr Lucien Wong. </p>
-                    <p>SPOM members had an enjoyable evening savouring the “King” and other tropical fruits. As always, SPOM members left satiated and all durian cravings fulfilled!</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="event">
-                <div class="col-12 col-sm-6">
-                  <div class="event-image">
-                    <img src="/files/Assets/media/event/2019/whiskeynight.jpg" alt="WHISKY APPRECIATION NIGHT">
-                  </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                  <div class="event-details">
-                    <h3 class="event-title">WHISKY APPRECIATION NIGHT – A MASTERCLASS</h3>
-                    <span class="event-date"> 3 March 2019 </span>		    
-                    <div id="section" class="show-more-wrp">
-		      <input class="read-more-state" id="read-more-controller" type="checkbox">
-                      <div class="article read-more-wrap">
-                        <p> Whisky always had this aura of mystery and sophistication and to help dispel some of the myths and allow officers to appreciate it better, SPOM organised an appreciation night on 1 March to learn more about the “Water of Life”. </p>
-                        <p> The evening started off with 2 different “flights” (or sessions) arranged by the organisers to accommodate the talk given by a brand ambassador. Attendees learnt more about the history of whisky, how it is made and how to best appreciate it. </p>
-                        <p class="read-more-target"> Stepping into the antehall after the talk, Officers enjoyed an amazing spread of food to accompany the various expressions of whisky that were available for sampling. There was even a quiz where participants won whisky glasses and mini sample bottles to take home with them. It was yet another evening filled with laughter and everyone left with a big smile on their face! </p>
-                        <p class="read-more-target"> “An excellent event to have a mini reunion accompanied by a sophisticated drink!” <br>
-                          <strong>Mr Seah Tong Pin, Lima Division</strong>
-                        </p>
-                        <p class="read-more-target"> “An educational night where we learnt more about Whisky” <br>
-                          <strong>Mr Luther Kim, Ops Dept</strong>
-                        </p>
-                      </div>
-		      <label class="read-more-trigger" for="read-more-controller"></label>
-                      
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="event no-border">
-                <div class="col-12 col-sm-6">
-                  <div class="event-image">
-                    <img src="/files/Assets/media/event/2019/spomlympic_2019.png" alt="spom happy hour">
-                  </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                  <div class="event-details">
-                    <h3 class="event-title">SPOMlympics</h3>
-                    <span class="event-date"> 25 January 2019 </span>
-                    <div id="section" class="show-more-wrp">
-                      <div class="article">
-                        <p> On 25 Jan 2019, SPOMlympics saw a total of 26 teams comprising more than 100 members from various units coming together to compete. Members faced the challenge of evading arrows shot at them in Archery Tag, non-stop shooting into hoops at the Basketball Shootout and having adrenaline acceleration with a game of Daytona racing. </p>
-                        <p> After an exciting evening of hits and misses, members gathered in the Ante Hall for the address by Mr How Kwang Hwee, the President of the Mess Committee (PMC) and the prize presentation. </p>
-                        <p class="read-more-target"> The prize presentation started with the SPOM running challenge where Alpha Division clinched the Challenge Shield once again. Apart from the top three team prizes from SPOMlympics, nine other prizes were given out to outstanding individuals for their special “abilities”, ranging from being the “Butter Finger” at Basketball Shootout to “King of the Road” at Daytona. The event ended with a sumptuous dinner and smiles all around. </p>
-                        <p class="read-more-target"> “Really enjoyed the fun and laughter created! Kudos to the committee. It is a testament of hardwork and planning put together by the team.” <br>
-                          <strong>Mr Alex Tan, ProCom</strong>
-                        </p>
-                        <p class="read-more-target"> “A great evening, jam-packed with fun games, good company and laughter all round!”. <br>
-                          <strong>Mr Andrew Ong, P&amp;O</strong>
-                        </p>
-                      </div>
-                      
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-  </section>
-		
-    <section id="2019" class="tab-panel">
-      
+  <label for="tab3" class="nav-link">2017</label>	
+	<div class="tab-panels">		
+    <section id="2019" class="tab-panel">      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
             <div class="row">
