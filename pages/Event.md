@@ -107,16 +107,16 @@ label.read-more-trigger {
 }*/
 </style>
 <div class="tabset">
-	<input type="radio" name="tabset" id="tab1" aria-controls="2019">
-  <label for="tab1" class="nav-link">2019</label>
-  
+	<input type="radio" name="tabset" id="tab1" aria-controls="2019" checked="">
+  <label for="tab1" class="nav-link">2019</label>  
+	
   <input type="radio" name="tabset" id="tab2" aria-controls="2018">
-  <label for="tab2" class="nav-link">2018</label>
-  
+  <label for="tab2" class="nav-link">2018</label>  
+	
   <input type="radio" name="tabset" id="tab3" aria-controls="2017">
   <label for="tab3" class="nav-link">2017</label>	
-	<div class="tab-panels">		
-    <section id="2019" class="tab-panel">      
+	<div class="tab-panels">
+		<section id="2019" class="tab-panel">      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
             <div class="row">
@@ -176,8 +176,7 @@ label.read-more-trigger {
                           <strong>Mr Luther Kim, Ops Dept</strong>
                         </p>
                       </div>
-		      <label class="read-more-trigger" for="read-more-controller"></label>
-                      
+											<label class="read-more-trigger" for="read-more-controller"></label>                      
                     </div>
                   </div>
                 </div>
@@ -205,8 +204,7 @@ label.read-more-trigger {
                         <p class="read-more-target"> “A great evening, jam-packed with fun games, good company and laughter all round!”. <br>
                           <strong>Mr Andrew Ong, P&amp;O</strong>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -215,8 +213,7 @@ label.read-more-trigger {
           </div>
         </div>
   </section>
-<section id="2018" class="tab-panel">
-      
+  <section id="2018" class="tab-panel">      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills2018" role="tabpanel" aria-labelledby="pills2018-tab">
             <div class="row">
@@ -241,8 +238,7 @@ label.read-more-trigger {
                         <p class="read-more-target"> “It was a great opportunity for me to spend time with family and also bond with friends and colleagues!” <br>
                           <strong>Mr Teo Hong Yi, MPD</strong>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -274,8 +270,7 @@ label.read-more-trigger {
                         <p class="read-more-target">
                           <b> Written by: Mr Boh Ping Hui</b>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -303,8 +298,7 @@ label.read-more-trigger {
                         <p class="read-more-target"> “It was a night where members got together to enjoy each other’s company. The lamb and wine was delicious.” <br>
                           <strong>Mr Joel Ho, CCK NPC</strong>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -342,8 +336,7 @@ label.read-more-trigger {
                         <p class="read-more-target">
                           <b> Written by: Mr Garret Chua</b>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -369,8 +362,7 @@ label.read-more-trigger {
                         <p class="read-more-target"> “The food and durian were fabulous, and the weather was kind. These, and the good company made for an extremely enjoyable evening!” <br>
                           <strong>SUPT (1A) Ang Eng Seng</strong>
                         </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -390,8 +382,7 @@ label.read-more-trigger {
                       <div class="article">
                         <p> SPOM Annual Dinner is the one-day of the year, where our fraternity of senior officers gather at a single event and cast aside appointments, ranks and seniority as we celebrate our identity together as one SPOM. The scale of this event brought together the different SPOM Sub-Committees (Food &amp; Beverage, Membership and Internal Communications and Publications) to plan and execute the event. They joined existing members and retired senior officers that included former Commissioner of Police, Mr Tee Tua Ba, and former Deputy Commissioners. FY 2018 / 2019 was unique as 2 SPOM Annual Dinners were held in a year. </p>
                         <p class="read-more-target"> For SPOM Annual Dinner 2018, led by Mr Elvis Chong of Operations Department with the theme of an ‘Enchanted Garden’, achieved a record attendance of 550 guests. Annual Dinner 2018 introduced unique elements for the first time in this edition; first introduction of a digital LED back-drop, a performance by ‘Baracuda Batucada’, a percussion band from Ngee Ann Polytechnic, a unique ‘LED Wing Dance’, a powerful display of SPF’s talents with 4 bands serenading guests and the one-and-only ‘Kumar’ stole the show. </p>
-                      </div>
-                      
+                      </div>                      
                     </div>
                   </div>
                 </div>
@@ -400,8 +391,7 @@ label.read-more-trigger {
           </div>
         </div>
     </section>
-    <section id="2017" class="tab-panel">
-      
+    <section id="2017" class="tab-panel">      
         <div class="event-tab-content" id="pills-tabContent">
           <div class="tab-pane" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
             <div class="row">
