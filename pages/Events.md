@@ -20,6 +20,47 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Updates On Gym Equipment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 June 2024
+<br>8 June 2024
+<br>15 June 2024
+<br>22 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tennis Clinic</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SPOM E-SPORTS CHALLENGE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 December 2023
+<br>2 December 2023
+<br>3 December 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SPOM X SCSM 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 July 2019</p>
 </td>
 <td rowspan="1" colspan="1">
