@@ -4,7 +4,7 @@ permalink: /spom-happy-hour/
 variant: tiptap
 description: ""
 ---
-<h3>SPOM Happy Hour</h3>
+<h3><strong>SPOM Happy Hour</strong></h3>
 <p>26 July 2019</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_1.png">
