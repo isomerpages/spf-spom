@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOMlympics</strong></h3>
 <p>6 February 2017</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="spomlympic 2017" src="/images/spomlympic_2017.png">
 </div>
