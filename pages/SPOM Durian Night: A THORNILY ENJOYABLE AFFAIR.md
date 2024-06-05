@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOM Durian Night <br>A THORNILY ENJOYABLE AFFAIR</strong></h3>
 <p>10 August 2018</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="durian night" src="/images/duriannight.jpg">
 </div>
