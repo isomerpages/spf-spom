@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>May 2024
-<br><strong>Updates On Gym Equipment</strong>
+<br><strong><a href="/updates-on-gym-equipment/" rel="noopener noreferrer nofollow" target="_blank">Updates On Gym Equipment</a></strong>
 </p>
 <p></p>
 </td>
