@@ -19,171 +19,130 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>May 24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Updates On Gym Equipment</strong>
+<td rowspan="1" colspan="2">
+<p>May 2024
+<br><strong>Updates On Gym Equipment</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>01 Jun 24
-<br>08 Jun 24
-<br>15 Jun 24
-<br>22 Jun 24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tennis Clinic</strong>
+<td rowspan="1" colspan="2">
+<p>01 Jun to 22 Jun 2024
+<br><strong>Tennis Clinic</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>27 Jan 24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM E-SPORTS CHALLENGE</strong>
+<td rowspan="1" colspan="2">
+<p>27 Jan 24
+<br><strong>SPOM E-SPORTS CHALLENGE</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>01 Dec 23
-<br>02 Dec 23
-<br>03 Dec 23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM X SCSM 2023</strong>
+<td rowspan="1" colspan="2">
+<p>01 Dec to 03 Dec 2023
+<br><strong>SPOM X SCSM 2023</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>26 Jul 19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Happy Hour</strong>
+<td rowspan="1" colspan="2">
+<p>26 Jul 2019
+<br><strong>SPOM Happy Hour</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>12 Jul 19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Durian Night</strong>
+<td rowspan="1" colspan="2">
+<p>12 Jul 2019
+<br><strong>SPOM Durian Night</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>03 Mar 19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>WHISKY APPRECIATION NIGHT – A MASTERCLASS</strong>
+<td rowspan="1" colspan="2">
+<p>03 Mar 2019
+<br><strong>WHISKY APPRECIATION NIGHT – A MASTERCLASS</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>25 Jan 19</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOMlympics</strong>
+<td rowspan="1" colspan="2">
+<p>25 Jan 2019
+<br><strong>SPOMlympics</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>22 Dec 18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM YEAR-END CARNIVAL</strong>
+<td rowspan="1" colspan="2">
+<p>22 Dec 2018
+<br><strong>SPOM YEAR-END CARNIVAL</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>23 Nov 18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>November Fest: Beer- Certainly One of Our Most Beloved Drinks</strong>
+<td rowspan="1" colspan="2">
+<p>23 Nov 2018
+<br><strong>November Fest: Beer- Certainly One of Our Most Beloved Drinks</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>20 Sep 18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM BBQ Night</strong>
+<td rowspan="1" colspan="2">
+<p>20 Sep 2018
+<br><strong>SPOM BBQ Night</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>31 Aug 18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Happy Hour 2018</strong>
+<td rowspan="1" colspan="2">
+<p>31 Aug 2018
+<br><strong>SPOM Happy Hour 2018</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>10 Aug 18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Durian Night</strong>
+<td rowspan="1" colspan="2">
+<p>10 Aug 2018
+<br><strong>SPOM Durian Night</strong>
 </p>
 <p><strong>A THORNILY ENJOYABLE AFFAIR</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Annual Dinner</strong>
+<td rowspan="1" colspan="2">
+<p>2018
+<br><strong>SPOM Annual Dinner</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>24 Mar 17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Medal 2017 (Golf)</strong>
+<td rowspan="1" colspan="2">
+<p>24 Mar 2017
+<br><strong>SPOM Medal 2017 (Golf)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>24 Feb 17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Basic Photography Course</strong>
+<td rowspan="1" colspan="2">
+<p>24 Feb 2017
+<br><strong>SPOM Basic Photography Course</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>06 Feb 17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOMlympics</strong>
+<td rowspan="1" colspan="2">
+<p>06 Feb 2017
+<br><strong>SPOMlympics</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>20 Jan 17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPOM Durian Night</strong>
+<td rowspan="1" colspan="2">
+<p>20 Jan 2017
+<br><strong>SPOM Durian Night</strong>
 </p>
 </td>
 </tr>
