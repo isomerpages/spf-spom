@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOM Basic Photography Course</strong></h3>
 <p>24 February 2017</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="photography course" src="/images/photography_2017.png">
 </div>
