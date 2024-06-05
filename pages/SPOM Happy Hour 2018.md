@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOM Happy Hour 2018</strong></h3>
 <p>31 August 2018</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="happy hour 2018" src="/images/happyhour__1_.jpg">
 </div>
