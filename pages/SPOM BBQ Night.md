@@ -6,7 +6,9 @@ description: ""
 ---
 <h3><strong>SPOM BBQ Night</strong></h3>
 <p>20 September 2018</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="bbq night" src="/images/bbqnight__2_.jpg">
+</div>
 <p>Despite the heavy downpour, the high spirits of our members were not dampened,
 buoyed by the gastronomic delights served during the SPOM BBQ. With “Variety”
 being the aim of the event, it could not be better portrayed than the wide
