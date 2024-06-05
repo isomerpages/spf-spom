@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOM Medal 2017 (Golf)</strong></h3>
 <p>24 March 2017</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="golf 2017" src="/images/golf_2017.png">
 </div>
