@@ -34,7 +34,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>27 Jan 24
+<p>27 Jan 2024
 <br><strong>SPOM E-SPORTS CHALLENGE</strong>
 </p>
 </td>
