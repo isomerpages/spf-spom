@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May 2024</p>
+<p>May 24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Updates On Gym Equipment</strong>
@@ -29,10 +29,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>01-06-2024
-<br>08-06-2024
-<br>15-06-2024
-<br>22-06-2024</p>
+<p>01 Jun 24
+<br>08 Jun 24
+<br>15 Jun 24
+<br>22 Jun 24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tennis Clinic</strong>
@@ -41,7 +41,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27-01-2024</p>
+<p>27 Jan 24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM E-SPORTS CHALLENGE</strong>
@@ -50,9 +50,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>01-12-2023
-<br>02-12-2023
-<br>03-12-2023</p>
+<p>01 Dec 23
+<br>02 Dec 23
+<br>03 Dec 23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM X SCSM 2023</strong>
@@ -61,7 +61,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26-07-2019</p>
+<p>26 Jul 19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Happy Hour</strong>
@@ -70,7 +70,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12-07-2019</p>
+<p>12 Jul 19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Durian Night</strong>
@@ -79,7 +79,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>03-03-2019</p>
+<p>03 Mar 19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>WHISKY APPRECIATION NIGHT – A MASTERCLASS</strong>
@@ -88,7 +88,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-01-2019</p>
+<p>25 Jan 19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOMlympics</strong>
@@ -97,7 +97,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22-12-2018</p>
+<p>22 Dec 18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM YEAR-END CARNIVAL</strong>
@@ -106,7 +106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23-11-2018</p>
+<p>23 Nov 18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>November Fest: Beer- Certainly One of Our Most Beloved Drinks</strong>
@@ -115,7 +115,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20-09-2018</p>
+<p>20 Sep 18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM BBQ Night</strong>
@@ -124,7 +124,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31-08-2018</p>
+<p>31 Aug 18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Happy Hour 2018</strong>
@@ -133,7 +133,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10-08-2018</p>
+<p>10 Aug 18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Durian Night</strong>
@@ -153,7 +153,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-03-2017</p>
+<p>24 Mar 17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Medal 2017 (Golf)</strong>
@@ -162,7 +162,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-02-2017</p>
+<p>24 Feb 17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Basic Photography Course</strong>
@@ -171,7 +171,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>06-02-2017</p>
+<p>06 Feb 17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOMlympics</strong>
@@ -180,7 +180,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20-01-2017</p>
+<p>20 Jan 17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPOM Durian Night</strong>
