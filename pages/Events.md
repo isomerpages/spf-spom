@@ -11,14 +11,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>May 2024
 <br><strong>Updates On Gym Equipment</strong>
