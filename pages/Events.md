@@ -11,17 +11,18 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="2" colspan="2">
 <p>May 2024
 <br><strong><a href="/updates-on-gym-equipment/" rel="noopener noreferrer nofollow" target="_blank">Updates On Gym Equipment</a></strong>
 </p>
 <p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>01 Jun to 22 Jun 2024
-<br><strong>Tennis Clinic</strong>
+<br><strong><a href="/tennis-clinic/" rel="noopener noreferrer nofollow" target="_blank">Tennis Clinic</a></strong>
 </p>
 <p></p>
 </td>
@@ -29,7 +30,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>27 Jan 2024
-<br><strong>SPOM E-SPORTS CHALLENGE</strong>
+<br><strong><a href="/spom-e-sports-challenge/" rel="noopener noreferrer nofollow" target="_blank">SPOM E-SPORTS CHALLENGE</a></strong>
 </p>
 <p></p>
 </td>
@@ -37,7 +38,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>01 Dec to 03 Dec 2023
-<br><strong>SPOM X SCSM 2023</strong>
+<br><strong><a href="/spom-x-scsm-2023/" rel="noopener noreferrer nofollow" target="_blank">SPOM X SCSM 2023</a></strong>
 </p>
 <p></p>
 </td>
