@@ -6,6 +6,7 @@ description: ""
 ---
 <h3><strong>SPOM Annual Dinner</strong></h3>
 <p>2018</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="annual dinner" src="/images/annualdinner.jpg">
 </div>
