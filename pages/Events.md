@@ -110,8 +110,7 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>10 Aug 2018
 <br><strong>SPOM Durian Night</strong>
-</p>
-<p><strong>A THORNILY ENJOYABLE AFFAIR</strong>
+<br><strong>A THORNILY ENJOYABLE AFFAIR</strong>
 </p>
 <p></p>
 </td>
