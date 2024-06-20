@@ -10,7 +10,7 @@ variant: markdown
         background-size: cover !important;
         height: 338px !important;
     }
-	/* Dining css starts */
+    /* Dining css starts */
 
 .dining-main {
     background: url(/files/Assets/images/dining-bg.jpg) no-repeat center center;
@@ -117,7 +117,7 @@ variant: markdown
 }
 
 .dining-container .dining-detail-left .dining-title {
-    font-size: 20px;
+    /*font-size: 20px;*/
     line-height: 22px;
     color: #414042;
     margin-top:10px;
@@ -130,7 +130,7 @@ variant: markdown
 }
 
 .dining-container .dining-detail-left .dining-table {
-    width: 55%;
+    /*width: 55%;*/
     margin-bottom: 3.3rem;
 }
 
@@ -168,7 +168,7 @@ variant: markdown
     padding-left: 0;
     margin: 0;
 }
-	.gallery {
+    .gallery {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
@@ -267,20 +267,20 @@ variant: markdown
                             <div class="demo">
                                 <div class="item">
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
-																			<div class="gallery">
+                                                                            <div class="gallery">
                                         <input id="img-tab-1" name="select" checked="checked" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-1"></label>
                                         <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
                                         <input id="img-tab-2" name="select2" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-2.jpg);" for="img-tab-2"></label>
                                         <img border="0" src="/files/Assets/media/facility/dining/dine-2.jpg">
-																				<input id="img-tab-3" name="select" type="radio">
+                                                                                <input id="img-tab-3" name="select" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-3.jpg);" for="img-tab-3"></label>
                                         <img border="0" src="/files/Assets/media/facility/dining/dine-3.jpg">
-																				 <input id="img-tab-4" name="select" checked="checked" type="radio">
+                                                                                 <input id="img-tab-4" name="select" checked="checked" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-4"></label>
                                         <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
-                                    </div>																
+                                    </div>                                                                
                                     </div>
                                 </div>
                             </div>
