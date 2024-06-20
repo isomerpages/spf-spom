@@ -479,44 +479,55 @@ $max-img-height: 400px;
 .gallery2 input[name="select2"]:checked + label:before {
   border: 1px solid #000;
 }	
-
 .gallery3 {
-  display: flex;
-    margin: 10px auto !important;
-    max-width: $max-img-width !important;
-    position: relative !important;
-    padding-top: 300px !important;
-    
-    @media screen and (min-width: $max-img-width){
-      padding-top: 300px !important;
-    }  
-  &__img {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    opacity: 0 !important;
-    transition: opacity 0.3s ease-in-out !important;
-  }  
-   &__thumb {
-    padding-top: 6px !important;
-    margin: 6px !important;
-    display: block !important;
-  }  
-  &__selector {
-    position: absolute !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    
-    &:checked {
-      + .gallery3__img {
-        opacity: 1 !important;
-      }
-      ~ .gallery3__thumb > img {
-        box-shadow: 0 0 0 3px #0be2f6 !important;
-      }
-    }
-  } 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  align-content: start;
+  max-width: 700px;
+  margin: 0 auto;
+  transition: all 150ms linear;
 }
+.gallery3 input[type="radio"] {
+  display: none;
+}
+.gallery3 label {
+  position: relative;
+  display: block;
+  padding-bottom: 60%;
+  margin: 5px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.gallery3 label:before {
+  border: 1px solid #e3e3e3;
+  content: '';
+  position: absolute;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  top: -5px;
+}
+.gallery3 img {
+  display: none;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  width: 100%;
+  transition: all 150ms linear;
+}
+.gallery2 input[name="select3"]:checked + label + img {
+  display: block;
+}
+.gallery3 input[name="select3"]:checked + label:before {
+  border: 1px solid #000;
+}	
 </style>
 <section class="cms-page-container">
 <div class="container">
@@ -537,22 +548,21 @@ $max-img-height: 400px;
             <div class="demo">
               <div class="item">
                 <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
-									<div class="gallery">
-											<input id="img-tab-1" name="select" checked="checked" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVPrivateRoom.jpg);" for="img-tab-1"></label>
-										<img border="0" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
-										<input id="img-tab-2" name="select" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVLounge.jpg);" for="img-tab-2"></label>
-										<img border="0" src="/files/Assets/media/facility/KTVLounge.jpg">
-										<input id="img-tab-3" name="select" type="radio">
-										<label style="background-image: url('https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/ChaletRooms.jpg');" for="img-tab-3"></label>
-										<img border="0" src="/files/Assets/media/facility/ChaletRooms.jpg"> 
-									</div>
+                                    <div class="gallery">
+                                            <input id="img-tab-1" name="select" checked="checked" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVPrivateRoom.jpg);" for="img-tab-1"></label>
+                                        <img border="0" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
+                                        <input id="img-tab-2" name="select" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVLounge.jpg);" for="img-tab-2"></label>
+                                        <img border="0" src="/files/Assets/media/facility/KTVLounge.jpg">
+                                        <input id="img-tab-3" name="select" type="radio">
+                                        <label style="background-image: url('https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/ChaletRooms.jpg');" for="img-tab-3"></label>
+                                        <img border="0" src="/files/Assets/media/facility/ChaletRooms.jpg"> 
+                                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
+            </div>          
           <div class="facility-type-details">
             <h3 class="facility-title">Event Space</h3>
             <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
@@ -595,8 +605,8 @@ $max-img-height: 400px;
               </tbody>
             </table>
           </div>
-        </section></div>
-  </div></div></section>
+    </div>
+  </section>
   <section class="tab-item-2">
     <div id="dining" class="tabcontent facility-tab-content">
           <div class="facility-media">
@@ -758,4 +768,4 @@ $max-img-height: 400px;
             </table>
           </div>
         </div>
-  </section>
+  </section></div></div></div></section>
