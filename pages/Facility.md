@@ -522,7 +522,7 @@ $max-img-height: 400px;
   width: 100%;
   transition: all 150ms linear;
 }
-.gallery2 input[name="select3"]:checked + label + img {
+.gallery3 input[name="select3"]:checked + label + img {
   display: block;
 }
 .gallery3 input[name="select3"]:checked + label:before {
