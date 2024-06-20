@@ -382,84 +382,104 @@ $max-img-height: 400px;
   vertical-align: top !important;
 }
 .gallery {
-  display: flex;
-    margin: 10px auto !important;
-    max-width: $max-img-width !important;
-    position: relative !important;
-    padding-top: 300px !important;
-    
-    @media screen and (min-width: $max-img-width){
-      padding-top: 300px !important;
-    }  
-  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  align-content: start;
+  max-width: 700px;
+  margin: 0 auto;
+  transition: all 150ms linear;
 }
-.gallery__img {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    opacity: 0 !important;
-    transition: opacity 0.3s ease-in-out !important;
-  } 
-.gallery__img {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    opacity: 0 !important;
-    transition: opacity 0.3s ease-in-out !important;
-  }  
-.gallery__thumb {
-    padding-top: 6px !important;
-    margin: 6px !important;
-    display: block !important;
-  }  
-.gallery__selector {
-    position: absolute !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
- } 
-.gallery__selector:checked + .gallery__img {
-        opacity: 1 !important;
-      }
- .gallery__selector:checked  ~ .gallery__thumb > img {
-        box-shadow: 0 0 0 3px #0be2f6 !important;
-      }
+.gallery input[type="radio"] {
+  display: none;
+}
+.gallery label {
+  position: relative;
+  display: block;
+  padding-bottom: 60%;
+  margin: 5px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.gallery label:before {
+  border: 1px solid #e3e3e3;
+  content: '';
+  position: absolute;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  top: -5px;
+}
+.gallery img {
+  display: none;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  width: 100%;
+  transition: all 150ms linear;
+}
+.gallery input[name="select"]:checked + label + img {
+  display: block;
+}
+.gallery input[name="select"]:checked + label:before {
+  border: 1px solid #000;
+}
 .gallery2 {
-  display: flex;
-    margin: 10px auto !important;
-    max-width: $max-img-width !important;
-    position: relative !important;
-    padding-top: 300px !important;
-    
-    @media screen and (min-width: $max-img-width){
-      padding-top: 300px !important;
-    }  
-  &__img {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    opacity: 0 !important;
-    transition: opacity 0.3s ease-in-out !important;
-  }  
-   &__thumb {
-    padding-top: 6px !important;
-    margin: 6px !important;
-    display: block !important;
-  }  
-  &__selector {
-    position: absolute !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    
-    &:checked {
-      + .gallery2__img {
-        opacity: 1 !important;
-      }
-      ~ .gallery2__thumb > img {
-        box-shadow: 0 0 0 3px #0be2f6 !important;
-      }
-    }
-  } 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  align-content: start;
+  max-width: 700px;
+  margin: 0 auto;
+  transition: all 150ms linear;
 }
+.gallery2 input[type="radio"] {
+  display: none;
+}
+.gallery2 label {
+  position: relative;
+  display: block;
+  padding-bottom: 60%;
+  margin: 5px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.gallery2 label:before {
+  border: 1px solid #e3e3e3;
+  content: '';
+  position: absolute;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  top: -5px;
+}
+.gallery2 img {
+  display: none;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  width: 100%;
+  transition: all 150ms linear;
+}
+.gallery2 input[name="select"]:checked + label + img {
+  display: block;
+}
+.gallery2 input[name="select"]:checked + label:before {
+  border: 1px solid #000;
+}	
+
 .gallery3 {
   display: flex;
     margin: 10px auto !important;
@@ -516,29 +536,18 @@ $max-img-height: 400px;
           <div class="facility-media">
             <div class="demo">
               <div class="item">
-                <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <div class="gallery">
-                    <div class="gallery1__item">
-                      <input class="gallery1__selector" name="gallery1" checked="" id="img-1" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg" class="gallery1__img">
-                      <label class="gallery1__thumb" for="img-1">
-                        <img alt="" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
-                      </label>
-                    </div>
-                    <div class="gallery1__item">
-                      <input class="gallery1__selector" name="gallery1" id="img-2" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg" class="gallery1__img">
-                      <label class="gallery1__thumb" for="img-2">
-                        <img alt="" src="/files/Assets/media/facility/KTVLounge.jpg">
-                      </label>
-                    </div>
-                    <div class="gallery1__item">
-                      <input class="gallery1__selector" name="gallery1" id="img-3" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg" class="gallery1__img">
-                      <label class="gallery1__thumb" for="img-3">
-                        <img alt="" src="/files/Assets/media/facility/ChaletRooms.jpg">
-                      </label>
-                    </div>
+                <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
+									<div class="gallery">
+											<input id="img-tab-1" name="select" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVPrivateRoom.jpg);" for="img-tab-1"></label>
+										<img border="0" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
+										<input id="img-tab-2" name="select" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVLounge.jpg);" for="img-tab-2"></label>
+										<img border="0" src="/files/Assets/media/facility/KTVLounge.jpg">
+										<input id="img-tab-3" name="select" type="radio">
+										<label style="background-image: url('https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/ChaletRooms.jpg');" for="img-tab-3"></label>
+										<img border="0" src="/files/Assets/media/facility/ChaletRooms.jpg"> 
+									</div>
                   </div>
                 </div>
               </div>
@@ -586,30 +595,22 @@ $max-img-height: 400px;
               </tbody>
             </table>
           </div>
-        </div>
-  </section>
+        </section></div>
+  </div></div></section>
   <section class="tab-item-2">
     <div id="dining" class="tabcontent facility-tab-content">
           <div class="facility-media">
             <div class="demo">
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <div class="gallery2">
-                    <div class="gallery2__item">
-                      <input class="gallery2__selector" name="gallery2" checked="" id="img2-1" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg" class="gallery2__img">
-                      <label class="gallery2__thumb" for="img2-1">
-                        <img alt="" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
-                      </label>
-                    </div>
-                    <div class="gallery2__item">
-                      <input class="gallery2__selector" name="gallery2" id="img2-2" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/BBQPits.jpg" class="gallery2__img">
-                      <label class="gallery2__thumb" for="img2-2">
-                        <img alt="" src="/files/Assets/media/facility/BBQPits.jpg">
-                      </label>
-                    </div>
-                  </div>
+									<div class="gallery2">
+											<input id="img-tab-1" name="select" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Bar&amp;Dinning.jpg);" for="img-tab-1"></label>
+										<img border="0" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
+										<input id="img-tab-2" name="select" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/BBQPits.jpg);" for="img-tab-2"></label>
+										<img border="0" src="/files/Assets/media/facility/BBQPits.jpg">
+									</div>
                 </div>
               </div>
             </div>
@@ -770,7 +771,6 @@ $max-img-height: 400px;
           </div>
         </div>
   </section>
-</div>
-</div>
-</div>
-</section>
+
+
+
