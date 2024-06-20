@@ -267,7 +267,7 @@ variant: markdown
                             <div class="demo">
                                 <div class="item">
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
-                                                                            <div class="gallery">
+                                        <div class="gallery">
                                         <input id="img-tab-1" name="select" checked="checked" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-1"></label>
                                         <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
@@ -280,7 +280,7 @@ variant: markdown
                                         <input id="img-tab-4" name="select" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-4"></label>
                                         <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
-                                    </div>                                                                
+                                        </div>                                                                
                                     </div>
                                 </div>
                             </div>
