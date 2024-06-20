@@ -473,10 +473,10 @@ $max-img-height: 400px;
   width: 100%;
   transition: all 150ms linear;
 }
-.gallery2 input[name="select"]:checked + label + img {
+.gallery2 input[name="select2"]:checked + label + img {
   display: block;
 }
-.gallery2 input[name="select"]:checked + label:before {
+.gallery2 input[name="select2"]:checked + label:before {
   border: 1px solid #000;
 }	
 
@@ -604,11 +604,11 @@ $max-img-height: 400px;
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
 									<div class="gallery2">
-											<input id="img-tab-1" name="select" checked="checked" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Bar&amp;Dinning.jpg);" for="img-tab-1"></label>
+											<input id="img-tab-21" name="select2" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Bar&amp;Dinning.jpg);" for="img-tab-21"></label>
 										<img border="0" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
-										<input id="img-tab-2" name="select" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/BBQPits.jpg);" for="img-tab-2"></label>
+										<input id="img-tab-22" name="select2" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/BBQPits.jpg);" for="img-tab-22"></label>
 										<img border="0" src="/files/Assets/media/facility/BBQPits.jpg">
 									</div>
                 </div>
@@ -694,29 +694,17 @@ $max-img-height: 400px;
             <div class="demo">
               <div class="item">
                 <div class="clearfix" style="max-width:474px;margin: 0 auto;">
-                  <div class="gallery3">
-                    <div class="gallery3__item">
-                      <input class="gallery3__selector" name="gallery3" checked="" id="img3-1" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg" class="gallery3__img">
-                      <label class="gallery3__thumb" for="img3-1">
-                        <img alt="" src="/files/Assets/media/facility/Gymnasium.jpg">
-                      </label>
-                    </div>
-                    <div class="gallery3__item">
-                      <input class="gallery3__selector" name="gallery3" id="img3-2" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/Dartboard.jpg" class="gallery3__img">
-                      <label class="gallery3__thumb" for="img3-2">
-                        <img alt="" src="/files/Assets/media/facility/Dartboard.jpg">
-                      </label>
-                    </div>
-                    <div class="gallery3__item">
-                      <input class="gallery3__selector" name="gallery3" id="img3-3" type="radio">
-                      <img alt="" src="/files/Assets/media/facility/FoosballTable.jpg" class="gallery3__img">
-                      <label class="gallery3__thumb" for="img3-3">
-                        <img alt="" src="/files/Assets/media/facility/FoosballTable.jpg">
-                      </label>
-                    </div>
-                  </div>                  
+									<div class="gallery3">
+											<input id="img-tab-31" name="select3" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Gymnasium.jpg);" for="img-tab-31"></label>
+										<img border="0" src="/files/Assets/media/facility/Gymnasium.jpg">
+										<input id="img-tab-32" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Dartboard.jpg);" for="img-tab-32"></label>
+										<img border="0" src="/files/Assets/media/facility/Dartboard.jpg">
+										<input id="img-tab-33" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/FoosballTable.jpg);" for="img-tab-33"></label>
+										<img border="0" src="/files/Assets/media/facility/FoosballTable.jpg">
+									</div>            
                 </div>
               </div>
             </div>
@@ -771,6 +759,3 @@ $max-img-height: 400px;
           </div>
         </div>
   </section>
-
-
-
