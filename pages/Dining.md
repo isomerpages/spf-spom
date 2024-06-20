@@ -2,6 +2,7 @@
 title: Dining
 permalink: /dining/
 description: ""
+variant: markdown
 ---
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/dining-bg.jpg) no-repeat center center !important;
@@ -9,6 +10,61 @@ description: ""
         background-size: cover !important;
         height: 338px !important;
     }
+	.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  align-content: start;
+  max-width: 700px;
+  margin: 0 auto;
+  transition: all 150ms linear;
+}
+
+.gallery input[type="radio"] {
+  display: none;
+}
+
+.gallery label {
+  position: relative;
+  display: block;
+  padding-bottom: 60%;
+  margin: 5px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.gallery label:before {
+  border: 1px solid #e3e3e3;
+  content: '';
+  position: absolute;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  top: -5px;
+}
+
+.gallery img {
+  display: none;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  width: 100%;
+  transition: all 150ms linear;
+}
+
+.gallery input[name="select"]:checked + label + img {
+  display: block;
+}
+
+.gallery input[name="select"]:checked + label:before {
+  border: 1px solid #000;
+}
 </style>
 <section class="cms-page-container">
 <div class="container">
@@ -53,28 +109,20 @@ description: ""
                             <div class="demo">
                                 <div class="item">
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
-																			<section class="gallery">
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" checked="" id="img-1" type="radio">
-    <img alt="" src="/files/Assets/media/dining/dine-1.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-1"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-1.jpg"></label>
-  </div>
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" id="img-2" type="radio">
-    <img alt="" src="/files/Assets/media/dining/dine-2.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-2"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-2.jpg"></label>
-  </div>
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" id="img-3" type="radio">
-    <img alt="" src="/files/Assets/media/dining/dine-3.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-3"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-3.jpg"></label>
-  </div>
-  <div class="gallery__item">
-    <input class="gallery__selector" name="gallery" id="img-4" type="radio">
-    <img alt="" src="/files/Assets/media/dining/dine-2.jpg" class="gallery__img">
-    <label class="gallery__thumb" for="img-4"><img alt="" src="/files/Assets/media/dining/thumb/dine-thumb-2.jpg"></label>
-  </div>
-</section>
+																			<div class="gallery">
+                                        <input id="img-tab-1" name="select" checked="checked" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-1"></label>
+                                        <img border="0" src="/files/Assets/media/dining/thumb/dine-1.jpg">
+                                        <input id="img-tab-2" name="select2" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-2.jpg);" for="img-tab-2"></label>
+                                        <img border="0" src="/files/Assets/media/facility/dining/thumb/dine-2.jpg">
+																				<input id="img-tab-3" name="select" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-3.jpg);" for="img-tab-3"></label>
+                                        <img border="0" src="/files/Assets/media/facility/dining/thumb/dine-3.jpg">
+																				 <input id="img-tab-4" name="select" checked="checked" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-4"></label>
+                                        <img border="0" src="/files/Assets/media/dining/thumb/dine-1.jpg">
+                                    </div>																
                                     </div>
                                 </div>
                             </div>
