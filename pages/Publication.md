@@ -2,13 +2,218 @@
 title: Publication
 permalink: /publication/
 description: ""
+variant: markdown
 ---
 <style type="text/css">.bp-section-pagetitle {
         background: url(/files/Assets/images/publication-bg.jpg) no-repeat center center !important;
         background-size: auto;
         background-size: cover !important;
         height: 338px !important;
-    }</style>
+    }
+	/* Publication css */
+
+.publication-main {
+    background: url(/files/Assets/images/publication-bg.jpg) no-repeat center center;
+    background-size: 100%;
+}
+
+.publication-main .publication-inner {
+    padding: 0px 0 0px;
+    width: 100%;
+}
+
+.publication-main .publication-inner .redeem-ttl {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+@media (min-width: 1200px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 400px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 375px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 274px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 205px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 185px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 122px;
+    }
+}
+
+@media (max-width: 320px) {
+    .publication-main .publication-inner .redeem-ttl {
+        height: 90px;
+    }
+}
+
+.publication-main .publication-inner h2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "nowbold";
+    text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding-top: 0px;
+}
+
+@media (max-width: 767.98px) {
+    .publication-main .publication-inner h2 {
+        font-size: 20px;
+    }
+}
+
+.publication-highlights-main {
+    padding: 50px 0 0px;
+}
+
+.publication-highlights-main h3 {
+    font-family: "nowmedium";
+    font-size: 30px;
+    color: #414042;
+    margin-bottom: 20px;
+}
+
+.publication-highlights-main p {
+    font-family: "nowregular";
+    font-size: 18px;
+    max-width: 72%;
+    margin: 0 auto;
+    color: #414042;
+    line-height: 30px;
+    padding-bottom: 30px !important;
+}
+
+.publication-mission-main {
+    padding: 30px 0 50px;
+}
+
+.book-container {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.publication-mission-main .ms-box a {
+    text-decoration: none;
+}
+.publication-mission-main .book-container img{
+    box-shadow:0px 14px 35px 0px rgba(0,0,0,0.5);
+    margin-bottom:25px;
+}
+
+.publication-mission-main .ms-box {
+    padding: 30px;
+    min-height: 334px;
+    text-align: center;
+}
+.publication-mission-main .ms-box a p{
+    color: #414042;
+}
+@media (max-width: 991.98px) {
+    .publication-mission-main .ms-box {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .publication-mission-main .ms-box {
+        margin-bottom: 15px;
+        min-height: inherit;
+    }
+}
+
+.book-modal .modal-content {
+    height: 700px;
+}
+
+@media (max-width: 575.98px) {
+    .book-modal .modal-content {
+        height: 600px;
+        width: 95% !important;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 320px) {
+    .book-modal .modal-content {
+        height: 450px;
+        display: block;
+    }
+    .book-modal .modal-header .modal-title {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .book-modal .modal-header .close {
+        padding: 10px;
+    }
+    .book-modal .modal-footer .btn {
+        font-size: 14px;
+    }
+    .book-modal .modal-body {
+        padding: 40px !important;
+        display: block;
+    }
+    .book-modal .modal-body{
+        height:auto !important;
+        padding:15px !important;
+    }
+    .book-modal .modal-body iframe{
+        height:70% !important;
+    }
+    /* .book-modal .modal-body iframe {
+        padding: 90px
+    } */
+}
+
+.book-modal .modal-body {
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.book-modal .modal-body iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.book-modal .modal-body embed {
+    -webkit-overflow-scrolling: touch;
+    overflow: scroll;
+}
+
+.book-modal .publication-mission-main .ms-box img {
+    margin-bottom: 20px;
+}
+
+.book-modal .publication-mission-main p {
+    font-size: 18px;
+    color: #414042;
+}
+</style>
 <section class="cms-page-container">
 <div class="container">
                 <div class="row justify-content-center publication-highlights-main">
