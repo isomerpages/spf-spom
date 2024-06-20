@@ -112,16 +112,16 @@ variant: markdown
 																			<div class="gallery">
                                         <input id="img-tab-1" name="select" checked="checked" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-1"></label>
-                                        <img border="0" src="/files/Assets/media/dining/thumb/dine-1.jpg">
+                                        <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
                                         <input id="img-tab-2" name="select2" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-2.jpg);" for="img-tab-2"></label>
-                                        <img border="0" src="/files/Assets/media/facility/dining/thumb/dine-2.jpg">
+                                        <img border="0" src="/files/Assets/media/facility/dining/dine-2.jpg">
 																				<input id="img-tab-3" name="select" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-3.jpg);" for="img-tab-3"></label>
-                                        <img border="0" src="/files/Assets/media/facility/dining/thumb/dine-3.jpg">
+                                        <img border="0" src="/files/Assets/media/facility/dining/dine-3.jpg">
 																				 <input id="img-tab-4" name="select" checked="checked" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-4"></label>
-                                        <img border="0" src="/files/Assets/media/dining/thumb/dine-1.jpg">
+                                        <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
                                     </div>																
                                     </div>
                                 </div>
