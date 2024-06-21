@@ -75,6 +75,7 @@ description: ""
 }
 	.pmc-gallery-box img {
   margin-bottom: 18px;
+	width: auto;
 }
 	.pmc-gallery-box .info-subtitle-seconadry {
   font-size: 16px;
@@ -214,7 +215,7 @@ description: ""
                             </div>
                             <div class="col-lg-4 col-sm-6 text-center">
                                 <div class="pmc-gallery-box">
-                                    <img src="media/pmc/pmc-gallery-4.png">
+                                    <img src="/files/Assets/media/pmc/pmc-gallery-4.png">
                                     <h4 class="info-subtitle-seconadry">Lim Soo Gee</h4>
                                     <span>01.02.1998 to 23.01.2003</span>
                                 </div>
@@ -235,7 +236,7 @@ description: ""
                             </div>
                             <div class="col-lg-4 col-sm-6 text-center">
                                 <div class="pmc-gallery-box">
-                                    <img src="media/pmc/pmc-gallery-7.png">
+                                    <img src="/files/Assets/media/pmc/pmc-gallery-7.png">
                                     <h4 class="info-subtitle-seconadry">Peter Szeto</h4>
                                     <span>30.09.1983 to 31.07.1991</span>
                                 </div>
@@ -249,7 +250,7 @@ description: ""
                             </div>
                             <div class="col-lg-4 col-sm-6 text-center">
                                 <div class="pmc-gallery-box">
-                                    <img src="media/pmc/pmc-gallery-9.png">
+                                    <img src="/files/Assets/media/pmc/pmc-gallery-9.png">
                                     <h4 class="info-subtitle-seconadry">Goh Yong Hong</h4>
                                     <span>30.06.1977 to 22.02.1979</span>
                                 </div>
