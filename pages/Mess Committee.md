@@ -242,6 +242,32 @@ description: ""
     color: #1e1d56;
     text-decoration: none;
 }
+	
+element {
+}
+.content table td, .content table th {
+  border: 1px solid #d6d6d6;
+
+  border-width: 0 0 1px;
+
+  padding: 0.5em 0.75em;
+
+  vertical-align: top;
+
+}
+	.table {
+	font-family: "nowregular";
+  font-size: 18px;
+	}
+.table-bordered td, .table-bordered th {
+  border: 1px solid #dee2e6 !important;
+
+}
+	.table td, .table th {
+	padding: .75rem !important;
+  vertical-align: top !important;
+  border-top: 1px solid #dee2e6 !important;
+	}
 </style>
 <section class="cms-page-container">
         <div class="main-content">
