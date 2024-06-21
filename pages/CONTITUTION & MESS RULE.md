@@ -404,9 +404,9 @@ description: ""
                         </div>
                         <div class="col-xl-3 col-lg-3 col-sm-6 col-12">
                             <figure>
-                                <a href="/constitution-mess-rule"><img src="/files/Assets/images/about-us-image-2.png"></a>
+                                <a href="/contitution-mess-rule"><img src="/files/Assets/images/about-us-image-2.png"></a>
                                 <p>
-                                    <a href="/constitution-mess-rule">Constitution &amp; <br>Mess Rules</a>
+                                    <a href="/contitution-mess-rule">Constitution &amp; <br>Mess Rules</a>
                                 </p>
                             </figure>
                         </div>
