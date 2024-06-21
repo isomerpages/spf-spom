@@ -52,6 +52,35 @@ variant: markdown
     font-size: 14px !important;
     background-color: #ffffff !important;
 }
+	a[href$=".pdf"]::before {
+    display: none;
+}
+
+h1.has-text-white {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: "nowbold";
+  text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  padding-top: 0px;
+  text-transform: uppercase;
+}
+.masthead-container {
+  background-color: #ebe7e4;
+}
+.navbar {
+  background: #EBE7E4;
+  padding: 40px;
+}
+.nav-item a {
+  text-decoration: none;
+}
+.navbar-start {
+  margin: 0 auto;
+}
+.tab-content {
+  border: none;
+}
 .bp-section-pagetitle {
         background: url(/files/Assets/images/photo-gallery-bg.jpg) no-repeat center center !important;
         background-size: auto;
