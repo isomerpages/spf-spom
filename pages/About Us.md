@@ -66,7 +66,183 @@ variant: markdown
         background-size: auto;
         background-size: cover !important;
         height: 338px !important;
-    }</style>
+    }
+	/* About us  css */
+
+.about-main {
+    background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center;
+    background-size: 100%;
+}
+
+.about-main .about-inner {
+    padding: 0px 0 0px;
+    width: 100%;
+}
+
+.about-main .about-inner .redeem-ttl {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+@media (min-width: 992px) {
+    .about-main .about-inner .redeem-ttl {
+        height: 338px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .about-main .about-inner .redeem-ttl {
+        height: 250px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .about-main .about-inner .redeem-ttl {
+        height: 200px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .about-main .about-inner .redeem-ttl {
+        height: 159px;
+    }
+}
+
+@media (max-width: 320px) {
+    .about-main .about-inner .redeem-ttl {
+        height: 119px;
+    }
+}
+
+.about-main .about-inner h2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "nowbold";
+    text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding-top: 0px;
+}
+
+@media (max-width: 767.98px) {
+    .about-main .about-inner h2 {
+        font-size: 20px;
+    }
+}
+
+.abt-highlights-main {
+    padding: 50px 0 0px;
+}
+
+.abt-highlights-main h3 {
+    font-family: "nowmedium";
+    font-size: 30px;
+    color: #414042;
+    margin-bottom: 20px;
+}
+
+.abt-highlights-main p {
+    font-family: "nowregular";
+    font-size: 18px;
+    max-width: 72%;
+    margin: 0 auto;
+    color: #414042;
+    line-height: 30px;
+    padding-bottom: 30px !important;
+}
+
+.abt-highlights-main p a {
+    color: #1e1d56 !important;
+    text-decoration: underline;
+}
+
+.mission-main {
+    background: #f8f8f8;
+    padding: 10px 0;
+}
+
+.mission-main .ms-box {
+    padding: 20px;
+    min-height: 320px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+}
+
+.about-image-container {
+    max-width: 1050px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+@media (max-width: 991.98px) {
+    .about-image-container {
+        max-width: 500px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .mission-main .ms-box {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .mission-main .ms-box {
+        margin-bottom: 15px;
+        min-height: inherit;
+    }
+}
+
+.mission-main .ms-box h3 {
+    font-size: 24px;
+    font-family: "nowmedium";
+    color: #414042;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.mission-main .ms-box h5 {
+    font-size: 18px;
+    font-family: "nowmedium";
+    color: #414042;
+    text-transform: uppercase;
+}
+
+.mission-main .ms-box .add-to-cart {
+    background-color: #ebebeb;
+    font-size: 11px;
+    font-family: #414042;
+    border-radius: 20px;
+    padding: 3px 15px;
+    text-transform: uppercase;
+    color: #414042;
+    float: left;
+}
+
+.mission-main .ms-box .add-to-cart:focus {
+    box-shadow: none;
+}
+
+.mission-main .ms-box .add-to-cart:hover {
+    background-color: #1e1d56;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.mission-main .ms-box img {
+    margin-bottom: 20px;
+}
+
+.mission-main p a {
+    font-size: 18px;
+    font-family: "nowbold";
+    color: #1e1d56;
+    text-decoration: none;
+}
+</style>
 <section class="cms-page-container">
         <div class="main-content">
             <div class="container">
