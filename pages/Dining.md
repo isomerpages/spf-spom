@@ -4,7 +4,55 @@ permalink: /dining/
 description: ""
 variant: markdown
 ---
-<style type="text/css">.bp-section-pagetitle {
+<style type="text/css">
+	@import "/files/Assets/css/bootstrap/dist/css/bootstrap.min.css";
+@font-face {
+    font-family: "nowblack";
+    src: url("/files/Assets/fonts/now-black-webfont.woff2") format("woff2"), url("../fonts/now-black-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nowbold";
+    src: url("/files/Assets/fonts/now-bold-webfont.woff2") format("woff2"), url("../fonts/now-bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nowlight";
+    src: url("/files/Assets/fonts/now-light-webfont.woff2") format("woff2"), url("../fonts/now-light-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nowmedium";
+    src: url("../fonts/now-medium-webfont.woff2") format("woff2"), url("../fonts/now-medium-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nowregular";
+    src: url("/files/Assets/fonts/now-regular-webfont.woff2") format("woff2"), url("../fonts/now-regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nowthin";
+    src: url("/files/Assets/fonts/now-thin-webfont.woff2") format("woff2"), url("../fonts/now-thin-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+	body {
+    font-family: "nowregular" !important;
+    font-size: 14px !important;
+    background-color: #ffffff !important;
+}
+	.bp-section-pagetitle {
         background: url(/files/Assets/images/dining-bg.jpg) no-repeat center center !important;
         background-size: auto;
         background-size: cover !important;
