@@ -168,7 +168,78 @@ variant: markdown
     padding-left: 0;
     margin: 0;
 }
-    .gallery {
+@media (max-width: 991.98px) {
+    .dining-container .dining-detail-left .dining-table {
+        width: 100%;
+        margin-bottom:1rem;
+    }
+    .dining-container .dining-detail-left .dining-table .list-title {
+        width: 33%;
+        position: relative;
+    }
+    .dining-container .dining-detail-left .dining-table .list-detail{
+        width:67%;
+        position: relative;
+    }
+    .dining-container .dining-detail-left p{
+        margin-bottom:0.5rem;
+    }
+}
+@media (max-width: 767.98px) {
+    .dining-detail-right {
+        margin-top: 60px;
+    }
+    .dining-detail-left .btn-container{
+        text-align: center;
+    }
+    .dining-container .dining-detail-left .dining-table{
+        width:60%;
+        margin-bottom:1.5rem;
+    }
+    .dining-highlights-main {
+        padding: 30px  0 10px;
+    }
+    .dining-container .dining-detail-left .dining-title{
+        margin-bottom: 15px;
+    }
+    
+    .dining-container .dining-detail-left p{
+        margin-bottom:1rem;
+        
+    }
+    .dining-highlights-main p{
+        max-width:90%;
+    }
+   
+}
+
+@media (max-width: 575.98px) {
+  
+    .dining-container .dining-detail-left .detail-btn {
+        width: 80%;
+    }
+    .dining-container .dining-detail-left .dining-table{
+        width:100%;
+    }
+}
+@media (max-width: 320px) {
+    .dining-container .dining-detail-left .dining-table .list-title{width:37%;}
+    .dining-container .dining-detail-left .dining-table .list-detail{width: 63%;}
+}
+@media (min-width: 768px) {
+.dining-container .dining-detail-left .dining-btn {
+    display: flex;
+    justify-content: space-around;
+}
+}
+@media (max-width: 767px) {
+.dining-container .dining-detail-left .detail-btn {
+    width: 80%;
+    float: none;
+    margin-bottom: 10px;
+}
+}
+.gallery {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
