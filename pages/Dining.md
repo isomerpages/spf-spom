@@ -68,7 +68,7 @@ h1.has-text-white {
 .masthead-container {
   background-color: #ebe7e4;
 }
-.navbar {
+/*.navbar {
   background: #EBE7E4;
   padding: 40px;
 }
@@ -77,7 +77,7 @@ h1.has-text-white {
 }
 .navbar-start {
   margin: 0 auto;
-}
+}*/
 .tab-content {
   border: none;
 }
