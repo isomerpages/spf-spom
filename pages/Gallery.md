@@ -47,6 +47,11 @@ variant: markdown
     font-weight: normal;
     font-style: normal;
 }
+	body {
+    font-family: "nowregular" !important;
+    font-size: 14px !important;
+    background-color: #ffffff !important;
+}
 	.bp-section-pagetitle {
         background: url(/files/Assets/images/photo-gallery-bg.jpg) no-repeat center center !important;
         background-size: auto;
