@@ -60,7 +60,7 @@ h1.has-text-white {
   padding-top: 0px;
   text-transform: uppercase;
 }
-.masthead-container {
+/*.masthead-container {
   background-color: #ebe7e4;
 }
 .navbar {
@@ -72,7 +72,7 @@ h1.has-text-white {
 }
 .navbar-start {
   margin: 0 auto;
-}
+}*/
 .tab-content {
   border: none;
 }
