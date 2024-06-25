@@ -6,6 +6,19 @@ variant: markdown
 ---
 <style type="text/css">
 	@import "/files/Assets/css/bootstrap/dist/css/bootstrap.min.css";
+		.navbar-brand, .navbar-tabs {
+  align-items: stretch;
+  display: flex;
+  flex-shrink: 0;
+  min-height: 6.25rem;
+	padding: 0px;
+	margin: 0px;
+}
+@media screen and (max-width: 1023px) {
+  .navbar {
+    padding: 0;
+  }
+}
 @font-face {
     font-family: "nowblack";
     src: url("/files/Assets/fonts/now-black-webfont.woff2") format("woff2"), url("../fonts/now-black-webfont.woff") format("woff");
