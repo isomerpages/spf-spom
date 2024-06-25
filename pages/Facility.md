@@ -11,6 +11,8 @@ variant: markdown
   display: flex;
   flex-shrink: 0;
   min-height: 6.25rem;
+	padding: 0px;
+	margin: 0px;
 }
 @media screen and (max-width: 1023px) {
   .navbar {
