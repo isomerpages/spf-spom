@@ -12,6 +12,11 @@ variant: markdown
   flex-shrink: 0;
   min-height: 6.25rem;
 }
+@media screen and (max-width: 1023px) {
+  .navbar {
+    padding: 0;
+  }
+}
 @font-face {
     font-family: "nowblack";
     src: url("/files/Assets/fonts/now-black-webfont.woff2") format("woff2"), url("../fonts/now-black-webfont.woff") format("woff");
