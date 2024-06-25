@@ -95,6 +95,314 @@ h1.has-text-white {
         background-size: cover !important;
         height: 338px !important;
     }
+	.contact-us-main {
+    background: url(/files/Assets/images/contact-us-bg.jpg) no-repeat center center;
+    background-size: 100%;
+}
+
+.contact-us-main .contact-us-inner {
+    padding: 0px 0 0px;
+    width: 100%;
+}
+
+.contact-us-main .contact-us-inner .redeem-ttl {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+@media (min-width: 1200px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 400px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 375px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 274px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 205px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 185px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 122px;
+    }
+}
+
+@media (max-width: 320px) {
+    .contact-us-main .contact-us-inner .redeem-ttl {
+        height: 90px;
+    }
+}
+
+.contact-us-main .contact-us-inner h2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "nowbold";
+    text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding-top: 0px;
+}
+
+@media (max-width: 575.98px) {
+    .contact-us-main .contact-us-inner h2 {
+        font-size: 20px;
+    }
+}
+
+.contact-us-highlights-main {
+    padding: 50px 0 40px;
+}
+
+.contact-us-highlights-main h3 {
+    font-family: "nowmedium";
+    font-size: 30px;
+    color: #414042;
+    margin-bottom: 20px;
+}
+
+.contact-us-highlights-main p {
+    font-family: "nowregular";
+    font-size: 18px;
+    max-width: 72%;
+    margin: 0 auto;
+    color: #414042;
+    line-height: 30px;
+}
+
+.operating-hours .info-subtitle-bold {
+    text-transform: unset !important;
+}
+
+@media (max-width: 575.98px) {
+    .info-subtitle-bold {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+
+.contact-middle-form {
+    margin-bottom: 55px;
+}
+
+.contact-middle-form .input-wrapper {
+    border: 1px solid #a7a7a7;
+    padding: 7px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-middle-form .input-wrapper .input-group-text {
+    background-color: transparent;
+    border: 0;
+    height: 38px;
+}
+
+.contact-middle-form .input-wrapper .input-group-prepend {
+    width: 50px;
+    display: inline-block;
+}
+
+.contact-middle-form .input-wrapper input:focus,
+.contact-middle-form .input-wrapper input:active,
+.contact-middle-form .input-wrapper textarea:focus,
+.contact-middle-form .input-wrapper textarea:active {
+    outline: none;
+    box-shadow: none;
+}
+
+.contact-middle-form .input-wrapper .input-group {
+    display: flex;
+    align-items: top;
+}
+
+.contact-middle-form .input-wrapper .form-control {
+    padding: 0;
+    border: 0;
+    color: #414042;
+    font-size: 18px;
+    height: 40px;
+}
+
+@media (max-width: 767.98px) {
+    .contact-middle-form .input-wrapper .form-control {
+        font-size: 14px;
+    }
+}
+
+.contact-middle-form .input-wrapper .form-control::placeholder {
+    color: #414042;
+}
+
+@media (max-width: 767.98px) {
+    .contact-middle-form .input-wrapper .form-control {
+        font-size: 14px;
+    }
+}
+
+.contact-middle-form .input-wrapper .form-textarea {
+    height: 200px;
+    padding: 5px 0;
+}
+
+.contact-middle-form .contact-btn {
+    padding: 10px;
+    height: 55px;
+    background-color: #1e1d56;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    border: 0;
+}
+
+.contact-middle-form .right-wrapper {
+    background-color: #f8f8f8;
+    padding: 40px;
+    color: #414042;
+}
+
+.spom-information-wrapper .spom-info-table .list-title {
+    width: 12% !important;
+    position: relative;
+}
+
+.spom-information-wrapper .spom-info-table .list-title:after {
+    content: ":";
+    position: absolute;
+    right: 0;
+}
+
+.spom-information-wrapper .spom-info-table .list-detail {
+    padding-left: 15px
+}
+
+.contact-middle-form .right-wrapper .spom-info-table {
+    position: relative;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.contact-middle-form .right-wrapper .spom-info-table tr .list-title {
+    width: 17%;
+}
+
+.contact-middle-form .right-wrapper .spom-info-table:after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    bottom: -30px;
+    background-color: #000;
+}
+
+.contact-middle-form .right-wrapper .operating-hours {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.contact-middle-form .right-wrapper .operating-hours .operating-hours-table tr .list-title {
+    width: 47%;
+}
+
+.contact-information-bottom {
+    padding: 50px 0 40px;
+    background-color: #f8f8f8;
+}
+
+.contact-information-bottom .contact-info-upper-block {
+    margin-bottom: 55px;
+}
+
+.contact-information-bottom .info-subtitle {
+    margin-bottom: 5px;
+}
+
+.contact-information-bottom .info-title {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 991.98px) {
+    .contact-information-bottom .contact-info-left {
+        margin-bottom: 15px;
+    }
+}
+
+.contact-information-bottom .contact-info-left table .list-title {
+    width: 24%;
+    position: relative;
+}
+
+.contact-information-bottom .contact-info-left table .list-title:after {
+    content: ":";
+    position: absolute;
+    right: 0;
+}
+
+.contact-information-bottom .contact-info-left table .list-detail {
+    width: 74%;
+    padding-left: 25px;
+}
+
+.contact-information-bottom .contact-info-right table .list-title {
+    width: 36%;
+    position: relative;
+}
+
+.contact-information-bottom .contact-info-right table .list-title:after {
+    content: ":";
+    position: absolute;
+    right: 0;
+}
+
+.contact-information-bottom .contact-info-right table .list-detail {
+    width: 59%;
+    padding-left: 25px;
+}
+
+.contact-information-bottom .info-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width: 767.98px) {
+    .contact-information-bottom .info-wrapper {
+        display: inline-block;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .contact-information-bottom .info-wrapper table {
+        margin-bottom: 15px;
+    }
+}
+
+.contact-information-bottom a {
+    color: #1e1d56 !important;
+    text-decoration: underline;
+}
 </style>
 <section class="cms-page-container">
 <div class="container">
