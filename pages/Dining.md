@@ -428,17 +428,20 @@ h1.has-text-white {
                                     <div style="max-width:474px;margin: 0 auto;" class="clearfix">
                                         <div class="gallery">
                                         <input id="img-tab-1" name="select" checked="checked" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-1"></label>
-                                        <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dish-2-t.jpg);" for="img-tab-1"></label>
+                                        <img border="0" src="/files/Assets/media/dining/dish-2.jpg">
                                         <input id="img-tab-2" name="select" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-2.jpg);" for="img-tab-2"></label>
-                                        <img border="0" src="/files/Assets/media/dining/dine-2.jpg">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumbPlatter_BlackBG-t.jpg);" for="img-tab-2"></label>
+                                        <img border="0" src="/files/Assets/media/dining/Platter_BlackBG.jpg">
                                         <input id="img-tab-3" name="select" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-3.jpg);" for="img-tab-3"></label>
-                                        <img border="0" src="/files/Assets/media/dining/dine-3.jpg">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/Salmon_BlackBG-t.jpg);" for="img-tab-3"></label>
+                                        <img border="0" src="/files/Assets/media/dining/Salmon_BlackBG.jpg">
                                         <input id="img-tab-4" name="select" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dine-thumb-1.jpg);" for="img-tab-4"></label>
-                                        <img border="0" src="/files/Assets/media/dining/dine-1.jpg">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dish-1-t.jpg);" for="img-tab-4"></label>
+                                        <img border="0" src="/files/Assets/media/dining/dish-1.jpg">
+																					<input id="img-tab-4" name="select" type="radio">
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/LobsterPorridge_BlackBG-t.jpg);" for="img-tab-4"></label>
+                                        <img border="0" src="/files/Assets/media/dining/LobsterPorridge_BlackBG.jpg">
                                         </div>                                                                
                                     </div>
                                 </div>
