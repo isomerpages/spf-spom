@@ -431,7 +431,7 @@ h1.has-text-white {
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/dish-2-t.jpg);" for="img-tab-1"></label>
                                         <img border="0" src="/files/Assets/media/dining/dish-2.jpg">
                                         <input id="img-tab-2" name="select" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumbPlatter_BlackBG-t.jpg);" for="img-tab-2"></label>
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/Platter_BlackBG-t.jpg);" for="img-tab-2"></label>
                                         <img border="0" src="/files/Assets/media/dining/Platter_BlackBG.jpg">
                                         <input id="img-tab-3" name="select" type="radio">
                                         <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/dining/thumb/Salmon_BlackBG-t.jpg);" for="img-tab-3"></label>
