@@ -744,7 +744,7 @@ $max-img-height: 400px;
           <div class="facility-media">
             <div class="demo">
               <div class="item">
-                <div class="clearfix" style="max-width:474px;margin: 0 auto;">
+                <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
 									<div class="gallery2">
 											<input id="img-tab-21" name="select2" checked="checked" type="radio">
 										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Bar&amp;Dinning.jpg);" for="img-tab-21"></label>
@@ -788,7 +788,7 @@ $max-img-height: 400px;
           <div class="facility-media">
             <div class="demo">
               <div class="item">
-                <div class="clearfix" style="max-width:474px;margin: 0 auto;">
+                <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
                   <div style="padding-top:10px">                    
                       <img alt="" src="/files/Assets/media/facility/Foyer.jpg">
                   </div>
@@ -835,7 +835,7 @@ $max-img-height: 400px;
           <div class="facility-media">
             <div class="demo">
               <div class="item">
-                <div class="clearfix" style="max-width:474px;margin: 0 auto;">
+                <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
 									<div class="gallery3">
 											<input id="img-tab-31" name="select3" checked="checked" type="radio">
 										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Gymnasium.jpg);" for="img-tab-31"></label>
