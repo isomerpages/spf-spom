@@ -458,36 +458,35 @@ font-weight: 600;
 .facility-media .demo .caption p {
     margin:0;
 }
+	@media screen and (max-width: 567px) {
 	.print-content .cms-page-container .tab-content {
-	position: unset;
-	width: 100%;
-	height: auto;
-	margin-top: 0;
-	overflow: unset;
-}
+		position: unset;
+		width: 100%;
+		height: auto;
+		margin-top: 0;
+		overflow: unset;
+	}
 
-.print-content .cms-page-container .clear-backend > span {
-	width: 100%;
-	height: auto;
-	position: unset;
-	opacity: 1;
-}
+	.print-content .cms-page-container .clear-backend > span {
+		width: 100%;
+		position: unset;
+		opacity: 1;
+	}
 
-.print-content .cms-page-container .clear-backend > input {
-	width: 100%;
-	height: auto;
-	position: unset;
-	opacity: 0;
-}
+	.print-content .cms-page-container .clear-backend > input {
+		width: 100%;
+		opacity: 0;
+	}
 
-.print-content .cms-page-container .tab-content section {
-	position: unset;
-	padding: 0;
-}
+	.print-content .cms-page-container .tab-content section {
+		position: unset;
+		padding: 0;
+	}
 
-.print-content .cms-page-container .facility-tab-content .facility-type-details, 
-.print-content .cms-page-container .facility-tab-content .facility-media {
-	padding: 0;
+	.print-content .cms-page-container .facility-tab-content .facility-type-details, 
+	.print-content .cms-page-container .facility-tab-content .facility-media {
+		padding: 0;
+	}
 }
 /* .dollor-sign{font-family:nowbold !important;} */
 .facility-price{font-family: "nowbold";}
