@@ -397,10 +397,8 @@ h1.has-text-white {
                 <div class="dining-container">
                     <div class="row">
                         <div class="col-md-6 dining-detail-left">
-                            <h3 class="dining-title">The Peak Bistro</h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-                                a type specimen book. </p>
-                            <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the</p>
+                            <h3 class="dining-title">Bottle Tree Restaurant</h3>
+                            <p>The Bottle Tree Restaurant @ SPOM is a halal-certified restaurant that offers a range of local and Western cuisines. The cozy dining environment and diverse menu make it an ideal destination for both casual meals and special celebrations. </p>
                             <table class="dining-table">
                                 <tbody><tr>
                                     <td class="list-title">
