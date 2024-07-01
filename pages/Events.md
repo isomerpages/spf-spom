@@ -11,15 +11,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="2">
-<p>May 2024
-<br><strong><a href="/updates-on-gym-equipment/" rel="noopener noreferrer nofollow" target="_blank">Updates On Gym Equipment</a></strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr></tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>01 Jun to 22 Jun 2024
 <br><strong><a href="/tennis-clinic/" rel="noopener noreferrer nofollow" target="_blank">Tennis Clinic</a></strong>
