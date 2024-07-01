@@ -402,18 +402,18 @@ h1.has-text-white {
                             <table class="dining-table">
                                 <tbody><tr>
                                     <td class="list-title">
-                                        Open daily
+                                        Operating hours
                                     </td>
                                     <td class="list-detail">
-                                        8am-5pm
+                                        10am to 9.30pm (Closed on Sun and PH)
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="list-title">
-                                        Last order
+                                        Last Order
                                     </td>
                                     <td class="list-detail">
-                                        4:30pm
+                                        Lunch: 3pm / Dinner: 9pm
                                     </td>
                                 </tr>
                             </tbody></table>
