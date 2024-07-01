@@ -336,7 +336,7 @@ font-weight: 600;
 }
 
 .facility-tab-content .facility-media{
-    width:50%;
+    /*width:50%;*/
     float: left;
     padding-right:15px;
 }
