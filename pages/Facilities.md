@@ -362,7 +362,7 @@ font-weight: 600;
     font-family: "nowbold";
 }
 .facility-tab-content .facility-type-details{
-    width:50%;
+    /*width:50%;*/
     float: right;
     padding:0 15px 0 0;
 }
