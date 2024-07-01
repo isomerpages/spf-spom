@@ -389,7 +389,7 @@ h1.has-text-white {
 <div class="container">
                 <div class="row justify-content-center dining-highlights-main">
                     <div class="col-12 col-md-12 align-center text-center">                        
-                        <h1 class="mb-5">Indulge In a Delightful Dining Experience</h1>
+                        <h1 class="mb-4">Indulge In a Delightful Dining Experience</h1>
                     </div>
                 </div>
             </div>
