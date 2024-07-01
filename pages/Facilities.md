@@ -666,13 +666,13 @@ $max-img-height: 400px;
 <div class="clear-backend">
 <h3 class="facility-type-title">Type of facility</h3>
 <input type="radio" class="tab-1" name="tab" checked="checked">
-<span>Event Space</span><i class="fa fa-home"></i>
+<span>Introduction</span><i class="fa fa-home"></i>
 <input type="radio" class="tab-2" name="tab">
-<span>Dining Rooms</span><i class="fa fa-medium"></i>
+<span>Gymnasium</span><i class="fa fa-medium"></i>
 <input type="radio" class="tab-3" name="tab">
-<span>Meeting Rooms</span><i class="fa fa-user"></i>
+<span>KTV Room</span><i class="fa fa-user"></i>
 <input type="radio" class="tab-4" name="tab">
-<span>Leisure</span><i class="fa fa-comment"></i>
+<span>Tennis Court</span><i class="fa fa-comment"></i>
 <div class="tab-content">
   <section class="tab-item-1">
     <div id="event-space" class="tabcontent facility-tab-content">
@@ -696,46 +696,8 @@ $max-img-height: 400px;
               </div>
             </div>          
           <div class="facility-type-details">
-            <h3 class="facility-title">Event Space</h3>
-            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-            <table class="table  facility-table">
-              <thead>
-                <tr>
-                  <th scope="col" class="thead-left">Facility</th>
-                  <th scope="col" class="thead-right">Fee</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td class="facility-name data-left">Ante Hall</td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>50 / 4hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left">Dining Hall <br>
-                    <span>(Incl. free use of Foyer )</span>
-                  </td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>150 / day
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name data-left">Foyer <br>
-                    <span>(Free with booking of Dining hall)</span>
-                  </td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>30 / 4hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left"> Lawn </td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>20 /day
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <h3 class="facility-title">Introduction</h3>
+            <p>At SPOM, we have a wide range of facilities to cater to the diverse recreational interests of our members. Whether you're a fitness enthusiast, a sports lover, or someone who simply enjoys unwinding in a serene environment, we have something for everyone. </p>
           </div>
     </div>
   </section>
@@ -758,28 +720,8 @@ $max-img-height: 400px;
             </div>
           </div>
           <div class="facility-type-details">
-            <h3 class="facility-title">Dining Rooms</h3>
-            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-            <table class="table  facility-table">
-              <thead>
-                <tr>
-                  <th scope="col" class="thead-left">Facility</th>
-                  <th scope="col" class="thead-right">Fee</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td class="facility-name data-left">Private Dining Room</td>
-                  <td class="facility-price data-right">Free</td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left">Fine Dining Room</td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>40 / 4hrs
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <h3 class="facility-title">Gym</h3>
+            <p> SPOM’s Gym allows like-minded individuals to come together and embrace a healthy lifestyle. The equipment has just been refurbished to provide a more conducive environment for fitness enthusiasts. In addition, the team has also added disinfectant wet wipes, disinfectant sprays and towels for members to use. </p>            
           </div>
         </div>
   </section>
@@ -797,36 +739,8 @@ $max-img-height: 400px;
             </div>
           </div>
           <div class="facility-type-details">
-            <h3 class="facility-title">Meeting Rooms</h3>
-            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-            <table class="table  facility-table">
-              <thead>
-                <tr>
-                  <th scope="col" class="thead-left">Facility</th>
-                  <th scope="col" class="thead-right">Fee</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td class="facility-name data-left">Committee Room</td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>20 / 4hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left">Games Room</td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>20 / 4hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name data-left">Library</td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>20 / 4hrs
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <h3 class="facility-title">KTV Room</h3>
+            <p>Unleash your inner superstar at SPOM's very own KTV, where the stage is set for unforgettable moments of music, laughter, and pure entertainment. You can also book the individual rooms for more privacy. </p>            
           </div>
         </div>
   </section>
@@ -852,52 +766,8 @@ $max-img-height: 400px;
             </div>
           </div>
           <div class="facility-type-details">
-            <h3 class="facility-title">Leisure</h3>
-            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-            <table class="table  facility-table">
-              <thead>
-                <tr>
-                  <th scope="col" class="thead-left">Facility</th>
-                  <th scope="col" class="thead-right">Fee</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td class="facility-name data-left">Tennis</td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>7.50 / hr
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left">KTV - Private Room</td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>10 / 2hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name data-left">KTV - Lounge</td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>40 / 2hrs
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name even-data-left"> Chalest <br>
-                    <span>(incl. free use of BBQ Pits)</span>
-                  </td>
-                  <td class="facility-price even-data-right">
-                    <span class="dollor-sign">$</span>40 / day
-                  </td>
-                </tr>
-                <tr>
-                  <td class="facility-name data-left"> BBQ Pits <br>
-                    <span>(Free with booking of Chalet)</span>
-                  </td>
-                  <td class="facility-price data-right">
-                    <span class="dollor-sign">$</span>10 / day
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+            <h3 class="facility-title">Tennis Court</h3>
+            <p>Feeling sporty? Find a peer and sweat it out at the Tennis Courts. The tranquil surroundings will certainly add on a unique experience. </p>            
           </div>
         </div>
   </section></div></div></div></section>
