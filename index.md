@@ -11,16 +11,6 @@ sections:
         police officers.
       button: DISCOVER MORE
       url: /contact/
-      key_highlights:
-        - title: 28 DEC 2019
-          description: SPOM-Tastic Funfair
-          url: "#"
-        - title: 15 OCT 2019
-          description: SPOM Annual Dinner 2019
-          url: "#"
-        - title: 16 JUL 2019
-          description: SPOM Happy Hour
-          url: "#"
       background: /images/banner-img.png
   - infobar:
       title: Welcome to the Senior Police Officers' Mess
