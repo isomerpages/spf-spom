@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Explore rest and relaxation activities at this lifestyle venue for senior
-        police officers.
+      title: Lifestyle Avenue to Rest & Relax
       button: DISCOVER MORE
       url: /contact/
       background: /images/banner-img.png
