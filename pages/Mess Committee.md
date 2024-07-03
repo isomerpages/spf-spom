@@ -301,6 +301,50 @@ element {
                                         <td>Mr How Kwang Hwee</td>
                                         <td>President of the Mess Committee (PMC)</td>
                                     </tr>
+																	<tr>
+                                        <td>Mr Scott Arul</td>
+                                        <td>Vice PMC</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Tan Tin Wee</td>
+                                        <td>Vice PMC</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Winston Ong</td>
+                                        <td>Honorary Secretary</td>
+                                    </tr>
+																	<tr>
+                                        <td>Ms Serene Chiu</td>
+                                        <td>Chairman, Audit Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Ang Eng Seng</td>
+                                        <td>Chairman, Business Development &amp; Infrastructure Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Wong Xing Shun, Justin</td>
+                                        <td>Chairman, Food &amp; Beverage Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Xie Xingmao</td>
+                                        <td>Chairman, Heritage Project Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Gay Teck Chuan Gavin</td>
+                                        <td>Chairman, Internal Communications &amp; Publicity Sub-Committee</td>
+                                    </tr>
+																	 <tr>
+                                        <td>Mr Deculan Goh Kim Chuan</td>
+                                        <td>Chairman, Social Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Mr Tan Tian Yeow</td>
+                                        <td>Chairman, Sports Sub-Committee</td>
+                                    </tr>
+																	<tr>
+                                        <td>Ms Madeline Low AL</td>
+                                        <td>Logistics Member</td>
+                                    </tr>
                                     <tr>
                                         <td>Mr Loy Chye Meng</td>
                                         <td>Vice PMC</td>
@@ -327,7 +371,7 @@ element {
                                     </tr>
                                     <tr>
                                         <td>Ms Lam Yarn</td>
-                                        <td>Assistant Honorary Secretary</td>
+                                        <td>Honorary Treasurer</td>
                                     </tr>
                                     <tr>
                                         <td>Ms Rosie Ann Mcintyre</td>
