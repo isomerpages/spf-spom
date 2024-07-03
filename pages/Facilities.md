@@ -660,6 +660,55 @@ $max-img-height: 400px;
 .gallery3 input[name="select3"]:checked + label:before {
   border: 1px solid #000;
 }	
+	.gallery4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  align-content: start;
+  max-width: 700px;
+  margin: 0 auto;
+  transition: all 150ms linear;
+}
+.gallery4 input[type="radio"] {
+  display: none;
+}
+.gallery4 label {
+  position: relative;
+  display: block;
+  padding-bottom: 60%;
+  margin: 5px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.gallery4 label:before {
+  border: 1px solid #e3e3e3;
+  content: '';
+  position: absolute;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  top: -5px;
+}
+.gallery4 img {
+  display: none;
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  width: 100%;
+  transition: all 150ms linear;
+}
+.gallery4 input[name="select4"]:checked + label + img {
+  display: block;
+}
+.gallery4 input[name="select4"]:checked + label:before {
+  border: 1px solid #000;
+}	
 </style>
 <section class="cms-page-container">
 <div class="container">
@@ -681,14 +730,8 @@ $max-img-height: 400px;
                 <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
                                     <div class="gallery">
                                             <input id="img-tab-1" name="select" checked="checked" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVPrivateRoom.jpg);" for="img-tab-1"></label>
-                                        <img border="0" src="/files/Assets/media/facility/KTVPrivateRoom.jpg">
-                                        <input id="img-tab-2" name="select" type="radio">
-                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/KTVLounge.jpg);" for="img-tab-2"></label>
-                                        <img border="0" src="/files/Assets/media/facility/KTVLounge.jpg">
-                                        <input id="img-tab-3" name="select" type="radio">
-                                        <label style="background-image: url('https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/ChaletRooms.jpg');" for="img-tab-3"></label>
-                                        <img border="0" src="/files/Assets/media/facility/ChaletRooms.jpg"> 
+                                        <label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Introduction_1_t.jpg);" for="img-tab-1"></label>
+                                        <img border="0" src="/images/Facility/Introduction_1.jpg">
                                     </div>
                   </div>
                 </div>
@@ -708,11 +751,14 @@ $max-img-height: 400px;
                 <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
 									<div class="gallery2">
 											<input id="img-tab-21" name="select2" checked="checked" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Bar&amp;Dinning.jpg);" for="img-tab-21"></label>
-										<img border="0" src="/files/Assets/media/facility/Bar&amp;Dinning.jpg">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Gym_1_t.jpg);" for="img-tab-21"></label>
+										<img border="0" src="/images/Facility/Gym_1.jpg">
 										<input id="img-tab-22" name="select2" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/BBQPits.jpg);" for="img-tab-22"></label>
-										<img border="0" src="/files/Assets/media/facility/BBQPits.jpg">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Gym_2_t.jpg);" for="img-tab-22"></label>
+										<img border="0" src="/images/Facility/Gym_2.jpg">
+										<input id="img-tab-23" name="select2" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Gym_3_t.jpg);" for="img-tab-23"></label>
+										<img border="0" src="/images/Facility/Gym_3.jpg">
 									</div>
                 </div>
               </div>
@@ -730,9 +776,23 @@ $max-img-height: 400px;
             <div class="demo">
               <div class="item">
                 <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
-                  <div style="padding-top:10px">                    
-                      <img alt="" src="/files/Assets/media/facility/Foyer.jpg">
-                  </div>
+                  <div class="gallery3">
+											<input id="img-tab-31" name="select3" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/KTV_Room_1_t.jpg);" for="img-tab-31"></label>
+										<img border="0" src="/images/Facility/KTV_Room_1.jpg">
+										<input id="img-tab-32" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/KTV_Room_2_t.jpg);" for="img-tab-32"></label>
+										<img border="0" src="/images/Facility/KTV_Room_2.jpg">
+										<input id="img-tab-33" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/KTV_Room_3_t.jpg);" for="img-tab-33"></label>
+										<img border="0" src="/images/Facility/KTV_Room_3.jpg">
+										<input id="img-tab-34" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/KTV_Room_4_t.jpg);" for="img-tab-34"></label>
+										<img border="0" src="/images/Facility/KTV_Room_4.jpg">
+										<input id="img-tab-35" name="select3" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/KTV_Room_5_t.jpg);" for="img-tab-35"></label>
+										<img border="0" src="/images/Facility/KTV_Room_5.jpg">
+									</div>
                 </div>
               </div>
             </div>
@@ -749,16 +809,13 @@ $max-img-height: 400px;
             <div class="demo">
               <div class="item">
                 <div class="clearfix mb-5" style="max-width:474px;margin: 0 auto;">
-									<div class="gallery3">
-											<input id="img-tab-31" name="select3" checked="checked" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Gymnasium.jpg);" for="img-tab-31"></label>
-										<img border="0" src="/files/Assets/media/facility/Gymnasium.jpg">
-										<input id="img-tab-32" name="select3" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/Dartboard.jpg);" for="img-tab-32"></label>
-										<img border="0" src="/files/Assets/media/facility/Dartboard.jpg">
-										<input id="img-tab-33" name="select3" type="radio">
-										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/files/Assets/media/facility/FoosballTable.jpg);" for="img-tab-33"></label>
-										<img border="0" src="/files/Assets/media/facility/FoosballTable.jpg">
+									<div class="gallery4">
+											<input id="img-tab-41" name="select4" checked="checked" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Tennis_Court_1_t.jpg);" for="img-tab-41"></label>
+										<img border="0" src="/images/Facility/Tennis_Court_1.jpg">
+										<input id="img-tab-42" name="select4" type="radio">
+										<label style="background-image: url(https://staging.d193b78fy9jp3u.amplifyapp.com/images/Facility/Thumbs/Tennis_Court_2_t.jpg);" for="img-tab-42"></label>
+										<img border="0" src="/images/Facility/Tennis_Court_2.jpg">
 									</div>            
                 </div>
               </div>
