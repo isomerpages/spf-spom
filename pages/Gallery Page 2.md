@@ -322,11 +322,6 @@ h1.has-text-white {
 </style>
 <section class="cms-page-container">
 <div class="row justify-content-center abt-highlights-main">
-                    <div class="col-12 col-md-12 align-center text-center">
-                        <p class="mbr-section-subtitle align-center mbr-fonts-style pb-2 display-5">
-                            Reminisce the joyous moments!
-                        </p>
-                     </div>
                     <div class="photo-gallery-container popup-gallery">
                         <div class="row">                           
                             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
