@@ -321,8 +321,7 @@ h1.has-text-white {
 .pagination-sm .page-item:last-child .page-link{border-top-right-radius:.2rem !important;border-bottom-right-radius:.2rem !important}
 </style>
 <section class="cms-page-container">
-<div class="row justify-content-center abt-highlights-main">
-  
+<div class="row justify-content-center abt-highlights-main">  
   <div class="photo-gallery-container popup-gallery">
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
