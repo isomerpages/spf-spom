@@ -309,6 +309,10 @@ element {
                                         <td>Mr Tan Tin Wee</td>
                                         <td>Vice PMC</td>
                                     </tr>
+                                    <tr>
+                                        <td>Ms Lam Yarn</td>
+                                        <td>Honorary Treasurer</td>
+                                    </tr>
 																	<tr>
                                         <td>Mr Winston Ong</td>
                                         <td>Honorary Secretary</td>
@@ -333,6 +337,10 @@ element {
                                         <td>Mr Gay Teck Chuan Gavin</td>
                                         <td>Chairman, Internal Communications &amp; Publicity Sub-Committee</td>
                                     </tr>
+                                    <tr>
+                                        <td>Ms Sherrin Chua</td>
+                                        <td>Chairman, Membership Sub-Committee</td>
+                                    </tr>
 																	 <tr>
                                         <td>Mr Deculan Goh Kim Chuan</td>
                                         <td>Chairman, Social Sub-Committee</td>
@@ -344,78 +352,6 @@ element {
 																	<tr>
                                         <td>Ms Madeline Low AL</td>
                                         <td>Logistics Member</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Loy Chye Meng</td>
-                                        <td>Vice PMC</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Cheang Keng Keong</td>
-                                        <td>Vice PMC</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Grace Chong</td>
-                                        <td>Honorary Treasurer</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Desmond Tang</td>
-                                        <td>Assistant Honorary Treasurer</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Khoo Shumin</td>
-                                        <td>Assistant Honorary Treasurer</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Weng Wanyi</td>
-                                        <td>Honorary Secretary</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Lam Yarn</td>
-                                        <td>Honorary Treasurer</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Rosie Ann Mcintyre</td>
-                                        <td>Assistant Honorary Treasurer</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Wilbur Sim</td>
-                                        <td>Assistant Honorary Secretary</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Joseph Lai</td>
-                                        <td>Logistics Member</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Sam Tee</td>
-                                        <td>Chairman, Audit Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Manimaran Pushpanatan</td>
-                                        <td>Chairman, Business Development &amp; Infrastructure Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Tan Chia Han</td>
-                                        <td>Chairman, Food &amp; Beverage Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Poh Lye Hin</td>
-                                        <td>Chairman, Heritage Project Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Charles Shng</td>
-                                        <td>Chairman, Internal Communications &amp; Publicity Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ms Sherrin Chua</td>
-                                        <td>Chairman, Membership Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Devrajan Bala</td>
-                                        <td>Chairman, Social Sub-Committee</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mr Arthur Law</td>
-                                        <td>Chairman, Sports Sub-Committee</td>
                                     </tr>
                                 </tbody>
                             </table>
