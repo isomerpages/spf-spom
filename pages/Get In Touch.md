@@ -373,7 +373,7 @@ h1.has-text-white {
 }
 
 .contact-information-bottom .contact-info-right table .list-title {
-    width: 24%;
+    width: 25%;
     position: relative;
 }
 
