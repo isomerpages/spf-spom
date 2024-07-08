@@ -333,6 +333,7 @@ h1.has-text-white {
 
 .contact-information-bottom .contact-info-upper-block {
     margin-bottom: 55px;
+	  padding: 0 20px;
 }
 
 .contact-information-bottom .info-subtitle {
@@ -342,6 +343,7 @@ h1.has-text-white {
 
 .contact-information-bottom .info-title {
     margin-bottom: 10px;
+	  margin-left: 20px;
 }
 
 @media (max-width: 991.98px) {
@@ -351,7 +353,7 @@ h1.has-text-white {
 }
 
 .contact-information-bottom .contact-info-left table .list-title {
-    width: 24%;
+    width: 25%;
     position: relative;
 }
 
@@ -362,8 +364,8 @@ h1.has-text-white {
 }
 
 .contact-information-bottom .contact-info-left table .list-detail {
-    width: 74%;
-    padding-left: 25px;
+    width: 70%;
+    padding-left: 20px;
 }
 
 .contact-information-bottom .contact-info-right table .list-title {
