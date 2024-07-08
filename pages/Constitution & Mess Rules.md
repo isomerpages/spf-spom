@@ -128,6 +128,7 @@ description: ""
 }
 
 .about-main .about-inner h2 {
+	  font-weight: bold;
     color: #ffffff;
     font-size: 30px;
     text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
