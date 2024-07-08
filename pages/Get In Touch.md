@@ -494,7 +494,7 @@ h1.has-text-white {
 		<div class="container">
 				<h3 class="info-title">Contact Information</h3>
 				<div class="row contact-info-upper-block">
-						<div class="col-xl-4 col-lg-5 contact-info-left">
+						<div class="col-xl-4 col-lg-4 contact-info-left">
 								<p class="info-subtitle-seconadry">Mess Manager</p>
 								<p class="info-subtitle">Mr Ng Chun Khin</p>
 								<table class="spom-info-table">
@@ -517,7 +517,7 @@ h1.has-text-white {
 										</tr>
 								</tbody></table>
 						</div>
-						<div class="col-xl-8 col-lg-7 contact-info-right">
+						<div class="col-xl-8 col-lg-8 contact-info-right">
 								<p class="info-subtitle-seconadry">Assistant Mess Managers</p>
 								<div class="info-wrapper">
 										<div class="info-left">
