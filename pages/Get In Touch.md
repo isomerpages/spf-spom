@@ -385,7 +385,7 @@ h1.has-text-white {
 
 .contact-information-bottom .contact-info-right table .list-detail {
     width: 59%;
-    padding-left: 25px;
+    padding-left: 20px;
 }
 
 .contact-information-bottom .info-wrapper {
