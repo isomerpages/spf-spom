@@ -71,6 +71,7 @@ description: ""
   text-align: center;
   padding-top: 0px;
   text-transform: uppercase;
+	font-weight: bold;
 }
 	.bp-section-pagetitle {
         background: url(/files/Assets/images/abt-bg-new.jpg) no-repeat center center !important;
