@@ -61,14 +61,12 @@ description: ""
     font-style: normal;
 }
 	body {
-    font-family: "nowregular" !important;
     font-size: 14px !important;
     background-color: #ffffff !important;
 }
 	h1.has-text-white {
   color: #ffffff;
   font-size: 30px;
-  font-family: "nowbold";
   text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
   text-align: center;
   padding-top: 0px;
