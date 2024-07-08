@@ -491,14 +491,7 @@ h1.has-text-white {
 								<p class="info-subtitle-seconadry">Mess Manager</p>
 								<p class="info-subtitle">Mr Ng Chun Khin</p>
 								<table class="spom-info-table">
-										<tbody><tr>
-												<td class="list-title">
-														Mobile &nbsp;
-												</td>
-												<td class="list-detail">
-														9626 9556
-												</td>
-										</tr>
+										<tbody>
 										<tr>
 												<td class="list-title">
 														Tel &nbsp;
@@ -523,14 +516,7 @@ h1.has-text-white {
 										<div class="info-left">
 												<p class="info-subtitle">Mr Michael Chia</p>
 												<table class="spom-info-table">
-														<tbody><tr>
-																<td class="list-title">
-																		Mobile &nbsp;
-																</td>
-																<td class="list-detail">
-																		82183817
-																</td>
-														</tr>
+														<tbody>
 														<tr>
 																<td class="list-title">
 																		Tel &nbsp;
@@ -552,14 +538,7 @@ h1.has-text-white {
 										<div class="info-right">
 												<p class="info-subtitle">Mr Donny Tan Soon Sin</p>
 												<table class="spom-info-table">
-														<tbody><tr>
-																<td class="list-title">
-																		Mobile &nbsp;
-																</td>
-																<td class="list-detail">
-																		9626 9556
-																</td>
-														</tr>
+														<tbody>
 														<tr>
 																<td class="list-title">
 																		Tel &nbsp;
