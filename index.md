@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Lifestyle Avenue to Rest & Relax
+      title: Home Among Friends
       button: DISCOVER MORE
       url: /contact/
       background: /images/banner-img.png
