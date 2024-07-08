@@ -369,7 +369,7 @@ h1.has-text-white {
 
 .contact-information-bottom .contact-info-left table .list-detail {
     width: 70%;
-    padding-left: 20px;
+    padding-left: 18px;
 }
 
 .contact-information-bottom .contact-info-right table .list-title {
@@ -385,7 +385,7 @@ h1.has-text-white {
 
 .contact-information-bottom .contact-info-right table .list-detail {
     width: 59%;
-    padding-left: 20px;
+    padding-left: 18px;
 }
 
 .contact-information-bottom .info-wrapper {
