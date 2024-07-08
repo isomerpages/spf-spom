@@ -132,7 +132,6 @@ description: ""
 .about-main .about-inner h2 {
     color: #ffffff;
     font-size: 30px;
-    font-family: "nowbold";
     text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
     text-align: center;
     padding-top: 0px;
@@ -149,14 +148,12 @@ description: ""
 }
 
 .abt-highlights-main h3 {
-    font-family: "nowmedium";
     font-size: 30px;
     color: #414042;
     margin-bottom: 20px;
 }
 
 .abt-highlights-main p {
-    font-family: "nowregular";
     font-size: 18px;
     max-width: 72%;
     margin: 0 auto;
@@ -211,7 +208,6 @@ description: ""
 
 .mission-main .ms-box h3 {
     font-size: 24px;
-    font-family: "nowmedium";
     color: #414042;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -219,7 +215,6 @@ description: ""
 
 .mission-main .ms-box h5 {
     font-size: 18px;
-    font-family: "nowmedium";
     color: #414042;
     text-transform: uppercase;
 }
@@ -227,7 +222,6 @@ description: ""
 .mission-main .ms-box .add-to-cart {
     background-color: #ebebeb;
     font-size: 11px;
-    font-family: #414042;
     border-radius: 20px;
     padding: 3px 15px;
     text-transform: uppercase;
@@ -251,7 +245,6 @@ description: ""
 
 .mission-main p a {
     font-size: 18px;
-    font-family: "nowbold";
     color: #1e1d56;
     text-decoration: none;
 }
