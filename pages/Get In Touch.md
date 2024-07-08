@@ -336,7 +336,8 @@ h1.has-text-white {
 }
 
 .contact-information-bottom .info-subtitle {
-    margin-bottom: 5px;
+	  margin-top: 5px !important;
+    margin-bottom: 5px !important;
 }
 
 .contact-information-bottom .info-title {
