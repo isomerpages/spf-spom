@@ -247,6 +247,7 @@ description: ""
     font-size: 18px;
     color: #1e1d56;
     text-decoration: none;
+	  font-weight: bold;
 }
 </style>
 <section class="cms-page-container">
