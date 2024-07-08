@@ -61,14 +61,13 @@ description: ""
     font-style: normal;
 }
 	body {
-    font-family: "nowregular" !important;
     font-size: 14px !important;
     background-color: #ffffff !important;
 }
 	h1.has-text-white {
   color: #ffffff;
   font-size: 30px;
-  font-family: "nowbold";
+  font-weight: bold;
   text-shadow: -1px 1px 8px rgba(0, 0, 0, 0.3);
   text-align: center;
   padding-top: 0px;
@@ -99,7 +98,7 @@ description: ""
   line-height: 20px;
   color: #414042;
   text-transform: capitalize;
-  font-family: "nowbold";
+  font-weight: bold;
   margin-bottom: 5px;
 }
 .pmc-gallery-box span {
@@ -147,7 +146,6 @@ description: ""
 
 .mission-main .ms-box h3 {
     font-size: 24px;
-    font-family: "nowmedium";
     color: #414042;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -155,7 +153,6 @@ description: ""
 
 .mission-main .ms-box h5 {
     font-size: 18px;
-    font-family: "nowmedium";
     color: #414042;
     text-transform: uppercase;
 }
@@ -163,7 +160,6 @@ description: ""
 .mission-main .ms-box .add-to-cart {
     background-color: #ebebeb;
     font-size: 11px;
-    font-family: #414042;
     border-radius: 20px;
     padding: 3px 15px;
     text-transform: uppercase;
@@ -187,7 +183,7 @@ description: ""
 
 .mission-main p a {
     font-size: 18px;
-    font-family: "nowbold";
+    font-weight: bold;
     color: #1e1d56;
     text-decoration: none;
 }
