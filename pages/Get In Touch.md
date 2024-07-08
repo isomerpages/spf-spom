@@ -345,6 +345,10 @@ h1.has-text-white {
     margin-bottom: 10px;
 	  margin-left: 20px;
 }
+	
+.contact-information-bottom .info-para {
+    margin: 0 20px;
+}
 
 @media (max-width: 991.98px) {
     .contact-information-bottom .contact-info-left {
