@@ -2,7 +2,7 @@ collections:
   about-spom:
     output: true
     order:
-      - About Us/Constitution & Mess Rules.md
       - About Us/.keep
       - About Us/Overview.md
       - About Us/Heritage.md
+      - About Us/Constitution & Mess Rules.md
