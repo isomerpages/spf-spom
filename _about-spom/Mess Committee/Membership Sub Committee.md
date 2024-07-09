@@ -8,6 +8,7 @@ third_nav_title: Mess Committee
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Membership Sub Committee" src="/images/Committee/membership_sub_committee.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Back Row L to R: Mr Daniel Chuan, Mr Gregory Kang , Mr Jason Chua, Mr
