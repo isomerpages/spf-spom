@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Heritage.md
       - About Us.md
