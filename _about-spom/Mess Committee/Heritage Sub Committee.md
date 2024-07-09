@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Mess Committee
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heritage Sub Committee" src="/images/Committee/heritage_sub_committee.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Back Row L to R: Mr Delvin Ng, Mr Teng Gim Loong, Mr Jackson Wee, Mr Stephen
