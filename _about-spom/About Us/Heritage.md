@@ -141,26 +141,40 @@ traditionally donated by officers upon initiation as members of the Mess.
 Silver cutlery and other items for formal use in the Mess was inherited
 from the British from the 19<sup>th</sup> Century. The military would often
 procure these silver as spoils of war;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Silverware" src="/images/Heritage/Silverware.png">
+</div>
 </li>
 <li>
 <p>Wooden Spoon Trophy – donated by DC A. T. Rajah was the prize for the
 loser of an annual cricket competition between the Army and Police. The
 last contest was held in 1971;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wooden Spoon Trophy" src="/images/Heritage/Wooden_Spoon_Trophy.png">
+</div>
 </li>
 <li>
 <p>Shield with two truncheon – presented to former Inspector-General of Police
 (IGP) Onraet;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shield With Two Truncheon" src="/images/Heritage/Shield_with_Two_Truncheon.png">
+</div>
 </li>
 <li>
 <p>Kukhris – one presented to former CP Cheam Kim Seng and the other to SPOM
 by Capt Mallal Gurung (one of the first Gurkhas trained at Sandhurst) and
 the latest is the one presented to PM Lee in 2019;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kukhri" src="/images/Heritage/Kukhri.png">
+</div>
 </li>
 <li>
 <p>A replica of an oil lamp used by police about a century ago – presented
 in July 1960 by Prof G.A. Ransome of the King Edward VII College of Medicine
 in Singapore;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oil Lanmp" src="/images/Heritage/Oil_Lamp.png">
+</div>
 </li>
 </ul>
 </li>
@@ -168,6 +182,9 @@ in Singapore;</p>
 <p>On the right is the lounge where officers typically take a break. There
 is a sword display featuring foreign swords presented to SPOM and our very
 own Temasek Swords.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Swords" src="/images/Heritage/Sword.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Temasek Sword is a ceremonial sword presented to distinguished guests
@@ -191,6 +208,10 @@ the Malay newspaper Utusan Melayu with former President Yusof Ishak. A
 soccer shield (Haji Ambo Soolah Soccer Shield) was also named after him
 for the annual soccer competition between the Singapore Police and Johore
 Police</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Haji Ambok Soolah Shield" src="/images/Heritage/Haji_Ambok_Soolah_Shield.png">
+</div>
 </li>
 </ul>
 </li>
@@ -200,6 +221,10 @@ shaped wooden frame. Some of them have detailed carvings on its metal parts.
 They are believed to be weapons dating back to early 1800s, kept in personal
 collection. Some of them could have been confiscated by the police up till
 mid-1950s.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Muskets" src="/images/Heritage/Muskets.png">
+</div>
 </li>
 <li>
 <p>The highlight on the second level is the main dining hall, where the dining-in,
@@ -245,5 +270,6 @@ related to SPOM, which are of heritage value. Contributors may contact
 the Mess Manager, Mr Ng Chun Khin at <a href="mailto:chinkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chinkhin@spom.com.sg</a>.</p>
 </li>
 </ol>
+<p></p>
 <p></p>
 <p></p>
