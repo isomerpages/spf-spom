@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Heritage/Heritage.md
-      - Heritage/.keep
       - About Us.md
+      - Heritage/.keep
+      - Heritage/Heritage.md
