@@ -103,7 +103,7 @@ variant: markdown
     .abt-highlights-main p {
         font-size: 18px;
         max-width: 72%;
-        margin: 0 auto;
+        margin: 0 auto !important;
         color: #414042;
         line-height: 30px;
         padding-bottom: 30px !important;
