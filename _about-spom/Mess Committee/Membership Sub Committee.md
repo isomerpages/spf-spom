@@ -18,17 +18,18 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Back Row L to R: Mr Daniel Chuan, Mr Gregory Kang , Mr Jason Chua, Mr
-Winston Li, Ms Stephanie Wong</p>
+<p><strong>Back Row L to R:</strong> Mr Daniel Chuan, Mr Gregory Kang , Mr
+Jason Chua, Mr Winston Li, Ms Stephanie Wong</p>
 </li>
 <li>
-<p>Front Row L to R: Mr Tan Yi Hao, Mr Tan Yi Chun, Ms Sherrin Chua, Mr Lian
-Weixiong, Mr Sean Ho</p>
+<p><strong>Front Row L to R:</strong> Mr Tan Yi Hao, Mr Tan Yi Chun, Ms Sherrin
+Chua, Mr Lian Weixiong, Mr Sean Ho</p>
 </li>
 <li>
-<p>Members not present in the photograph: Ms Gay Hui Shan, Mr Hoo Wee Jie,
-Ms Jacklyn, Mr Kelvin Lee, Mr Thng Zhan Yang, Mr Raymond Chua, Mr Chua
-Jia Hao, Mr Luther Kim, Mr Cai Zhiheng, Mr Sulaiman, Mr Jiffsen Nyan</p>
+<p><strong>Members not present in the photograph:</strong> Ms Gay Hui Shan,
+Mr Hoo Wee Jie, Ms Jacklyn, Mr Kelvin Lee, Mr Thng Zhan Yang, Mr Raymond
+Chua, Mr Chua Jia Hao, Mr Luther Kim, Mr Cai Zhiheng, Mr Sulaiman, Mr Jiffsen
+Nyan</p>
 </li>
 </ul>
 </td>
