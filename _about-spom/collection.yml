@@ -2,11 +2,11 @@ collections:
   about-spom:
     output: true
     order:
-      - PMC Gallery/PMC Gallery.md
-      - PMC Gallery/.keep
-      - Mess Committee/Heritage Sub Committee.md
-      - Mess Committee/.keep
       - About Us/.keep
       - About Us/Overview.md
       - About Us/Heritage.md
       - About Us/Constitution & Mess Rules.md
+      - Mess Committee/.keep
+      - Mess Committee/Heritage Sub Committee.md
+      - PMC Gallery/.keep
+      - PMC Gallery/PMC Gallery.md
