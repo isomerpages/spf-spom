@@ -9,6 +9,13 @@ third_nav_title: Mess Committee
 <img style="width: 100%" height="auto" width="100%" alt="Membership Sub Committee" src="/images/Committee/membership_sub_committee.jpg">
 </div>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Back Row L to R: Mr Daniel Chuan, Mr Gregory Kang , Mr Jason Chua, Mr
@@ -24,4 +31,8 @@ Ms Jacklyn, Mr Kelvin Lee, Mr Thng Zhan Yang, Mr Raymond Chua, Mr Chua
 Jia Hao, Mr Luther Kim, Mr Cai Zhiheng, Mr Sulaiman, Mr Jiffsen Nyan</p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
