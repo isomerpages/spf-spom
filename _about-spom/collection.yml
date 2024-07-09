@@ -2,5 +2,6 @@ collections:
   about-spom:
     output: true
     order:
+      - About Us/Heritage.md
       - About Us/About Us.md
       - About Us/.keep
