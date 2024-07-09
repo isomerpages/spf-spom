@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/About Us.md
+      - About Us/Overview.md
       - About Us/Heritage.md
