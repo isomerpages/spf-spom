@@ -5,21 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
-<ol data-tight="true" class="tight">
-<li>
 <p>The Senior Police Officers’ Mess (SPOM) was once known as the Gazetted
 Officers’ Mess of the Straits Settlements Police Force. Gazetted Officers
 in today’s context are referred to as “Senior Officers” with the rank of
 probationary Assistant Superintendent and above. SPOM has become the acronym
 affectionately known to its members as the premier social hub for both
 official and private functions.</p>
-</li>
-<li>
 <p>SPOM has a rich heritage dating back to 1931. Its mission is to build
 espirit de corps and camaraderie amongst its members and this building
 has always been used for such gatherings.</p>
-</li>
-<li>
 <p>A brief history of the site where SPOM sits on:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,24 +41,18 @@ quarters for government officers</p>
 <p>1926 to 1929 – Building works for the Police Training Depot</p>
 </li>
 </ul>
-</li>
-<li>
 <p>The buildings of SPOM were first used as living quarters for unmarried
 colonial Gazetted Officers. These officers were all Europeans until after
 WW2. Providing accommodations for officers then was first to boost morale
 and to foster camaraderie. It was also for quick mobilization in times
 of emergency. This building was built in the late 1920s and completed in
 Jan 1931.</p>
-</li>
-<li>
 <p>Following WW2, the first SPOM Committee was formed on 26 Feb 1946 and
 it was also then when local Senior Officers were slowly allowed in, instead
 of just the colonial gazette officers. The end of the war also signalled
 other major changes. It was in the late 1950s that the building was converted
 into its sole use as a Officers’ Mess for formal events, networking and
 hot host guests, after the number of officers living-in dwindled.</p>
-</li>
-<li>
 <p>Looking at the architecture, the building is part of an enclave of spacious
 houses along Mount Pleasant Road, considered amongst the grandest black-and-white
 bungalows, built by the British Public Works Department between the two
@@ -81,8 +69,6 @@ the turn of the 20th Century, incorporating “mock Tudor” architecture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Interior of SPOM" src="/images/Heritage/Interior_of_SPOM.png">
 </div>
-</li>
-<li>
 <p>Today, SPOM is a treasure trove of SPF’s rich heritage and history as
 evident from the many artifacts that can be seen on its premises. At the
 main entrance, you can see:</p>
@@ -109,16 +95,12 @@ to alert townsfolk to emergencies such as fires and tiger sightings.</p>
 </div>
 </li>
 </ul>
-</li>
-<li>
 <p>Upon entering SPOM, officers would step into the ante-room, the main focus
 of the place. This is where important guests are received and attendees
 mingle over drinks for event such as dining-ins before adjourning for dinner
 upstairs. In the past, the informal post dinner activities would also be
 held at the ante-room. Such activities include bowling which former President
 Yusof Ishak also participated. Some others include indoor rugby and bowling.</p>
-</li>
-<li>
 <p>Inside of and around SPOM, one can see some noteworthy artefacts:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -177,8 +159,7 @@ in Singapore;</p>
 </div>
 </li>
 </ul>
-</li>
-<li>
+<p></p>
 <p>On the right is the lounge where officers typically take a break. There
 is a sword display featuring foreign swords presented to SPOM and our very
 own Temasek Swords.</p>
@@ -212,36 +193,29 @@ Police</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Haji Ambok Soolah Shield" src="/images/Heritage/Haji_Ambok_Soolah_Shield.png">
 </div>
+<p></p>
 </li>
 </ul>
-</li>
-<li>
 <p>Walking up the steps, there are seven rare muskets mounted in a pyramid
 shaped wooden frame. Some of them have detailed carvings on its metal parts.
 They are believed to be weapons dating back to early 1800s, kept in personal
 collection. Some of them could have been confiscated by the police up till
 mid-1950s.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Muskets" src="/images/Heritage/Muskets.png">
 </div>
-</li>
-<li>
+<p></p>
 <p>The highlight on the second level is the main dining hall, where the dining-in,
 the most ceremonial and formal event at the mess, is held. During formal
 dining-in events, officers will be dressed in Number 2 uniform, which we
 call the mess kit. Officers follow dining-in protocols, which include a
 Loyal Toast to our President.</p>
-</li>
-<li>
 <p>Port has traditionally been the drink for toasting. This is one of the
 many customs inherited from the British. The choice of country of origin
 for the port even has political origin, dating back to the 18<sup>th</sup> century.
 French wines may be pleasant but to the British, they were made warring
 enemy at that time, whereas port could come from the territory of their
 allies, the Portuguese.</p>
-</li>
-<li>
 <p>Port has traditionally been the drink for toasting. This is one of the
 many customs inherited from the British. The choice of country of origin
 for the port even has political origin, dating back to the 18th century.
@@ -256,20 +230,14 @@ for whisky. The two-handed design of the bowl incorporates trust, on the
 part of both giver and receiver. Band performances have always been part
 of the Dining-In tradition. The Singapore Police Force Band was formed
 in 1925.</p>
-</li>
-<li>
 <p>SPOM was marked as the 14th spot on the Balestier Heritage Trail by former
 CP and DC, together with officers from the National Heritage Board, on
 3 July 2014. The Trail is aimed at raising awareness and preserving Balestier's
 rich heritage. Go on a self-guided tour using this map here to discover
 vanishing trades and traditions of the Balestier community.</p>
-</li>
-<li>
 <p>SPOM Heritage sub-committee welcomes contributions of artefacts or photographs
 related to SPOM, which are of heritage value. Contributors may contact
 the Mess Manager, Mr Ng Chun Khin at <a href="mailto:chinkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chinkhin@spom.com.sg</a>.</p>
-</li>
-</ol>
 <p></p>
 <p></p>
 <p></p>
