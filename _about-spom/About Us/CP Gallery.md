@@ -18,7 +18,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
 </div>
 <p><strong>T. Dunman</strong>
 </p>
@@ -27,7 +27,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="S Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="S Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
 </div>
 <p><strong>S.Dunlop. C.M.G</strong>
 </p>
@@ -36,7 +36,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="E G Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="E G Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
 </div>
 <p><strong>E.G. Pennefather</strong>
 </p>
@@ -56,7 +56,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A R Chancellor C.B.E" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="A R Chancellor C.B.E" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
 </div>
 <p><strong>A.R. Chancellor C.B.E</strong>
 </p>
@@ -66,7 +66,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="H Fairburn C.M.G." src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="H Fairburn C.M.G." src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
 </div>
 <p><strong>H. Fairburn C.M.G., K.P.M</strong>
 </p>
@@ -76,7 +76,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="R H  de S Onraet C.M.G" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="R H  de S Onraet C.M.G" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
 </div>
 <p><strong>R.H. de S. Onraet C.M.G</strong>
 </p>
@@ -96,7 +96,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="R E Foulger C.M.G" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="R E Foulger C.M.G" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
 </div>
 <p><strong>R.E. Foulger, C.M.G</strong>
 </p>
@@ -105,7 +105,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="J P Pennefather Evans" src="/images/CP/J_P__Pennefather___Evans__C_B_E_Commissioner_of_Police_Singapore_Police_Force__1951___1952_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="J P Pennefather Evans" src="/images/CP/J_P__Pennefather___Evans__C_B_E_Commissioner_of_Police_Singapore_Police_Force__1951___1952_.jpg">
 </div>
 <p><strong>J.P Pennefather – Evans, C.B.E</strong>
 </p>
@@ -114,7 +114,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="N G Morris C.M.G" src="/images/CP/N_G_Morris__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1952___1957_.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="N G Morris C.M.G" src="/images/CP/N_G_Morris__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1952___1957_.jpg">
 </div>
 <p><strong>N.G. Morris, C.M.G</strong>
 </p>
@@ -143,7 +143,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cheam Kim Seang P.P.A" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="Cheam Kim Seang P.P.A" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_.jpg">
 </div>
 <p><strong>Cheam Kim Seang, P.P.A</strong>
 </p>
@@ -152,7 +152,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Teck Khim D.U.B.C." src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="Tan Teck Khim D.U.B.C." src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_.jpg">
 </div>
 <p><strong>Tan Teck Khim, D.U.B.C., P.J.G., P.P.A</strong>
 </p>
