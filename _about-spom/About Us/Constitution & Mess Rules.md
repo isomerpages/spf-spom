@@ -6,7 +6,7 @@ description: ""
 third_nav_title: About Us
 ---
 <h3>General Guide for Mess Members</h3>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>1. In any social institution, it is necessary to have rules for the purposes
 of good administration. Such rules merely lay down the basic framework
 for the day-to-day running of the establishment. It is not possible to
