@@ -2,6 +2,7 @@ collections:
   about-spom:
     output: true
     order:
+      - About Us/PMC Gallery.md
       - About Us/.keep
       - About Us/Overview.md
       - About Us/Heritage.md
