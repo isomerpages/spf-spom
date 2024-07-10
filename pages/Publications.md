@@ -13,15 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/files/Assets/images/spom-annual-2017.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Report 2017" src="/images/Publications/Annual_report_2017.png">
 </div>
 <p><a href="/files/Assets/media/files/SPOM_Annual_2017.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report 2017</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/files/Assets/images/spom-annual-2018.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Annual Report 2018" src="/images/Publications/Annual_report_2018.png">
 </div>
 <p><a href="/files/Assets/media/files/SPOM_Annual_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report 2018</a>
 </p>
