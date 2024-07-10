@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/Overview.md
       - About Us/Heritage.md
       - About Us/Constitution & Mess Rules.md
       - About Us/CP Gallery.md
