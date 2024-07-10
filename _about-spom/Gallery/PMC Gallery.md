@@ -6,7 +6,18 @@ description: ""
 third_nav_title: Gallery
 ---
 <h3>Our team of officers over the years</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -20,6 +31,14 @@ third_nav_title: Gallery
 </div>
 </div>
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/files/Assets/media/pmc/pmc-gallery-1.png">
 </div>
@@ -70,3 +89,4 @@ third_nav_title: Gallery
 </div>
 <h4>VN Ratnam Singam</h4>
 <p>01.09.1971 to 26.05.1977</p>
+<p></p>
