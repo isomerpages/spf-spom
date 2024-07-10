@@ -48,7 +48,7 @@ third_nav_title: Gallery
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="T Raja Kumar" src="/images/PMC/T_Raja_Kumar.png">
+<img style="width: 100%;" height="auto" width="100%" alt="T Raja Kumar" src="/images/PMC/T_Raja_Kumar.png">
 </div>
 <p></p>
 <p><strong>T Raja Kumar</strong>
@@ -83,7 +83,7 @@ third_nav_title: Gallery
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Khoo Boon Hui" src="/images/PMC/Khoo_Boon_Hui.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Khoo Boon Hui" src="/images/PMC/Khoo_Boon_Hui.png">
 </div>
 <p></p>
 <p><strong>Khoo Boon Hui</strong>
@@ -118,7 +118,7 @@ third_nav_title: Gallery
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Goh Yong Hong" src="/images/PMC/Goh_Yong_Hong.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Goh Yong Hong" src="/images/PMC/Goh_Yong_Hong.png">
 </div>
 <p></p>
 <p><strong>Goh Yong Hong</strong>
