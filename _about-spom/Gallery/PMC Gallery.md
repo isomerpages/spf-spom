@@ -15,21 +15,23 @@ third_nav_title: Gallery
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="How Kwang Hwee" src="/images/PMC/How_Kwang_Hwee.png">
+<img style="width: 100%" height="auto" width="100%" alt="How Kwang Hwee" src="/images/PMC/How_Kwang_Hwee.png">
 </div>
 <p></p>
-<p>How Kwang Hwee</p>
+<p><strong>How Kwang Hwee</strong>
+</p>
 <p></p>
 <p>18.06.2018 to present</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
