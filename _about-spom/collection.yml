@@ -1,0 +1,16 @@
+collections:
+  about-spom:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/Heritage.md
+      - About Us/Constitution & Mess Rules.md
+      - About Us/CP Gallery.md
+      - About Us/PMC Gallery.md
+      - Mess Committee/.keep
+      - Mess Committee/Audit Sub Committee.md
+      - Mess Committee/Business Development & Infrastructure (BD&I) Sub
+        Committee.md
+      - Mess Committee/Heritage Sub Committee.md
+      - Mess Committee/Membership Sub Committee.md
+      - Mess Committee/Sports Sub Committee.md

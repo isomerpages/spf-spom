@@ -1,0 +1,16 @@
+logo: /images/spom-logo-revised.png
+links:
+  - title: HOME
+    url: /
+  - title: ABOUT
+    url: /about
+  - title: GALLERY
+    url: /gallery
+  - title: EVENTS
+    url: /events
+  - title: FACILITIES
+    url: /facility
+  - title: DINING
+    url: /dining
+  - title: PUBLICATIONS
+    url: /publication
