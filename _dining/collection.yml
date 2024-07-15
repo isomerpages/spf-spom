@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Dining/.keep
-      - Dining/Bottle Tree Restaurant.md
       - Dining/Menu.md
       - Dining/Wine.md
       - Dining/Promotion.md
