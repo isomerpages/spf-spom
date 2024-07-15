@@ -2,6 +2,7 @@ collections:
   facilities:
     output: true
     order:
+      - Tennis Court.md
       - KTV Room.md
       - Gymnasium.md
       - Introduction.md
