@@ -6,9 +6,8 @@ description: ""
 third_nav_title: About Us
 ---
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -42,15 +41,6 @@ third_nav_title: About Us
 </p>
 <p>1895 – 1906</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="W A Cuscaden P.S.O." src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
-</div>
-<p><strong>W.A Cuscaden P.S.O., K.P.M</strong>
-</p>
-<p>1906 – 1914</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,15 +72,6 @@ third_nav_title: About Us
 </p>
 <p>1935 – 1939</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A H  Dickinson C.M.G." src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
-</div>
-<p><strong>A.H. Dickinson C.M.G., D.B.E</strong>
-</p>
-<p>1939 - 1946</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,15 +100,6 @@ third_nav_title: About Us
 <p><strong>N.G. Morris, C.M.G</strong>
 </p>
 <p>1952 – 1957</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A E G Blades O.B.E" src="/images/CP/A_E_G__Blades__O_B_E_Commissioner_of_Police_Singapore_Police_Force__1957___1963_.jpg">
-</div>
-<p><strong>A.E.G. Blades, O.B.E</strong>
-</p>
-<p>1957 – 1963</p>
 </td>
 </tr>
 <tr>
@@ -158,9 +130,31 @@ third_nav_title: About Us
 </p>
 <p>1971 – 1979</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="W A Cuscaden P.S.O." src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
+</div>
+<p><strong>W.A Cuscaden P.S.O., K.P.M</strong>
+</p>
+<p>1906 – 1914</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A H  Dickinson C.M.G." src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
+</div>
+<p><strong>A.H. Dickinson C.M.G., D.B.E</strong>
+</p>
+<p>1939 - 1946</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A E G Blades O.B.E" src="/images/CP/A_E_G__Blades__O_B_E_Commissioner_of_Police_Singapore_Police_Force__1957___1963_.jpg">
+</div>
+<p><strong>A.E.G. Blades, O.B.E</strong>
+</p>
+<p>1957 – 1963</p>
 </td>
 </tr>
 </tbody>
