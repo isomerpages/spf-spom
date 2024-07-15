@@ -563,7 +563,7 @@ h1.has-text-white {
 				<div class="row">
 						<div class="col-lg-12">
 								<h3 class="info-title">Internal Communications &amp; Website Matters</h3>
-								<p class="info-para">For matters regarding Internal Communications and the SPOM website, please email to <a href="mailto:Tan_Ming_Jie@spf.gov.sg">Tan_Ming_Jie@spf.gov.sg</a></p>
+								<p class="info-para">For matters regarding Internal Communications and the SPOM website, please email to <a href="mailto:chunkhin@spom.com.sg">chunkhin@spom.com.sg</a></p>
 						</div>
 				</div>
 		</div>
