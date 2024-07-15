@@ -2,5 +2,6 @@ collections:
   facilities:
     output: true
     order:
+      - KTV Room.md
       - Gymnasium.md
       - Introduction.md
