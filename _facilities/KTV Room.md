@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>KTV Room</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="KTV1" src="/images/Facility/KTV_Room_1.jpg">
 </div>
