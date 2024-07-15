@@ -2,5 +2,6 @@ collections:
   dining:
     output: true
     order:
+      - Dining/Menu.md
       - Dining/Bottle Tree Restaurant.md
       - Dining/.keep
