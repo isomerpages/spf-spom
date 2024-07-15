@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
-<h3>Our team of officers over the years</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
