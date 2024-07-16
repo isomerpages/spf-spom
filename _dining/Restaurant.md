@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Bottle Tree Restaurant</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dining" src="/images/Dining/LobsterPorridge_BlackBG.jpg">
 </div>
