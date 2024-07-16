@@ -16,8 +16,19 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gym3" src="/images/Facility/Gym_1.jpg">
 </div>
-<p>SPOM’s Gym allows like-minded individuals to come together and embrace
-a healthy lifestyle. The equipment has just been refurbished to provide
-a more conducive environment for fitness enthusiasts. In addition, the
-team has also added disinfectant wet wipes, disinfectant sprays and towels
-for members to use.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boasting an array of refurbished equipment such as free weights, sandbags
+and TRX suspension trainers, SPOM gym is designed for inclusivity and promotion
+of a healthy lifestyle. SPOM gym is also a conducive environment where
+fitness enthusiasts can work towards their fitness aims, regardless of
+level.</p>
+</li>
+<li>
+<p>Operating from 9am to 8pm (Mon to Fri), 11.30am to 8pm (Sat) and 10.30am
+to 8pm (Sun), members can sign out for the gym key at SPOM main office
+and return after usage. Please be reminded that the gym is closed on Public
+Holidays.</p>
+</li>
+</ul>
+<p></p>
