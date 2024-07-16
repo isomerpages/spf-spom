@@ -4,7 +4,6 @@ permalink: /bottle-tree-restaurant/
 variant: tiptap
 description: ""
 ---
-<h1>Indulge In a Delightful Dining Experience</h1>
 <h3>Bottle Tree Restaurant</h3>
 <p></p>
 <div class="isomer-image-wrapper">
