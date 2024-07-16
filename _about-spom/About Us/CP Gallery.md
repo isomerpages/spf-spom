@@ -55,35 +55,22 @@ third_nav_title: About Us
 <p>1895 – 1906</p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="A.R. Chancellor" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="H. Fairburn" src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="R.H. de S Onraet" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
