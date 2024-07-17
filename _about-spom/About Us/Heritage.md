@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Overview of SPOM Building" src="/images/Heritage/Overview_of_SPOM_s_Entrance_and_Building.png">
+</div>
 <p>The Senior Police Officers’ Mess (SPOM) was once known as the Gazetted
 Officers’ Mess of the Straits Settlements Police Force. Gazetted Officers
 in today’s context are referred to as “Senior Officers” with the rank of
@@ -62,10 +65,6 @@ Solid teak wood flooring, staircases and ceilings add an earthy warmth
 that softens the hard concrete, invariably painted white to reflect the
 tropical heat. The black-and-white scheme typical of English Houses around
 the turn of the 20th Century, incorporating “mock Tudor” architecture.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Overview of SPOM Building" src="/images/Heritage/Overview_of_SPOM_s_Entrance_and_Building.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Interior of SPOM" src="/images/Heritage/Interior_of_SPOM.png">
 </div>
