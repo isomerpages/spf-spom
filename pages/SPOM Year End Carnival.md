@@ -4,7 +4,7 @@ permalink: /spom-year-end-carnival/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SPOM YEAR-END CARNIVAL</strong></h3>
+<h3><strong>SPOM Year-End Carnival</strong></h3>
 <p>22 December 2018</p>
 <p></p>
 <div class="isomer-image-wrapper">
