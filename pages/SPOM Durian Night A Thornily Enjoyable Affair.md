@@ -4,7 +4,7 @@ permalink: /spom-durian-night-a-thornily-enjoyable-affair/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SPOM Durian Night <br>A THORNILY ENJOYABLE AFFAIR</strong></h3>
+<h3><strong>SPOM Durian Night: A Thornily Enjoyable Affair</strong></h3>
 <p>10 August 2018</p>
 <p></p>
 <div class="isomer-image-wrapper">
