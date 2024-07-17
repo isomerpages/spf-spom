@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>27 Jan 2024
-<br><strong><a href="/spom-e-sports-challenge/" rel="noopener noreferrer nofollow" target="_blank">SPOM E-SPORTS CHALLENGE</a></strong>
+<br><strong><a href="/spom-e-sports-challenge/" rel="noopener noreferrer nofollow" target="_blank">SPOM E-Sports Challenge</a></strong>
 </p>
 <p></p>
 </td>
@@ -53,7 +53,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>03 Mar 2019
-<br><strong><a href="/whisky-appreciation-night-a-masterclass/" rel="noopener noreferrer nofollow" target="_blank">WHISKY APPRECIATION NIGHT – A MASTERCLASS</a></strong>
+<br><strong><a href="/whisky-appreciation-night-a-masterclass/" rel="noopener noreferrer nofollow" target="_blank">Whisky Appreciation Night - A Masterclass</a></strong>
 </p>
 <p></p>
 </td>
@@ -69,7 +69,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>22 Dec 2018
-<br><strong><a href="/spom-year-end-carnival/" rel="noopener noreferrer nofollow" target="_blank">SPOM YEAR-END CARNIVAL</a></strong>
+<br><strong><a href="/spom-year-end-carnival/" rel="noopener noreferrer nofollow" target="_blank">SPOM Year-End Carnival</a></strong>
 </p>
 <p></p>
 </td>
@@ -101,7 +101,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>10 Aug 2018
-<br><strong><a href="/spom-durian-night-a-thornily-enjoyable-affair/" rel="noopener noreferrer nofollow" target="_blank">SPOM Durian Night: A THORNILY ENJOYABLE AFFAIR</a></strong>
+<br><strong><a href="/spom-durian-night-a-thornily-enjoyable-affair/" rel="noopener noreferrer nofollow" target="_blank">SPOM Durian Night: A Thornily Enjoyable Affair</a></strong>
 </p>
 </td>
 </tr>
