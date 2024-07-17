@@ -20,5 +20,5 @@ and quality.</p>
 </div>
 <p>10<sup>th</sup> Series President’s Selection SPOM Red Wine: $46 w/GST</p>
 <p>8<sup>th</sup> series President’s Selection SPOM White wine: $43 w/GST</p>
-<p>Please call SPOM @ 64783040 to enquire on the availability and payment
-options.</p>
+<p>Please call SPOM @ 64783040 to enquire on availability. Payment and collection
+of wines are to be made at SPOM.</p>
