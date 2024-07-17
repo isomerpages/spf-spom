@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Home Among Friends
       button: DISCOVER MORE
-      url: /contact/
+      url: /heritage/
       background: /images/banner-img.png
   - infobar:
       title: Welcome to the Senior Police Officers' Mess
