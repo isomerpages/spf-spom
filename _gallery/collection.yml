@@ -2,5 +2,6 @@ collections:
   gallery:
     output: true
     order:
+      - 2024/Pick Your Poison Challenge.md
       - 2024/SPOM Annual Dinner Photo Montage.md
       - 2024/.keep
