@@ -5,16 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h3>Wine</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wine1" src="/images/Dining/Wine1.jpg">
+</div>
 <p>A new and exclusive 10th series President’s Selection SPOM red wine and
 8th series President’s Selection SPOM white wine have been specially curated
 for our members. Perfect for every occasion or as a gift, this collection
 of premium wines has been meticulously chosen for their exceptional taste
 and quality.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wine1" src="/images/Dining/Wine1.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wine2" src="/images/Dining/Wine2.jpg">
 </div>
