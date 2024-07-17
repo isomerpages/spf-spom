@@ -4,7 +4,7 @@ permalink: /whisky-appreciation-night-a-masterclass/
 variant: tiptap
 description: ""
 ---
-<h3><strong>WHISKY APPRECIATION NIGHT – A MASTERCLASS</strong></h3>
+<h3><strong>Whisky Appreciation Night - A Masterclass</strong></h3>
 <p>3 March 2019</p>
 <p></p>
 <div class="isomer-image-wrapper">
