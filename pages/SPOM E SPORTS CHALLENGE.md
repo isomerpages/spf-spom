@@ -4,7 +4,7 @@ permalink: /spom-e-sports-challenge/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SPOM E-SPORTS CHALLENGE</strong></h3>
+<h3><strong>SPOM E-Sports Challenge</strong></h3>
 <p>27 Jan 2024</p>
 <p></p>
 <div class="isomer-image-wrapper">
