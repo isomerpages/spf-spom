@@ -35,7 +35,7 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T. Dunman</strong>
+<p><strong>              T. Dunman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
