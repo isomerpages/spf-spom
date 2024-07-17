@@ -4,10 +4,12 @@ permalink: /contact/
 description: ""
 variant: tiptap
 ---
+<h3>Internal Communications</h3>
 <p>We welcome any suggestions and feedback. If you have something to share
-with us, we would like to hear from you.</p>
+with us, we would like to hear from you. For matters regarding Internal
+Communications and the SPOM website, please email to <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
+</p>
 <h3>Operating Hours</h3>
-<p>SPOM is closed on all public holidays</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,10 +48,27 @@ with us, we would like to hear from you.</p>
 <p>10.00am - 10.00pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>SPOM is closed on all public holidays</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Contact Information</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Address: 153 Mount Pleasant Road, Singapore 298341</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -121,7 +140,3 @@ with us, we would like to hear from you.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Internal Communications &amp; Website Matters</h3>
-<p>For matters regarding Internal Communications and the SPOM website, please
-email to <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
-</p>
