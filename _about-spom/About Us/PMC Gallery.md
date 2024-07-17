@@ -24,7 +24,7 @@ third_nav_title: About Us
 </div>
 <p><strong>How Kwang Hwee</strong>
 </p>
-<p>18.06.2018 to present</p>
+<p>2018 to present</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,7 +38,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Lau Peet Meng</strong>
 </p>
-<p>1.01.2015 to 17.06.2018</p>
+<p>2015 to 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -47,7 +47,7 @@ third_nav_title: About Us
 </div>
 <p><strong>T Raja Kumar</strong>
 </p>
-<p>4.01.2003 to 31.12.2014</p>
+<p>2003 to 2014</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,7 +56,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Lim Soo Gee</strong>
 </p>
-<p>01.02.1998 to 23.01.2003</p>
+<p>1998 to 2003</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Benedict Cheong</strong>
 </p>
-<p>18.10.1995 to 31.01.1998</p>
+<p>1995 to 1998</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -76,7 +76,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Khoo Boon Hui</strong>
 </p>
-<p>01.08.1991 to 17.10.1995</p>
+<p>1991 to 1995</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,7 +85,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Peter Szeto</strong>
 </p>
-<p>30.09.1983 to 31.07.1991</p>
+<p>1983 to 1991</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Michael Chai</strong>
 </p>
-<p>22.03.1979 to 26.08.1983</p>
+<p>1979 to 1983</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -105,7 +105,7 @@ third_nav_title: About Us
 </div>
 <p><strong>Goh Yong Hong</strong>
 </p>
-<p>30.06.1977 to 22.02.1979</p>
+<p>1977 to 1979</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,7 +114,7 @@ third_nav_title: About Us
 </div>
 <p><strong>VN Ratnam Singam</strong>
 </p>
-<p>01.09.1971 to 26.05.1977</p>
+<p>1971 to 1977</p>
 </td>
 </tr>
 </tbody>
