@@ -43,4 +43,4 @@ special celebrations.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For reservations or enquiries, please contact us at 6254 6413.</p>
