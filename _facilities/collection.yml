@@ -2,8 +2,8 @@ collections:
   facilities:
     output: true
     order:
-      - Bar Lounge.md
       - Introduction.md
+      - Bar Lounge.md
       - Gymnasium.md
       - KTV Room.md
       - Tennis Court.md
