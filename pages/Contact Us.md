@@ -4,11 +4,6 @@ permalink: /contact/
 description: ""
 variant: tiptap
 ---
-<h3>Internal Communications</h3>
-<p>We welcome any suggestions and feedback. If you have something to share
-with us, we would like to hear from you. For matters regarding Internal
-Communications and the SPOM website, please email to <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
-</p>
 <h3>Operating Hours</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -77,7 +72,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tel :</p>
+<p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6478 3040</p>
@@ -85,7 +80,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fax :</p>
+<p>Fax</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6254 9924</p>
@@ -102,7 +97,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mess Manager :</p>
+<p>Mess Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Chun Khin - <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
@@ -111,7 +106,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Mess Managers :</p>
+<p>Assistant Mess Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Michael Chia - <a href="mailto:chiamichael@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chiamichael@spom.com.sg</a>
@@ -120,7 +115,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Manager :</p>
+<p>Assistant Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Donny Tan Soon Sin - <a href="mailto:tandonny@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">tandonny@spom.com.sg</a>
@@ -129,7 +124,7 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>F&amp;B Manager :</p>
+<p>F&amp;B Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edward Chua - <a href="mailto:edwardchua@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">edwardchua@spom.com.sg</a>
@@ -139,4 +134,8 @@ Communications and the SPOM website, please email to <a href="mailto:chunkhin@sp
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>Internal Communications</h3>
+<p>We welcome any suggestions and feedback. If you have something to share
+with us, we would like to hear from you. For matters regarding Internal
+Communications and the SPOM website, please email to <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
+</p>
