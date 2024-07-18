@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Manager</p>
+<p>Assistant Mess Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Donny Tan Soon Sin - <a href="mailto:tandonny@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">tandonny@spom.com.sg</a>
