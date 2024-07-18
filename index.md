@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Home Among Friends
-      button: DISCOVER MORE
       url: /heritage/
       background: /images/banner-img.png
   - infobar:
