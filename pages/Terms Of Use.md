@@ -74,8 +74,7 @@ permission of SPOM.</p>
 <li>
 <p>The Contents of this Site are provided on an "as is" basis without warranties
 of any kind. To the fullest extent permitted by law, SPOM does not warrant
-and hereby disclaims any warranty:</p>
-<p>&nbsp;</p>
+and hereby disclaims any warranty:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>As to the accuracy, correctness, reliability, timeliness, non-infringement,
@@ -225,7 +224,7 @@ reached by links to or from this Site or any of the Contents.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>These Terms of Use shall be governed and construed in accordance with
-laws of the Republic of Singapore&nbsp;</p>
+laws of the Republic of Singapore.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
