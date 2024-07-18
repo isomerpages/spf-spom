@@ -2,6 +2,7 @@ collections:
   facilities:
     output: true
     order:
+      - Business Centre.md
       - Introduction.md
       - Bar Lounge.md
       - Gymnasium.md
