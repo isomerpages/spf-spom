@@ -14,7 +14,7 @@ third_nav_title: "2024"
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0834_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0819.jpg">
 </div>
 </th>
 </tr>
@@ -22,7 +22,7 @@ third_nav_title: "2024"
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0831_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0823.jpg">
 </div>
 </td>
 </tr>
@@ -30,7 +30,7 @@ third_nav_title: "2024"
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0827_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0825.jpg">
 </div>
 </td>
 </tr>
@@ -38,63 +38,95 @@ third_nav_title: "2024"
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0824_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0827.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0832_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0831.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0825_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0837.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0833_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0846.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0820_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0855.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0828_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0857.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0823_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0871.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0826_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/IMG_1578.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/DSC_0830_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/IMG_1579.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/IMG_1587.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/IMG_1608.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Pick Your Poison Challenge/IMG_1618.jpg">
 </div>
 </td>
 </tr>
