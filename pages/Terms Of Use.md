@@ -75,8 +75,6 @@ permission of SPOM.</p>
 <p>The Contents of this Site are provided on an "as is" basis without warranties
 of any kind. To the fullest extent permitted by law, SPOM does not warrant
 and hereby disclaims any warranty:</p>
-</li>
-</ul>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,6 +91,8 @@ corrected or that this Site and the server is and will be free of all viruses
 and/or other harmful elements.</p>
 </li>
 </ol>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>SPOM shall also not be liable for any damage or loss of any kind caused
@@ -140,9 +140,9 @@ in reliance upon the Contents of this Site.</p>
 <p>SPOM reserves all rights to deny or restrict access to this Site to any
 particular person, or to block access from a particular Internet address
 to this Site, at any time, without ascribing any reasons whatsoever.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Links from this Site to Other Websites</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -160,9 +160,9 @@ own risk.
 In no circumstances shall SPOM be considered to be associated or affiliated
 in whatever manner with any trade or service marks, logos, insignia or
 other devices used or appearing on websites to which this Site is linked.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Links to this Site from Other Websites</strong>
 </p>
 <ul data-tight="true" class="tight">
