@@ -20,14 +20,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facility/Dining_Hall_4.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facility/IMG_20240715_WA0003__002_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facility/IMG_20240715_WA0008.jpg">
-</div>
 <p>The dining hall is where all formal dining-in events take place. Distinguished
 guests hosted for dining-ins include our late founding PM, DPMs, Chief
 of Justice and Chiefs of uniformed groups. It can also be used to host
