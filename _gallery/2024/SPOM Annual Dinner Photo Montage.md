@@ -106,6 +106,30 @@ third_nav_title: "2024"
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/SPOM Annual Dinner 2024/113__DSC6893.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/SPOM Annual Dinner 2024/97__DSC6714.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/SPOM Annual Dinner 2024/70__DSC6333.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
