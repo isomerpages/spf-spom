@@ -6,7 +6,11 @@ description: ""
 ---
 <h3>Bottle Tree Restaurant</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="dining" src="/images/Dining/LobsterPorridge_BlackBG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facility/IMG_20240715_WA0003__002_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facility/IMG_20240715_WA0008.jpg">
 </div>
 <p>The Bottle Tree Restaurant @ SPOM is a halal-certified restaurant that
 offers a range of local and Western cuisines. The cozy dining environment
