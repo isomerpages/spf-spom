@@ -28,6 +28,9 @@ third_nav_title: Mess Committee
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vice PMC Tan Tin Wee head" src="/images/Committee/Vice_PMC_Tan_Tin_Wee_head.jpg">
+</div>
 </th>
 </tr>
 <tr>
