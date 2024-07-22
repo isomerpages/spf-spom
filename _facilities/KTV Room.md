@@ -27,3 +27,4 @@ description: ""
 <p>Unleash your inner superstar at SPOM's very own KTV, where the stage is
 set for unforgettable moments of music, laughter, and pure entertainment.
 You can also book the individual rooms for more privacy.</p>
+<p>Cost: $20 per 2-hour usage</p>
