@@ -67,8 +67,8 @@ third_nav_title: Mess Committee
 <br>(Honorary Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Ding Xiang Andrew</p>
-<p>(Asst Hon Secretary)</p>
+<p>Mr Wang Ding Xiang Andrew
+<br>(Asst Hon Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Elvis Chong
@@ -97,8 +97,8 @@ third_nav_title: Mess Committee
 <p>Mr Ong Yang You Winston (Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lionel Lee Yu Xuan</p>
-<p>(Asst Honorary Treasurer)</p>
+<p>Mr Lionel Lee Yu Xuan
+<br>(Asst Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,8 +126,8 @@ third_nav_title: Mess Committee
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Chiu</p>
-<p>(Chairperson Audit)</p>
+<p>Ms Serene Chiu
+<br>(Chairperson Audit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Eng Seng (Chairperson BD&amp;I)</p>
@@ -189,15 +189,15 @@ third_nav_title: Mess Committee
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Deculan Goh Kim Chuan</p>
-<p>(Chairperson Social)</p>
+<p>Mr Deculan Goh Kim Chuan
+<br>(Chairperson Social)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Tian Yeow (Chairperson Sports)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Madeline Low</p>
-<p>(Logistics Member)</p>
+<p>Ms Madeline Low
+<br>(Logistics Member)</p>
 </td>
 </tr>
 </tbody>
