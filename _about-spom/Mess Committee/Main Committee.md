@@ -16,8 +16,9 @@ third_nav_title: Mess Committee
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PMC How Kwang Hwee head" src="/images/Committee/PMC_How_Kwang_Hwee_head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PMC How Kwang Hwee" src="/images/Committee/PMC_How_Kwang_Hwee_head.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -44,31 +45,34 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lam Yarn (Honorary Secretary)" src="/images/Committee/Ms_Lam_Yarn__Honorary_Secretary__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lam Yarn  (Honorary Secretary)" src="/images/Committee/Ms_Lam_Yarn__Honorary_Secretary__head.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Wang Ding Xiang Andrew (Asst Hon Secretary)" src="/images/Committee/Mr_Wang_Ding_Xiang_Andrew__Asst_Hon_Secretary__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wang Ding Xiang Andrew   (Asst Hon Secretary)" src="/images/Committee/Mr_Wang_Ding_Xiang_Andrew__Asst_Hon_Secretary__head.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Elvis Chong (Asst Hon Secretary)" src="/images/Committee/Mr_Elvis_Chong__Asst_Hon_Secretary__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Elvis Chong  (Asst Hon Secretary)" src="/images/Committee/Mr_Elvis_Chong__Asst_Hon_Secretary__head.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lam Yarn (Honorary Secretary)</p>
+<p>Ms Lam Yarn
+<br>(Honorary Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Ding Xiang Andrew (Asst Hon Secretary)</p>
+<p>Mr Wang Ding Xiang Andrew</p>
+<p>(Asst Hon Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Elvis Chong (Asst Hon Secretary)</p>
+<p>Mr Elvis Chong
+<br>(Asst Hon Secretary)</p>
 </td>
 </tr>
 <tr>
@@ -80,12 +84,12 @@ third_nav_title: Mess Committee
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lionel Lee Yu Xuan   (Asst Honorary Treasurer)" src="/images/Committee/Mr_Lionel_Lee_Yu_Xuan__Asst_Honorary_Treasurer__head.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Lionel Lee Yu Xuan (Asst Honorary Treasurer)" src="/images/Committee/Mr_Lionel_Lee_Yu_Xuan__Asst_Honorary_Treasurer__head.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -93,7 +97,8 @@ third_nav_title: Mess Committee
 <p>Mr Ong Yang You Winston (Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lionel Lee Yu Xuan (Asst Honorary Treasurer)</p>
+<p>Mr Lionel Lee Yu Xuan</p>
+<p>(Asst Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -103,7 +108,7 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Serene Chiu (Chairperson Audit)" src="/images/Committee/Ms_Serene_Chiu__Chairperson_Audit__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Serene Chiu   (Chairperson Audit)" src="/images/Committee/Ms_Serene_Chiu__Chairperson_Audit__head.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +126,8 @@ third_nav_title: Mess Committee
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Chiu (Chairperson Audit)</p>
+<p>Ms Serene Chiu</p>
+<p>(Chairperson Audit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Eng Seng (Chairperson BD&amp;I)</p>
@@ -165,7 +171,7 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Deculan Goh Kim Chuan(Chairperson Social)" src="/images/Committee/Mr_Deculan_Goh_Kim_Chuan_Chairperson_Social__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Deculan Goh Kim Chuan  (Chairperson Social)" src="/images/Committee/Mr_Deculan_Goh_Kim_Chuan_Chairperson_Social__head.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,19 +183,21 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Madeline Low (Logistics Member)" src="/images/Committee/Ms_Madeline_Low__Logistics_Member__head.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Madeline Low   (Logistics Member)" src="/images/Committee/Ms_Madeline_Low__Logistics_Member__head.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Deculan Goh Kim Chuan(Chairperson Social)</p>
+<p>Mr Deculan Goh Kim Chuan</p>
+<p>(Chairperson Social)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Tian Yeow (Chairperson Sports)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Madeline Low (Logistics Member)</p>
+<p>Ms Madeline Low</p>
+<p>(Logistics Member)</p>
 </td>
 </tr>
 </tbody>
