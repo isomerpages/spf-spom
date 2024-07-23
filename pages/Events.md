@@ -92,6 +92,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>25 Mar 2023</p>
+<p><strong><a href="/e-sports-virtual-challenge" rel="noopener noreferrer nofollow" target="_blank">E-Sports Virtual Challenge</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>08 Feb 2023</p>
 <p><strong><a href="/kampai-feb-beer-lous-festival-registration-closed" rel="noopener noreferrer nofollow" target="_blank">Kampai, Feb-beer-lous! SPOM Beer Festival- Registration Closed</a></strong>
 </p>
