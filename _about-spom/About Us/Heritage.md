@@ -236,7 +236,7 @@ rich heritage. Go on a self-guided tour using this map here to discover
 vanishing trades and traditions of the Balestier community.</p>
 <p>SPOM Heritage sub-committee welcomes contributions of artefacts or photographs
 related to SPOM, which are of heritage value. Contributors may contact
-the Mess Manager, Mr Ng Chun Khin at <a href="mailto:chinkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chinkhin@spom.com.sg</a>.</p>
+the Mess Manager, Mr Ng Chun Khin at <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chinkhin@spom.com.sg</a>.</p>
 <p></p>
 <p></p>
 <p></p>
