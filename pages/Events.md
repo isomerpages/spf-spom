@@ -36,6 +36,78 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>04 Nov 2023</p>
+<p><strong><a href="/coffee-appreciation-workshop" rel="noopener noreferrer nofollow" target="_blank">Coffee Appreciation Workshop on 4 November 2023</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>14 Oct 2023</p>
+<p><strong><a href="/appreciate-coffee-tea" rel="noopener noreferrer nofollow" target="_blank">Appreciate Coffee &amp; Tea @ SPOM In 14th October 2023</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>06 Sept 2023</p>
+<p><strong><a href="/closure-of-spom-restaurant" rel="noopener noreferrer nofollow" target="_blank">Closure of SPOM Restaurant on 6 Sept 2023</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>16 Aug 2023</p>
+<p><strong><a href="/august-promotion-at-the-bottle-tree-restaurant" rel="noopener noreferrer nofollow" target="_blank">August Promotion at the Bottle Tree Restaurant @ SPOM - 16th Aug</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>03 Aug 2023</p>
+<p><strong><a href="/soft-opening-of-bottle-tree-restaurant" rel="noopener noreferrer nofollow" target="_blank">Soft Opening of Bottle Tree Restaurant @ SPOM</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>03 Jun to 24 Jun 2023</p>
+<p><strong><a href="/registration-for-tennis-clinic" rel="noopener noreferrer nofollow" target="_blank">Registration for Tennis Clinic 2023!</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>01 May 2023</p>
+<p><strong><a href="/clousure-of-spom-labour-day" rel="noopener noreferrer nofollow" target="_blank">Closure of SPOM on 1 May 2023 (Labour Day)</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>08 Feb 2023</p>
+<p><strong><a href="/kampai-feb-beer-lous-festival-registration-closed" rel="noopener noreferrer nofollow" target="_blank">Kampai, Feb-beer-lous! SPOM Beer Festival- Registration Closed</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>05 Jan to 14 Jan 2023</p>
+<p><strong><a href="/lunch-at-spom-$5-buffet-promo" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM- $5 Buffet Promo - 5-14 Jan 2023</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>26 Jul 2019
 <br><strong><a href="/spom-happy-hour/" rel="noopener noreferrer nofollow" target="_blank">SPOM Happy Hour</a></strong>
 </p>
