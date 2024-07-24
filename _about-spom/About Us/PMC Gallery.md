@@ -18,9 +18,8 @@ third_nav_title: About Us
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="How Kwang Hwee" src="/images/PMC/How_Kwang_Hwee.png">
+<img style="width: 100%" height="auto" width="100%" alt="How Kwang Kwee" src="/images/PMC/pmc_how_kwang_kwee_resized.png">
 </div>
 <p><strong>How Kwang Hwee</strong>
 </p>
