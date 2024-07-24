@@ -42,7 +42,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lau Peet Meng" src="/images/PMC/Lau_Peet_Meng.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lau Peet Meng" src="/images/PMC/Lau_Peet_Meng_resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Benedict Cheong" src="/images/PMC/Benedict_Cheong.png">
+<img style="width: 100%" height="auto" width="100%" alt="Benedict Cheong" src="/images/PMC/Benedict_Cheong_resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +110,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Michael Chai" src="/images/PMC/Michael_Chai.png">
+<img style="width: 100%" height="auto" width="100%" alt="Michael Chai" src="/images/PMC/Michael_Chai_resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
