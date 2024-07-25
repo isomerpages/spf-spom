@@ -116,6 +116,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>17 Jun 2022</p>
+<p><strong><a href="/afternoon-at-the-football-gym-tfg" rel="noopener noreferrer nofollow" target="_blank">Afternoon at The Football Gym (TFG)</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>26 Jul 2019
 <br><strong><a href="/spom-happy-hour/" rel="noopener noreferrer nofollow" target="_blank">SPOM Happy Hour</a></strong>
 </p>
