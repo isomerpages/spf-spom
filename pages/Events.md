@@ -101,7 +101,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>08 Feb 2023</p>
-<p><strong><a href="/kampai-feb-beer-lous-festival-registration-closed" rel="noopener noreferrer nofollow" target="_blank">Kampai, Feb-beer-lous! SPOM Beer Festival- Registration Closed</a></strong>
+<p><strong><a href="/kampai-feb-beer-lous-spom-beer-festival-registration-closed" rel="noopener noreferrer nofollow" target="_blank">Kampai, Feb-beer-lous! SPOM Beer Festival- Registration Closed</a></strong>
 </p>
 <p></p>
 </td>
@@ -109,7 +109,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>05 Jan to 14 Jan 2023</p>
-<p><strong><a href="/lunch-at-spom-$5-buffet-promo" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM- $5 Buffet Promo - 5-14 Jan 2023</a></strong>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM- $5 Buffet Promo - 5-14 Jan 2023</a></strong>
 </p>
 <p></p>
 </td>
