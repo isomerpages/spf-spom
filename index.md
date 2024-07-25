@@ -12,4 +12,9 @@ sections:
       background: /images/banner-img.png
   - infobar:
       title: Welcome to the Senior Police Officers' Mess
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
 ---
