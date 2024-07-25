@@ -12,6 +12,9 @@ sections:
       background: /images/banner-img.png
   - infobar:
       title: Welcome to the Senior Police Officers' Mess
+      description: Constructed in 1931 within the enclave of spacious black-and-white
+        bungalows, SPOM was built by the British Government's Public Works
+        Department.
   - infobar:
       title: Infobar
       subtitle: Add informational text
