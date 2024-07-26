@@ -12,6 +12,22 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p>2024</p>
+<p><strong><a href="/spom-annual-2022-2023-collection" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual 2022-2023 Collection!</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>22 Jun 2024</p>
+<p><strong><a href="/link" rel="noopener noreferrer nofollow" target="_blank">SPOM Movie Night under the Stars</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>01 Jun to 22 Jun 2024
 <br><strong><a href="/tennis-clinic/" rel="noopener noreferrer nofollow" target="_blank">Tennis Clinic</a></strong>
 </p>
@@ -20,8 +36,40 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>25 May 2024</p>
+<p><strong><a href="/fa-cup-final-live-screening-2024" rel="noopener noreferrer nofollow" target="_blank">FA Cup Final Live Screening 2024</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>19 Apr 2024</p>
+<p><strong><a href="/link" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual Dinner 2024 (Registration Broadcast)</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Feb 2024</p>
+<p><strong><a href="/messcall-february-2024" rel="noopener noreferrer nofollow" target="_blank">Messcall - February 2024</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>27 Jan 2024
 <br><strong><a href="/spom-e-sports-challenge/" rel="noopener noreferrer nofollow" target="_blank">SPOM E-Sports Challenge</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>15 Jan to 24 Feb 2024</p>
+<p><strong><a href="/cny-fb-promotion" rel="noopener noreferrer nofollow" target="_blank">CNY F&amp;B Promotion</a></strong>
 </p>
 <p></p>
 </td>
