@@ -117,7 +117,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>18 Dec 2022</p>
-<p><strong><a href="/live-screening-fifa-world-cup-matches-spom-foosball" rel="noopener noreferrer nofollow" target="_blank">Live Screening of FIFA World Cup 2022 Matches + SPOM Foosball &amp; FIFA 23 (PS4) Challenge</a></strong>
+<p><strong><a href="/live-screening-of-fifa-world-cup-2022-matches-spom-foosball-fifa-23-ps4-challenge" rel="noopener noreferrer nofollow" target="_blank">Live Screening of FIFA World Cup 2022 Matches + SPOM Foosball &amp; FIFA 23 (PS4) Challenge</a></strong>
 </p>
 <p></p>
 </td>
@@ -125,7 +125,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>06 Dec 2022 to 03 Jan 2023</p>
-<p><strong><a href="/lunch-at-spom-5-buffet-promo-6dec-3jan" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 6 Dec 2022 to 3 Jan 2023</a></strong>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-6-dec-2022-to-3-jan-2023" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 6 Dec 2022 to 3 Jan 2023</a></strong>
 </p>
 <p></p>
 </td>
@@ -133,7 +133,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>25 Nov 2022</p>
-<p><strong><a href="/registration-for-the-17th-spom-medal-is-open" rel="noopener noreferrer nofollow" target="_blank">Registration for the 17th SPOM Medal is Open! (Slots still available)</a></strong>
+<p><strong><a href="/registration-for-the-17th-spom-medal-is-open-slots-still-available" rel="noopener noreferrer nofollow" target="_blank">Registration for the 17th SPOM Medal is Open! (Slots still available)</a></strong>
 </p>
 <p></p>
 </td>
@@ -141,7 +141,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>19 Nov to 10 Dec 2022</p>
-<p><strong><a href="/registration-for-tennis-clinic" rel="noopener noreferrer nofollow" target="_blank">Registration for Tennis Clinic 2022!</a></strong>
+<p><strong><a href="/registration-for-tennis-clinic-2022" rel="noopener noreferrer nofollow" target="_blank">Registration for Tennis Clinic 2022!</a></strong>
 </p>
 <p></p>
 </td>
@@ -149,7 +149,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>12 Nov 2022</p>
-<p><strong><a href="/pick-your-poison-challenge-signup-now" rel="noopener noreferrer nofollow" target="_blank">Pick-Your-Poison Challenge for 2022 is finally here! Sign up now!</a></strong>
+<p><strong><a href="/pick-your-poison-challenge-for-2022-is-finally-here-sign-up-now" rel="noopener noreferrer nofollow" target="_blank">Pick-Your-Poison Challenge for 2022 is finally here! Sign up now!</a></strong>
 </p>
 <p></p>
 </td>
@@ -157,7 +157,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>08 Nov to 03 Dec 2022</p>
-<p><strong><a href="/lunch-at-spom-5-buffet-promo-8nov-3dec" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 8 Nov to 3 Dec</a></strong>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-8-nov-to-3-dec" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 8 Nov to 3 Dec</a></strong>
 </p>
 <p></p>
 </td>
@@ -173,7 +173,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>18, 20, 22 Oct 2022</p>
-<p><strong><a href="/lunch-at-spom-5-buffet-promo-18-20-22-oct" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 18, 20 &amp; 22 Oct 2022</a></strong>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-18-20-22-oct-2022" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 18, 20 &amp; 22 Oct 2022</a></strong>
 </p>
 <p></p>
 </td>
@@ -181,7 +181,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>08 Oct 2022</p>
-<p><strong><a href="/lunch-at-spom-5-buffet-promo-8oct" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo from 8 Oct 2022</a></strong>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-from-8-oct-2022" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo from 8 Oct 2022</a></strong>
 </p>
 <p></p>
 </td>
@@ -189,7 +189,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>09 Sep 2022</p>
-<p><strong><a href="/september-school-holiday-bento-making" rel="noopener noreferrer nofollow" target="_blank">September School Holiday Bento Making - 9 September (Friday), 5.00pm</a></strong>
+<p><strong><a href="/september-school-holiday-bento-making-9-september-friday-5-00pm" rel="noopener noreferrer nofollow" target="_blank">September School Holiday Bento Making - 9 September (Friday), 5.00pm</a></strong>
 </p>
 <p></p>
 </td>
@@ -197,7 +197,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>27 Aug 2022</p>
-<p><strong><a href="/last-day-for-spom-fb-daily-lunch-private-dining-promo" rel="noopener noreferrer nofollow" target="_blank">Last Day for SPOM F&amp;B Daily Lunch and Private Dining Promo on 27 Aug 22</a></strong>
+<p><strong><a href="/last-day-for-spom-f-b-daily-lunch-and-private-dining-promo-on-27-aug-22" rel="noopener noreferrer nofollow" target="_blank">Last Day for SPOM F&amp;B Daily Lunch and Private Dining Promo on 27 Aug 22</a></strong>
 </p>
 <p></p>
 </td>
@@ -205,7 +205,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>29 Jul 2022</p>
-<p><strong><a href="/bpl-fantasy-league-last-call-for-registration" rel="noopener noreferrer nofollow" target="_blank">Barclays Premier League (BPL) Fantasy League 2022- Last Call for Registration!</a></strong>
+<p><strong><a href="/barclays-premier-league-bpl-fantasy-league-2022-last-call-for-registration" rel="noopener noreferrer nofollow" target="_blank">Barclays Premier League (BPL) Fantasy League 2022- Last Call for Registration!</a></strong>
 </p>
 <p></p>
 </td>
@@ -213,7 +213,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>10 Jul, 11 Jul 2022</p>
-<p><strong><a href="/closure-of-spom-on-10-11-july" rel="noopener noreferrer nofollow" target="_blank">Closure of SPOM on 10 &amp; 11 July 2022</a></strong>
+<p><strong><a href="/closure-of-spom-on-10-11-july-2022" rel="noopener noreferrer nofollow" target="_blank">Closure of SPOM on 10 &amp; 11 July 2022</a></strong>
 </p>
 <p></p>
 </td>
@@ -237,7 +237,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>16 Jun 2022</p>
-<p><strong><a href="/last-call-for-spom-e-sports-challenge" rel="noopener noreferrer nofollow" target="_blank">Last call for SPOM’s E-Sports Challenge! 1 day left!</a></strong>
+<p><strong><a href="/last-call-for-spom-s-e-sports-challenge-1-day-left" rel="noopener noreferrer nofollow" target="_blank">Last call for SPOM’s E-Sports Challenge! 1 day left!</a></strong>
 </p>
 <p></p>
 </td>
@@ -245,7 +245,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>30 Apr 2022</p>
-<p><strong><a href="/spom-fb-dining-options" rel="noopener noreferrer nofollow" target="_blank">SPOM F&amp;B Dining Options!!</a></strong>
+<p><strong><a href="/spom-f-b-dining-options" rel="noopener noreferrer nofollow" target="_blank">SPOM F&amp;B Dining Options!!</a></strong>
 </p>
 <p></p>
 </td>
@@ -253,7 +253,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>31 Mar 2022</p>
-<p><strong><a href="/bistro-at-spom-march-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM March 2022 Promotion</a></strong>
+<p><strong><a href="/bistro-spom-march-2022-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM March 2022 Promotion</a></strong>
 </p>
 <p></p>
 </td>
@@ -261,7 +261,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>15 Mar 2022</p>
-<p><strong><a href="/bistro-at-spom-february-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM- February Promotion</a></strong>
+<p><strong><a href="/bistro-spom-february-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM- February Promotion</a></strong>
 </p>
 <p></p>
 </td>
@@ -269,7 +269,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>07 Feb to 06 Mar 2022</p>
-<p><strong><a href="/registration-for-spom-swimming-challenge" rel="noopener noreferrer nofollow" target="_blank">Registration for SPOM Swimming Challenge starts from 1- 15 January 2022</a></strong>
+<p><strong><a href="/registration-for-spom-swimming-challenge-starts-from-1-15-january-2022" rel="noopener noreferrer nofollow" target="_blank">Registration for SPOM Swimming Challenge starts from 1- 15 January 2022</a></strong>
 </p>
 <p></p>
 </td>
