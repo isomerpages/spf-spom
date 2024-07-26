@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>22 Jun 2024</p>
-<p><strong><a href="/link" rel="noopener noreferrer nofollow" target="_blank">SPOM Movie Night under the Stars</a></strong>
+<p><strong><a href="/spom-movie-night-under-the-stars" rel="noopener noreferrer nofollow" target="_blank">SPOM Movie Night under the Stars</a></strong>
 </p>
 <p></p>
 </td>
@@ -45,7 +45,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>19 Apr 2024</p>
-<p><strong><a href="/link" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual Dinner 2024 (Registration Broadcast)</a></strong>
+<p><strong><a href="/spom-annual-dinner-2024-registration-broadcast" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual Dinner 2024 (Registration Broadcast)</a></strong>
 </p>
 <p></p>
 </td>
@@ -69,7 +69,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>15 Jan to 24 Feb 2024</p>
-<p><strong><a href="/cny-fb-promotion" rel="noopener noreferrer nofollow" target="_blank">CNY F&amp;B Promotion</a></strong>
+<p><strong><a href="/cny-f-b-promotion" rel="noopener noreferrer nofollow" target="_blank">CNY F&amp;B Promotion</a></strong>
 </p>
 <p></p>
 </td>
