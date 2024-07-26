@@ -8,6 +8,6 @@ description: ""
 <p>27 Jan 2024</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="e-sports challenge" src="/images/sport_challenge.png">
+<img style="width: 100%" height="auto" width="100%" alt="SPOM E-Sports Challenge" src="/images/Events/2024/E_Sports_Challenge__Stumble_Guys_.jpg">
 </div>
 <p></p>
