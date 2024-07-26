@@ -132,8 +132,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>25 Nov 2022</p>
+<p><strong><a href="/registration-for-the-17th-spom-medal-is-open" rel="noopener noreferrer nofollow" target="_blank">Registration for the 17th SPOM Medal is Open! (Slots still available)</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>19 Nov to 10 Dec 2022</p>
+<p><strong><a href="/registration-for-tennis-clinic" rel="noopener noreferrer nofollow" target="_blank">Registration for Tennis Clinic 2022!</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>12 Nov 2022</p>
-<p><strong><a href="/limited-slots-remaining-for-pick-your-poison-challenge" rel="noopener noreferrer nofollow" target="_blank">Limited slots remaining for Pick-Your-Poison Challenge 2022! Sign up now!</a></strong>
+<p><strong><a href="/pick-your-poison-challenge-signup-now" rel="noopener noreferrer nofollow" target="_blank">Pick-Your-Poison Challenge for 2022 is finally here! Sign up now!</a></strong>
 </p>
 <p></p>
 </td>
@@ -148,8 +164,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>25, 27, 29 Oct 2022</p>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-25-27-29-oct" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 25, 27 &amp; 29 Oct</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>18, 20, 22 Oct 2022</p>
 <p><strong><a href="/lunch-at-spom-5-buffet-promo-18-20-22-oct" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo - 18, 20 &amp; 22 Oct 2022</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>08 Oct 2022</p>
+<p><strong><a href="/lunch-at-spom-5-buffet-promo-8oct" rel="noopener noreferrer nofollow" target="_blank">Lunch @ SPOM $5 Buffet Promo from 8 Oct 2022</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>09 Sep 2022</p>
+<p><strong><a href="/september-school-holiday-bento-making" rel="noopener noreferrer nofollow" target="_blank">September School Holiday Bento Making - 9 September (Friday), 5.00pm</a></strong>
 </p>
 <p></p>
 </td>
@@ -180,6 +220,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>17, 18 Jun 2022</p>
+<p><strong><a href="/spom-goes-to-uss-registration-closed" rel="noopener noreferrer nofollow" target="_blank">SPOM goes to USS- Registration closed</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>17 Jun 2022</p>
 <p><strong><a href="/afternoon-at-the-football-gym-tfg" rel="noopener noreferrer nofollow" target="_blank">Afternoon at The Football Gym (TFG)</a></strong>
 </p>
@@ -196,6 +244,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>30 Apr 2022</p>
+<p><strong><a href="/spom-fb-dining-options" rel="noopener noreferrer nofollow" target="_blank">SPOM F&amp;B Dining Options!!</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>31 Mar 2022</p>
 <p><strong><a href="/bistro-at-spom-march-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM March 2022 Promotion</a></strong>
 </p>
@@ -206,6 +262,22 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>15 Mar 2022</p>
 <p><strong><a href="/bistro-at-spom-february-promotion" rel="noopener noreferrer nofollow" target="_blank">Bistro @ SPOM- February Promotion</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>07 Feb to 06 Mar 2022</p>
+<p><strong><a href="/registration-for-spom-swimming-challenge" rel="noopener noreferrer nofollow" target="_blank">Registration for SPOM Swimming Challenge starts from 1- 15 January 2022</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>17 Jan 2022</p>
+<p><strong><a href="/re-opening-of-spom-tennis-court" rel="noopener noreferrer nofollow" target="_blank">Re-opening of SPOM tennis court</a></strong>
 </p>
 <p></p>
 </td>
