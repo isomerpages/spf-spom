@@ -2,31 +2,41 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SPOM
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 153, Mount Pleasant Road
+      - Singapore 298341
+      - "Tel: 6478 3040, Fax: 6254 9924"
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+      - days: Mon - Thurs
+        time: 8.30am - 10.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 11.00pm
+        description: ""
       - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 11.00am - 11.00pm
+        description: ""
+      - days: Sun
+        time: 10.00am - 10.00pm
+        description: ""
+    maps_link: ""
+    title: Senior Police Officers' Mess
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 9626 9556
+      - email: chunkhin@spom.com.sg
+      - other: "Tel : 6478 3040"
+    title: Mr Ng Chun Khin, Mess Manager
+  - content:
+      - phone: +65 8218 3817
+      - email: chiamichael@spom.com.sg
+      - other: "Tel: 64783040"
+    title: Mr Michael Chia, Asst. Manager
+  - content:
+      - phone: +65 9626 9556
+      - email: ""
+      - other: "Tel: 6478 3040"
+    title: Mr Donny Tan Soon Sin
 ---

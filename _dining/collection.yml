@@ -1,0 +1,8 @@
+collections:
+  dining:
+    output: true
+    order:
+      - Restaurant.md
+      - Wine.md
+      - Menu.md
+      - Promotion.md

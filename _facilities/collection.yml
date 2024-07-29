@@ -1,0 +1,11 @@
+collections:
+  facilities:
+    output: true
+    order:
+      - Introduction.md
+      - Bar Lounge.md
+      - Business Centre.md
+      - Dining Hall.md
+      - Gymnasium.md
+      - KTV Room.md
+      - Tennis Court.md

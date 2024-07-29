@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/spom-logo-revised.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: HOME
+    url: /
+  - title: ABOUT
+    url: /heritage
+  - title: GALLERY
+    url: /pick-your-poison-challenge
+  - title: EVENTS
+    url: /events
+  - title: FACILITIES
+    url: /introduction
+  - title: DINING
+    url: /bottle-tree-restaurant
