@@ -36,6 +36,7 @@ third_nav_title: "2023"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPOM Fare-Wel Dinner (6 Feb 2023)" src="/images/Gallery/Fare Wel Dinner (6 Feb 2023)/P2060691.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPOM Fare-Wel Dinner (6 Feb 2023)" src="/images/Gallery/Fare Wel Dinner (6 Feb 2023)/P2060679.jpg">
 </div>
