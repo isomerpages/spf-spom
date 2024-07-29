@@ -8,12 +8,12 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Overview of SPOM Building" src="/images/Heritage/Overview_of_SPOM_s_Entrance_and_Building.png">
 </div>
-<p>The Senior Police Officers’ Mess (SPOM) was once known as the Gazetted
-Officers’ Mess of the Straits Settlements Police Force. Gazetted Officers
-in today’s context are referred to as “Senior Officers” with the rank of
-probationary Assistant Superintendent and above. SPOM has become the acronym
-affectionately known to its members as the premier social hub for both
-official and private functions.</p>
+<p>“The Senior Police Officers' Mess (SPOM) was once known as the Gazetted
+Officers' Mess of the Straits Settlements Police Force. In the early 20th
+century, 'Gazetted Officers' was a term used to refer to officers holding
+the rank of probationary Assistant Superintendent and above. Today, 'Senior
+Officers' refer to officers holding the rank of probationary Inspector
+and above.</p>
 <p>SPOM has a rich heritage dating back to 1931. Its mission is to build
 espirit de corps and camaraderie amongst its members and this building
 has always been used for such gatherings.</p>
