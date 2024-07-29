@@ -24,25 +24,52 @@ special celebrations.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Operating hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am to 9.30pm (Closed on Sun and PH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Last Order</p>
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunch: 3pm / Dinner: 9pm</p>
+<p>8.30am - 11.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30am - 11.59pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.00am - 11.59pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am - 10.00pm</p>
 </td>
 </tr>
 </tbody>
