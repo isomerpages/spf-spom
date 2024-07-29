@@ -29,6 +29,7 @@ third_nav_title: "2023"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPOM AGM BBQ (2023)" src="/images/Gallery/SPOM AGM BBQ (2023)/DSC_0022.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SPOM AGM BBQ (2023)" src="/images/Gallery/SPOM AGM BBQ (2023)/DSC_0014.jpg">
 </div>
