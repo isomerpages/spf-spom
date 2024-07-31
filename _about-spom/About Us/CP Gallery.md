@@ -13,6 +13,91 @@ third_nav_title: About Us
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hoong Wee Teck</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(2015 - Present)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(2010 - 2015)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(1997 - 2010)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(1992 - 1997)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(1979 - 1992)</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Tan Teck Khim" src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_.jpg">
