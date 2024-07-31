@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>2024</p>
+<p>21 Mar 2024</p>
 <p><strong><a href="/spom-annual-2022-2023-collection" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual 2022-2023 Collection!</a></strong>
 </p>
 <p></p>
