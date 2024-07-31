@@ -34,7 +34,7 @@ third_nav_title: About Us
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force</strong>
+<p><strong>Ng Joo Hee, P.P.A(P) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,15 +74,15 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force</strong>
+<p><strong>Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force</strong>
+<p><strong>Tee Tua Ba, P.P.A(P), P.B, P.S.M.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force</strong>
+<p><strong>Goh Yong Hong, P.P.A., P.B, P.S.M.</strong>
 </p>
 </td>
 </tr>
