@@ -14,7 +14,6 @@ third_nav_title: About Us
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present_.jpg">
 </div>
@@ -34,7 +33,7 @@ third_nav_title: About Us
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ng Joo Hee, P.P.A(P) </strong>
+<p><strong>Ng Joo Hee, P.P.A(P)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,19 +53,16 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_.jpg">
 </div>
@@ -74,7 +70,7 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. </strong>
+<p><strong>Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,4 +318,5 @@ third_nav_title: About Us
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
