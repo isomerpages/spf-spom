@@ -211,10 +211,18 @@ call the mess kit. Officers follow dining-in protocols, which include a
 Loyal Toast to our President.</p>
 <p>Port has traditionally been the drink for toasting. This is one of the
 many customs inherited from the British. The choice of country of origin
-for the port even has political origin, dating back to the 18<sup>th</sup> century.
+for the port even has political origin, dating back to the 18th century.
 French wines may be pleasant but to the British, they were made warring
 enemy at that time, whereas port could come from the territory of their
-allies, the Portuguese.</p>
+allies, the Portuguese. As part of dining in, the Guest of Honour (GOH)
+would have the honour to present a drink (port or whiskey) to the Gurkha
+Pipe-Major in a silver Quaich. The Silver Quaich was first presented in
+1956 by AC A.R. Anderson, a British Officer who joined the Force in 1929
+and retired in 1959. The Quaich is a traditional Scottish bowl reserved
+for whisky. The two-handed design of the bowl incorporates trust, on the
+part of both giver and receiver. Band performances have always been part
+of the Dining-In tradition. The Singapore Police Force Band was formed
+in 1925.</p>
 <p>SPOM was marked as the 14th spot on the Balestier Heritage Trail by former
 CP and DC, together with officers from the National Heritage Board, on
 3 July 2014. The Trail is aimed at raising awareness and preserving Balestier's
