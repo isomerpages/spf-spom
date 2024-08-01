@@ -12,14 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>21 Mar 2024
-<br><strong><a href="/spom-annual-2022-2023-collection" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual 2022-2023 Collection!</a></strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>22 Jun 2024
 <br><strong><a href="/spom-movie-night-under-the-stars" rel="noopener noreferrer nofollow" target="_blank">SPOM Movie Night under the Stars</a></strong>
 </p>
@@ -46,6 +38,14 @@ description: ""
 <td rowspan="1" colspan="2">
 <p>19 Apr 2024
 <br><strong><a href="/spom-annual-dinner-2024-registration-broadcast" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual Dinner 2024 (Registration Broadcast)</a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>21 Mar 2024
+<br><strong><a href="/spom-annual-2022-2023-collection" rel="noopener noreferrer nofollow" target="_blank">SPOM Annual 2022-2023 Collection!</a></strong>
 </p>
 <p></p>
 </td>
