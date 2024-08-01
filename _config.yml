@@ -1,5 +1,5 @@
-title: SPOM
-url: https://spom.com.sg
+title: Senior Police Officers' Mess
+url: https://www.spom.com.sg
 favicon: /images/spom-favicon.ico
 colors:
   primary-color: "#424170"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:

@@ -211,16 +211,10 @@ call the mess kit. Officers follow dining-in protocols, which include a
 Loyal Toast to our President.</p>
 <p>Port has traditionally been the drink for toasting. This is one of the
 many customs inherited from the British. The choice of country of origin
-for the port even has political origin, dating back to the 18<sup>th</sup> century.
-French wines may be pleasant but to the British, they were made warring
-enemy at that time, whereas port could come from the territory of their
-allies, the Portuguese.</p>
-<p>Port has traditionally been the drink for toasting. This is one of the
-many customs inherited from the British. The choice of country of origin
 for the port even has political origin, dating back to the 18th century.
 French wines may be pleasant but to the British, they were made warring
 enemy at that time, whereas port could come from the territory of their
-allies, the Portuguese/ As part of dining in, the Guest of Honour (GOH)
+allies, the Portuguese. As part of dining in, the Guest of Honour (GOH)
 would have the honour to present a drink (port or whiskey) to the Gurkha
 Pipe-Major in a silver Quaich. The Silver Quaich was first presented in
 1956 by AC A.R. Anderson, a British Officer who joined the Force in 1929
