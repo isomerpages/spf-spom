@@ -15,7 +15,7 @@ third_nav_title: About Us
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present____new.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
