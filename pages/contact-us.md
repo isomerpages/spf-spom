@@ -12,11 +12,8 @@ locations:
       - days: Mon - Thurs
         time: 8.30am - 11.00pm
         description: ""
-      - days: Fri
+      - days: Fri - Sat
         time: 8.30am - 11.59pm
-        description: ""
-      - days: Sat
-        time: 10.00am - 10.00pm
         description: ""
       - days: Sun
         time: 10.00am - 10.00pm
