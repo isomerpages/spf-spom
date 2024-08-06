@@ -30,35 +30,13 @@ special celebrations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday to Thursday</p>
+<p>Monday to Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30am - 11.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.30am - 11.59pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.00am - 11.59pm</p>
+<p>11.00am - 9.00pm</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +47,7 @@ special celebrations.</p>
 <p>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am - 10.00pm</p>
+<p>Closed</p>
 </td>
 </tr>
 </tbody>
