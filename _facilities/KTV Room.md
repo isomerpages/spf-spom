@@ -25,4 +25,4 @@ description: ""
 set for unforgettable moments of music, laughter, and pure entertainment.
 You can also book the individual rooms for more privacy.</p>
 <p>Cost (Main Hall): $50 per 2-hour usage</p>
-<p>Cost (Room): $50 per 2-hour usage</p>
+<p>Cost (Room): $20 per 2-hour usage</p>
