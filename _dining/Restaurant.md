@@ -41,13 +41,13 @@ special celebrations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sunday</p>
+<p>Closed on Sundays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>:</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p></p>
 </td>
 </tr>
 </tbody>
