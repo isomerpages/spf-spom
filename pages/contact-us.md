@@ -10,13 +10,13 @@ locations:
       - "Tel: 6478 3040, Fax: 6254 9924"
     operating_hours:
       - days: Mon - Thurs
-        time: 8.30am - 10.00pm
-        description: ""
-      - days: Fri
         time: 8.30am - 11.00pm
         description: ""
+      - days: Fri
+        time: 8.30am - 11.59pm
+        description: ""
       - days: Sat
-        time: 11.00am - 11.00pm
+        time: 11.00am - 11.59pm
         description: ""
       - days: Sun
         time: 10.00am - 10.00pm
@@ -39,4 +39,5 @@ contacts:
       - email: ""
       - other: "Tel: 6478 3040"
     title: Mr Donny Tan Soon Sin
+feedback: ""
 ---
