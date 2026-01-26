@@ -25,8 +25,11 @@ Bay , Mr Tay Ming Wei</p>
 <li>
 <p><strong>Front Row L to R:</strong> Mr Zheng Ruilin, Mr Edwin Tan, Mr Lee
 Chee Chien</p>
-<p>Not Present: Mr Jerry Tan, Mr Justin Leong, Mr Dennis Lim, Mr Jackson
-Wee, Mr Kagen Lim, Mr Seet Choon Hui, Mr Benjamin Loong, Mr Teng Gim Loong,</p>
+</li>
+<li>
+<p><strong>Members not present in the photograph</strong>: Mr Jerry Tan,
+Mr Justin Leong, Mr Dennis Lim, Mr Jackson Wee, Mr Kagen Lim, Mr Seet Choon
+Hui, Mr Benjamin Loong, Mr Teng Gim Loong</p>
 </li>
 </ul>
 </td>
