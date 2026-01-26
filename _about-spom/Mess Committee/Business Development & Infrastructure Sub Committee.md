@@ -6,24 +6,25 @@ description: ""
 third_nav_title: Mess Committee
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Business Development &amp; Infrastructure (BD&amp;I) Sub Committee" src="/images/Committee/business_sub_committee.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/BD_I_Formal.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Back Row L to R:</strong> Mr Kang Yong Rui Jonathan, Mr Koh Boon
-Yong, Mr Lai Zihui, Mr Mohamad Shahril Aman, Ms Joanne Koh, Ms Jolene Lau,
-Mr Jimmy Foo, Mr Mohammed Ilkhan, Mr Sim Chun Quan</p>
+<p><strong>Back Row L to R:</strong> Mr Sim Chun Quan, Mr Lee Hiang Hao, Mr
+Jimmy Foo, Ms Serene Koh, Mr Koh Boon Yong, Mr Yeo Ji Ting, Mr Jonathan
+Kang</p>
 </li>
 <li>
-<p><strong>Front Row L to R:</strong> Ms Amelia Lee, Mr Gunalan Govindasamy,
-Mr Ang Eng Seng, Mr Teo Wee Meng, Mr S Kanthan Prakash, Mr Eric Teo Chao
-Boo</p>
+<p><strong>Front Row L to R:</strong> Ms Joanne Koh, Mr Loo Yew Thiam, Ms
+Amelia Lee (Team Lead), Mr Teo Wee Meng (Chairman), Mr Lin Zhenqiang (Vice
+Chairman), Mr Mohammed Ilkhan (Team Lead), Ms Grace Lim</p>
 </li>
 <li>
-<p><strong>Members not present in the photograph</strong>: Mr Yeo Ji Ting,
-Mr Loo Yew Thiam, Ms Grace Lim, Mr Lee Hiang Hao, Mr Goh Yeow Huang</p>
+<p><strong>Members not present in the photograph</strong>: Mr Teo Chao Boon
+(Team Lead), Mr Lai Zi Hui, Ms Poh Jing Hui, Mr Dillion Lee, Ms Emma Toh,
+Mr Goh Yeow Huang</p>
 </li>
 </ul>
 <p></p>
