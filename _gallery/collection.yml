@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - SPOM Annual Dinner/2025.md
       - SPOM Annual Dinner/.keep
       - 2024/.keep
       - 2024/Pick Your Poison Challenge.md
