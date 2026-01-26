@@ -6,24 +6,27 @@ description: ""
 third_nav_title: Mess Committee
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Internal Communications and Publicity (ICPC) Sub Committee" src="/images/Committee/DSC_0603.jpg">
-</div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Back Row L to R</strong>: Mr Sim Chun Quan, Mr Mohd Fazil, Mr
-Abdul Latif, Mr Jacky Loh, Mr Martin Sng, Mr Gerald Chan</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/ICPC_Formal.jpg">
+</div>
+<p><strong>Back Row L to R</strong>: Mr Sebastian Raja Benson, Ms Ong Hwee
+Peng (no longer in committee), Ms Zarifah Adilah (no longer in committee),
+Mr Martin Sng</p>
 </li>
 <li>
-<p><strong>Front Row L to R</strong>: Ms Rachel Tay, Mr Darrell Leong, Mr
-Gavin Gay, Mr Garret Chua, Ms Chia Ka Ying</p>
+<p><strong>Front Row L to R</strong>: Mr Daniel Chong Kwang Fei, Mr Gavin
+Gay, Mr Muhammad Hafiz Lim, Mr Garret Chua</p>
 </li>
 <li>
-<p><strong>Members not present in the photograph</strong>: Mr Gerald Tay,
-Mr Muhammad Hafiz Lim, Ms Vivian Goh, Mr Daniel Chong, Ms Lynn Tan, Mr
-Justin Leong, Ms Ong Hwee Peng, Ms Esther Chan,&nbsp; Mr Woo Hong Hao,
-Mr Muhammad Khidir, Ms Nicole Morgan, Mr Chew Wei Hock, Ms Vishalini, Mr
-Sebastian Raja, Mr Muhd Fitri Adnan, Ms Zarifah Adilah</p>
+<p><strong>Members not present in the photograph</strong>: Ms Vivian Goh,
+Ms Lynn Tan, Mr Justin Leong, Mr Gerald Chan Ja An, Ms Esther Chan, Mr
+Muhammad Khidir, Mr Muhd Fitri Adnan, Mr Darrell Leong, Mr Hendra Darmawan
+Mohd Ismail, Mr Hairun, Mr Hasim Bin Khalid, Mr Muhammad Khidir Bin Ismail,
+Ms Nicole Monica Morgan, Mr Chew Wei Hock, Ms Rachel Tay Li Jie, Ms Teo
+Carmel, Mr Hairunisham</p>
 </li>
 </ul>
 <p></p>
