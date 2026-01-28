@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - 2026.md
       - 2025/SPOM AGM BBQ (2025).md
       - 2025/SPOM Annual Dinner 2025.md
       - 2025/.keep
