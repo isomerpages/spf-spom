@@ -14,6 +14,12 @@ third_nav_title: About Us
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/How_Kwang_Hwee.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present____new.jpg">
 </div>
@@ -23,11 +29,12 @@ third_nav_title: About Us
 <img style="width: 100%" height="auto" width="100%" alt="Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>How Kwang Hwee</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Hoong Wee Teck</strong>
 </p>
@@ -36,19 +43,16 @@ third_nav_title: About Us
 <p><strong>Ng Joo Hee, P.P.A(P)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(2015 - Present)</p>
+<p>(2026 - Present)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(2015 - 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(2010 - 2015)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
