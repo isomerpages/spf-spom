@@ -13,47 +13,47 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>09 Jan 2026
-<br><strong><a href="https://www.spom.com.sg/spom-annual-dinner-2026-registration-closing/" rel="noopener nofollow" target="_blank">SPOM Annual Dinner 2026 - Registration Closing</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-annual-dinner-2026-registration-closing/" rel="noopener nofollow" target="_blank">SPOM Annual Dinner 2026 - Registration Closing</a></strong>
 </p>
 <hr>
 <p></p>
 <p>20 Dec 2025
-<br><strong><a href="https://www.spom.com.sg/spomazing-race-2025/" rel="noopener nofollow" target="_blank">SPOMazing Race 2025</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spomazing-race-2025/" rel="noopener nofollow" target="_blank">SPOMazing Race 2025</a></strong>
 </p>
 <hr>
 <p></p>
 <p>01 Dec 2025 to 31 Jan 2026
-<br><strong><a href="https://www.spom.com.sg/spom-cyclohunt/" rel="noopener nofollow" target="_blank">SPOM Cyclohunt</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-cyclohunt/" rel="noopener nofollow" target="_blank">SPOM Cyclohunt</a></strong>
 </p>
 <hr>
 <p></p>
 <p>28 Nov 2025
-<br><strong><a href="https://www.spom.com.sg/spom-wine-promotion/" rel="noopener nofollow" target="_blank">SPOM Wine Promotion</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-wine-promotion/" rel="noopener nofollow" target="_blank">SPOM Wine Promotion</a></strong>
 </p>
 <hr>
 <p></p>
 <p>14 Nov 2025
-<br><strong><a href="https://www.spom.com.sg/spom-beerfest-2025/" rel="noopener nofollow" target="_blank">SPOM Beerfest 2025</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-beerfest-2025/" rel="noopener nofollow" target="_blank">SPOM Beerfest 2025</a></strong>
 </p>
 <hr>
 <p></p>
 <p>13 Nov 2025
-<br><strong><a href="https://www.spom.com.sg/spom-beerfest-2025-registration-closed/" rel="noopener nofollow" target="_blank">SPOM Beerfest 2025 (Registration Closed)</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-beerfest-2025-registration-closed/" rel="noopener nofollow" target="_blank">SPOM Beerfest 2025 (Registration Closed)</a></strong>
 </p>
 <hr>
 <p></p>
 <p>08 Nov 2025
-<br><strong><a href="https://www.spom.com.sg/spom-finale-run-2025/" rel="noopener nofollow" target="_blank">SPOM Finale Run 2025</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-finale-run-2025/" rel="noopener nofollow" target="_blank">SPOM Finale Run 2025</a></strong>
 </p>
 <hr>
 <p></p>
 <p>04 Nov 2025
-<br><strong><a href="https://www.spom.com.sg/spom-durian-night-registration-2025-closed/" rel="noopener nofollow" target="_blank">SPOM Durian Night Registration 2025 (Closed)</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-durian-night-registration-2025-closed/" rel="noopener nofollow" target="_blank">SPOM Durian Night Registration 2025 (Closed)</a></strong>
 </p>
 <hr>
 <p></p>
 <p>11 Oct 2025
-<br><strong><a href="https://www.spom.com.sg/spom-post-event-pickleball-clinic-2025/" rel="noopener nofollow" target="_blank">SPOM Post Event Pickleball Clinic 2025</a></strong>
+<br><strong><a href="https://staging.d193b78fy9jp3u.amplifyapp.com/spom-post-event-pickleball-clinic-2025/" rel="noopener nofollow" target="_blank">SPOM Post Event Pickleball Clinic 2025</a></strong>
 </p>
 <hr>
 <p></p>
