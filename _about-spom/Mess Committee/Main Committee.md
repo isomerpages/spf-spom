@@ -57,13 +57,13 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Benson_Chong_He_Da___Asst_Honorary_Secretary.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Yoong_Chun_Yeon__Joseph___Honorary_Treasurer.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Tay_Yuanqi___Asst_Hon_Secretary.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Benson_Chong_He_Da___Asst_Honorary_Secretary.jpg">
 </div>
 </td>
 </tr>
@@ -73,11 +73,11 @@ third_nav_title: Mess Committee
 <br>(Honorary Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Benson Chong He Da
-<br>(Asst Hon Secretary)</p>
+<p>Mr Yoong Chun Yeon Joseph
+<br>(Honorary Secretary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Yuanqi
+<p>Mr Benson Chong He Da
 <br>(Asst Hon Secretary)</p>
 </td>
 </tr>
@@ -85,7 +85,13 @@ third_nav_title: Mess Committee
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Yoong_Chun_Yeon__Joseph___Honorary_Treasurer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Tay_Yuanqi___Asst_Hon_Secretary.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Ms_Esther_Koh_Qung_En.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,25 +100,45 @@ third_nav_title: Mess Committee
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Ms_Wong_Jaymann___Asst_Honorary_Treasurer.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Yuanqi
+<br>(Asst Hon Secretary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Koh Qung En
+<br>(Asst Hon Secretary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Jaymann
+<br>(Asst Honorary Treasurer)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Justin_Ng__Yong_Da.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yoong Chun Yeon Joseph
-<br>(Honorary Secretary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Jaymann
-<br>(Asst Honorary Treasurer)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Justin Ng Yong Da
 <br>(Asst Honorary Treasurer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
