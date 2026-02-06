@@ -20,7 +20,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PMC/Zhang_Wei_Han_resize3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PMC/Zhang_Wei_Han_resize4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
