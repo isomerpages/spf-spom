@@ -96,6 +96,9 @@ third_nav_title: Mess Committee
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/Mr_Justin_Ng__Yong_Da.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -108,7 +111,8 @@ third_nav_title: Mess Committee
 <br>(Asst Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Justin Ng Yong Da
+<br>(Asst Honorary Treasurer)</p>
 </td>
 </tr>
 <tr>
