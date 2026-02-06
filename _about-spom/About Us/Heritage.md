@@ -228,6 +228,3 @@ CP and DC, together with officers from the National Heritage Board, on
 3 July 2014. The Trail is aimed at raising awareness and preserving Balestier's
 rich heritage. Go on a self-guided tour using this map here to discover
 vanishing trades and traditions of the Balestier community.</p>
-<p>SPOM Heritage sub-committee welcomes contributions of artefacts or photographs
-related to SPOM, which are of heritage value. Contributors may contact
-the Mess Manager, Mr Ng Chun Khin at <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>.</p>
