@@ -16,7 +16,7 @@ Koh</p>
 </li>
 <li>
 <p><strong>Back Row L to R: </strong>Mr Benson Chong, Mr Tay Yuanqi, Mr Kek
-Chin Ken</p>
+Chin Ken (No Longer in Committee)</p>
 </li>
 </ul>
 <p></p>
