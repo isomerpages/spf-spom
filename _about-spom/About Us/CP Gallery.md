@@ -16,17 +16,19 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/How_Kwang_Hwee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/How_Kwang_Hwee_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present____new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Hoong_Wee_Teck__2015___Present____new_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_resize.jpg">
 </div>
 </td>
 </tr>
@@ -57,18 +59,21 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_resize.jpg">
 </div>
 </td>
 </tr>
@@ -99,18 +104,21 @@ third_nav_title: About Us
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Tan Teck Khim" src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_resize.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Cheam Kim" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_resize.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="J.Le Cain" src="/images/CP/J_Le_Cain__P_J_G___P_P_A_Commissioner_of_Police_Singapore_Police_Force__1963___1967_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/J_Le_Cain__P_J_G___P_P_A_Commissioner_of_Police_Singapore_Police_Force__1963___1967_resize.jpg">
 </div>
 </th>
 </tr>
