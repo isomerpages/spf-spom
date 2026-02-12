@@ -201,21 +201,22 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="R.E. Foulger" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="A.H. Dickinson" src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="R.E. Foulger" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="R.H. de S Onraet" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="A.H. Dickinson" src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
 </div>
 </td>
 </tr>
@@ -250,17 +251,18 @@ third_nav_title: About Us
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="H. Fairburn" src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="H. Fairburn" src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="A.R. Chancellor" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="A.R. Chancellor" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="W.A Cuscaden" src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="W.A Cuscaden" src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
 </div>
 </td>
 </tr>
@@ -295,17 +297,18 @@ third_nav_title: About Us
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="E.G. Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="E.G. Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="S. Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="S. Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
 </div>
 </td>
 </tr>
