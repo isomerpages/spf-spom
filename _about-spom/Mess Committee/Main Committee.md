@@ -74,7 +74,7 @@ third_nav_title: Mess Committee
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yoong Chun Yeon Joseph
-<br>(Honorary Secretary)</p>
+<br>(Honorary Treasurer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benson Chong He Da
