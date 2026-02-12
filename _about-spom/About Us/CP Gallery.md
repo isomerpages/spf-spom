@@ -21,6 +21,7 @@ third_nav_title: About Us
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Hoong_Wee_Teck__2015___Present____new_resize.jpg">
 </div>
@@ -66,6 +67,7 @@ third_nav_title: About Us
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_resize.jpg">
 </div>
@@ -110,6 +112,7 @@ third_nav_title: About Us
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_resize.jpg">
@@ -157,6 +160,7 @@ third_nav_title: About Us
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="N.G. Morris" src="/images/CP/N_G_Morris__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1952___1957_.jpg">
 </div>
@@ -202,11 +206,14 @@ third_nav_title: About Us
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="A.H. Dickinson" src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="R.H. de S Onraet" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
 </div>
