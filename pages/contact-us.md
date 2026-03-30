@@ -26,9 +26,9 @@ locations:
 contacts:
   - content:
       - phone: +65 9626 9556
-      - email: chunkhin@spom.com.sg
+      - email: chinken@spom.com.sg
       - other: "Tel : 6478 3040"
-    title: Mr Ng Chun Khin, Mess Manager
+    title: Mr Kek Chin Ken, Mess Manager
   - content:
       - phone: +65 8218 3817
       - email: chiamichael@spom.com.sg

@@ -7,20 +7,16 @@ third_nav_title: Mess Committee
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food and Beverage" src="/images/Committee/Food_and_Beverage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee/F_B_Formal.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Back Row L to R</strong>: Mr Lee Wei Yang, Mr Jason Gan, Mr Gilbert
-Chen, Mr Tan Hong Han, Mr Kor Ching Kiat</p>
+<p><strong>Front Row L to R</strong>: Bernice Low, Phoa Hui Lin (Vice Chair),
+Justin Wong (Chair), Chua Sin Ting</p>
 </li>
 <li>
-<p><strong>Front Row L to R</strong>: Ms Bernice Low, Ms Phoa Hui Lin, Mr
-Justin Wong, Ms Chua Sin Ting, Ms Sinthu Ragupalan</p>
-</li>
-<li>
-<p><strong>Members not present in the photograph</strong>: Mr Jonathan Chua,
-Ms Isabella Su</p>
+<p><strong>Back Row L to R</strong>: Jason Gan, Jonathan Chua (no longer
+in committee), James Kor (no longer in committee), Lee Wei Yang</p>
 </li>
 </ul>
 <p></p>

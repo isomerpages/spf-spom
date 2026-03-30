@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mess Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Chun Khin - <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
+<p>Mr Kek Chin Ken - <a href="mailto:chinken@spom.com.sg" rel="noopener nofollow" target="_blank">chinken@spom.com.sg</a>
 </p>
 </td>
 </tr>
@@ -137,5 +137,5 @@ variant: tiptap
 <h3>Internal Communications</h3>
 <p>We welcome any suggestions and feedback. If you have something to share
 with us, we would like to hear from you. For matters regarding Internal
-Communications and the SPOM website, please email to <a href="mailto:chunkhin@spom.com.sg" rel="noopener noreferrer nofollow" target="_blank">chunkhin@spom.com.sg</a>
+Communications and the SPOM website, please email to <a href="mailto:chinken@spom.com.sg" rel="noopener nofollow" target="_blank">chinken@spom.com.sg</a>
 </p>

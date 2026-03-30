@@ -14,20 +14,30 @@ third_nav_title: About Us
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hoong Wee Teck" src="/images/CP/Hoong_Wee_Teck__2015___Present____new.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ng Joo Hee, P.P.A(P) Commissioner of Police Singapore Police Force" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/How_Kwang_Hwee_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Hoong_Wee_Teck__2015___Present____new_resize.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Ng_Joo_Hee__P_P_A_P__Commissioner_of_Police_Singapore_Police_Force__2010___2015_resize.jpg">
+</div>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>How Kwang Hwee</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Hoong Wee Teck</strong>
 </p>
@@ -36,35 +46,36 @@ third_nav_title: About Us
 <p><strong>Ng Joo Hee, P.P.A(P)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(2015 - Present)</p>
+<p>(2026 - Present)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(2015 - 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(2010 - 2015)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Khoo Boon Hui, P.J.G, P.P.A(P), P.B.S. Commissioner of Police Singapore Police Force" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Khoo_Boon_Hui__P_J_G__P_P_A_P___P_B_S__Commissioner_of_Police_Singapore_Police_Force__1997___2010_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tee Tua Ba, P.P.A(P), P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Tee_Tua_Ba__P_P_A_P___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1992___1997_resize.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Goh Yong Hong, P.P.A., P.B, P.S.M. Commissioner of Police Singapore Police Force" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Goh_Yong_Hong__P_P_A___P_B__P_S_M__Commissioner_of_Police_Singapore_Police_Force__1979___1992_resize.jpg">
 </div>
 </td>
 </tr>
@@ -95,18 +106,22 @@ third_nav_title: About Us
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Tan Teck Khim" src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Tan_Teck_Khim__D_U_B_C___P_J_G___P_P_A__Commissioner_of_Police_Singapore_Police_Force__1971___1972_resize.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Cheam Kim" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/Cheam_Kim_Seang__P_P_A_Commissioner_of_Police_Singapore_Police_Force__1967___1971_resize.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="J.Le Cain" src="/images/CP/J_Le_Cain__P_J_G___P_P_A_Commissioner_of_Police_Singapore_Police_Force__1963___1967_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/J_Le_Cain__P_J_G___P_P_A_Commissioner_of_Police_Singapore_Police_Force__1963___1967_resize.jpg">
 </div>
 </th>
 </tr>
@@ -145,6 +160,7 @@ third_nav_title: About Us
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="N.G. Morris" src="/images/CP/N_G_Morris__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1952___1957_.jpg">
 </div>
@@ -185,18 +201,22 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="R.E. Foulger" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="R.E. Foulger" src="/images/CP/R_E__Foulger__C_M_G_Commissioner_of_Police_Singapore_Police_Force__1946___1951_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="A.H. Dickinson" src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="A.H. Dickinson" src="/images/CP/A_H__Dickinson_C_M_G___D_B_E_Inspector_General_Straits_Settlement_Police__1939___1946_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="R.H. de S Onraet" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CP/R_H__de_S__Onraet_C_M_G_Inspector_General_Straits_Settlement_Police__1935___1939_.jpg">
 </div>
 </td>
 </tr>
@@ -231,17 +251,18 @@ third_nav_title: About Us
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="H. Fairburn" src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="H. Fairburn" src="/images/CP/H__Fairburn_C_M_G___K_P_M_Inspector_General_Straits_Settlement_Police__1925___1935_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="A.R. Chancellor" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="A.R. Chancellor" src="/images/CP/A_R__Chancellor_C_B_E_Inspector_General_Straits_Settlement_Police__1914___1923_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="W.A Cuscaden" src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="W.A Cuscaden" src="/images/CP/W_A_Cuscaden_P_S_O___K_P_M_Inspector_General_Straits_Settlement_Police__1906___1914_.jpg">
 </div>
 </td>
 </tr>
@@ -276,17 +297,18 @@ third_nav_title: About Us
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="E.G. Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="E.G. Pennefather" src="/images/CP/E_G__Pennefather_Inspector_General_Straits_Settlement_Police__1895___1906_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="S. Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="S. Dunlop" src="/images/CP/S__Dunlop__C_M_G_Inspector_General_Straits_Settlement_Police__1876___1890_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="T. Dunman" src="/images/CP/T__Dunman_Inspector_General_Straits_Settlement_Police__1843___1871_.jpg">
 </div>
 </td>
 </tr>
